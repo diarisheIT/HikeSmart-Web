@@ -100,18 +100,27 @@ def get_cached_weather(prompt):
     return weather_info
 
 # Original weather forecast function
+# Updated weather forecast function with no caching and improved date handling
 def get_forecast_for_day(prompt):
+    today = datetime.now()
+    date_requested = None
+    readable_date = "Today"
+
     # Try using dateparser for natural language input
     results = search_dates(prompt, settings={"PREFER_DATES_FROM": "future"})
     if results:
         parsed_date = results[0][1]
-        date_requested = parsed_date.strftime("%Y%m%d")
-        readable_date = parsed_date.strftime("%A, %Y-%m-%d")
-    else:
-        date_requested = None
-        readable_date = "Today"
-
-    # If no date found, use today's weather
+        
+        # Check if the parsed date is actually today
+        is_today = (parsed_date.year == today.year and 
+                   parsed_date.month == today.month and 
+                   parsed_date.day == today.day)
+        
+        if not is_today:
+            date_requested = parsed_date.strftime("%Y%m%d")
+            readable_date = parsed_date.strftime("%A, %Y-%m-%d")
+    
+    # If no date found or date is today, use current weather
     if not date_requested:
         url = "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en"
         try:
@@ -153,7 +162,7 @@ def get_forecast_for_day(prompt):
                 "alert": f"Weather data fetch error: {str(e)}"
             }
 
-    # Use forecast API for future dates
+    # For future forecasts
     url = "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=fnd&lang=en"
     try:
         response = requests.get(url)
@@ -399,7 +408,8 @@ def ready():
 def weather():
     data = request.get_json()
     prompt = data.get('prompt', '')
-    weather_info = get_cached_weather(prompt)
+    # Get weather directly without caching
+    weather_info = get_forecast_for_day(prompt)
     return jsonify(weather_info)
 
 @app.route('/api/trails', methods=['GET'])
@@ -413,8 +423,8 @@ def recommend():
     data = request.get_json()
     preference = data.get('preference', '')
     
-    # Get cached weather information
-    weather_info = get_cached_weather(preference)
+    # Get weather directly without caching
+    weather_info = get_forecast_for_day(preference)
     
     # Get trail data (using cache if available)
     geojson, station_cache, _ = load_trail_data()
