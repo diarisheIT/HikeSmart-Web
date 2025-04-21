@@ -1,1632 +1,1635 @@
 {
-  "Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road)": {
-    "name": "Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road)",
-    "startLocation": "The Peak",
-    "length": 6.33,
-    "difficulty": "Moderate",
-    "station": "The Peak Police Station; Peak Road",
-    "stationType": "bus_station",
-    "distance": 2.26,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MkpYc3Jud1ZjS2RFbzE1Qkhza0htdz09"
-  },
-  "Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise)": {
-    "name": "Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise)",
-    "startLocation": "Pok Fu Lam Reservoir Road",
-    "length": 4.33,
-    "difficulty": "Moderate",
-    "station": "The Peak Police Station; Peak Road",
-    "stationType": "bus_station",
-    "distance": 2.26,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TnY1M1V3ajM0MEZnRE5TbzRSVUJ3QT09"
-  },
-  "Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap)": {
-    "name": "Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap)",
-    "startLocation": "Peel Rise",
-    "length": 5.86,
-    "difficulty": "Moderate",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.28,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cGRqOGNYRGlmUTFxbjB3TEVaakxHdz09"
-  },
-  "Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap)": {
-    "name": "Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap)",
-    "startLocation": "Wan Chai Gap",
-    "length": 7.23,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZFJyWllCUGJpMUJublRIZUVPWWF0dz09"
-  },
-  "Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road)": {
-    "name": "Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road)",
-    "startLocation": "Mount Parker Road",
-    "length": 4.46,
-    "difficulty": "Moderate",
-    "station": "Chai Wan Ambulance Station; Fei Tsui Road",
-    "stationType": "bus_station",
-    "distance": 7.57,
-    "website": "https://www.hiking.gov.hk/trail/info/id/N3BGSE14SVlMSE9yVzQva1RNRTN5Zz09"
-  },
-  "Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan)": {
-    "name": "Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan)",
-    "startLocation": "Tai Tam Road",
-    "length": 7.13,
-    "difficulty": "Moderate",
-    "station": "Shek O Police Station; Shek O Road",
-    "stationType": "bus_station",
-    "distance": 8.98,
-    "website": "https://www.hiking.gov.hk/trail/info/id/czFnaDRTUUFySjBwT1VDeWxSSGM3QT09"
-  },
-  "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)": {
-    "name": "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)",
-    "startLocation": "Wong Nai Chung Gap",
-    "length": 3.5,
-    "difficulty": "Demanding",
-    "station": "Tai Koo",
-    "stationType": "subway_station",
-    "distance": 3.06,
-    "website": "https://www.hiking.gov.hk/trail/info/id/YXhBNmNMRldCL0wwZHE5ZGR1aWRHQT09"
-  },
-  "Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan)": {
-    "name": "Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan)",
-    "startLocation": "To Tei Wan",
-    "length": 7.81,
-    "difficulty": "Demanding",
-    "station": "Shek O Police Station; Shek O Road",
-    "stationType": "bus_station",
-    "distance": 1.18,
-    "website": "https://www.hiking.gov.hk/trail/info/id/QVVxLzJWeGxNUndtYUNXY2VpK3QxUT09"
-  },
-  "Lantau Trail Section 10 (Shui Hau To Cheung Sha)": {
-    "name": "Lantau Trail Section 10 (Shui Hau To Cheung Sha)",
-    "startLocation": "Shui Hau",
-    "length": 5.77,
-    "difficulty": "Moderate",
-    "station": "Cheung Sha Fire Station",
-    "stationType": "bus_station",
-    "distance": 1.83,
-    "website": "https://www.hiking.gov.hk/trail/info/id/YS9XR04yWE5GRnBRZTFFS3E3bjlKdz09"
-  },
-  "Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po)": {
-    "name": "Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po)",
-    "startLocation": "Sham Wat Road",
-    "length": 7.77,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ckcwQUpQUHEzcWRhZVdDYkZsQlR2UT09"
-  },
-  "Lantau Trail Section 6 (Man Cheung Po To Tai O)": {
-    "name": "Lantau Trail Section 6 (Man Cheung Po To Tai O)",
-    "startLocation": "Man Cheung Po",
-    "length": 1.89,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NjVmZUw2OURKcjZkQldxYlN3TjJXQT09"
-  },
-  "Lantau Trail Section 8 (Kau Ling Chung To Shek Pik)": {
-    "name": "Lantau Trail Section 8 (Kau Ling Chung To Shek Pik)",
-    "startLocation": "Kau Ling Chung",
-    "length": 4.74,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Nk5VMHQ4YmlkMFZkV0JxdDdtSS94Zz09"
-  },
-  "Lantau Trail Section 9 (Shek Pik To Shui Hau)": {
-    "name": "Lantau Trail Section 9 (Shek Pik To Shui Hau)",
-    "startLocation": "Shek Pik",
-    "length": 6.42,
-    "difficulty": "Moderate",
-    "station": "South Lantau Submarine Cable Station",
-    "stationType": "bus_station",
-    "distance": 1.31,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZjQ0ZG5zT3FFbm5HYUlwVmNtck5QUT09"
-  },
-  "Lantau Trail Section 1 (Mui Wo To Nam Shan)": {
-    "name": "Lantau Trail Section 1 (Mui Wo To Nam Shan)",
-    "startLocation": "Mui Wo",
-    "length": 2.21,
-    "difficulty": "Easy",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 1.81,
-    "website": "https://www.hiking.gov.hk/trail/info/id/YUNwM2czOWpZU2hrTXF3NlRTU3hNZz09"
-  },
-  "Lantau Trail Section 4 (Ngong Ping To Sham Wat Road)": {
-    "name": "Lantau Trail Section 4 (Ngong Ping To Sham Wat Road)",
-    "startLocation": "Ngong Ping",
-    "length": 5.2,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/bFFXSU03dVRuU1VQSHpMRThST3Zldz09"
-  },
-  "Lantau Trail Section 7 (Tai O To Kau Ling Chung)": {
-    "name": "Lantau Trail Section 7 (Tai O To Kau Ling Chung)",
-    "startLocation": "Tai O",
-    "length": 9.84,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Qk9WL0ZDY2huUFJSYVg4Rm5Gb3h3Zz09"
-  },
-  "Lantau Trail Section 11 (Cheung Sha To Pui O)": {
-    "name": "Lantau Trail Section 11 (Cheung Sha To Pui O)",
-    "startLocation": "Cheung Sha",
-    "length": 4.17,
-    "difficulty": "Moderate",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 0.65,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NktmYXJYQWVwNmMrM016d09JbkYrQT09"
-  },
-  "Lantau Trail Section 12 (Pui O To Mui Wo)": {
-    "name": "Lantau Trail Section 12 (Pui O To Mui Wo)",
-    "startLocation": "Pui O",
-    "length": 9.0,
-    "difficulty": "Demanding",
-    "station": "Mui Wo Police Station",
-    "stationType": "bus_station",
-    "distance": 0.42,
-    "website": "https://www.hiking.gov.hk/trail/info/id/aU9nYU5ZRzBPU0VIWWJ0NUhkK1NWZz09"
-  },
-  "Lantau Trail Section 3 (Pak Kung Au To Ngong Ping)": {
-    "name": "Lantau Trail Section 3 (Pak Kung Au To Ngong Ping)",
-    "startLocation": "Pak Kung Au",
-    "length": 4.45,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NWJYSHpGd0d5NmZNdXdtQmM4UTBRdz09"
-  },
-  "Lantau Trail Section 2 (Nam Shan To Pak Kung Au)": {
-    "name": "Lantau Trail Section 2 (Nam Shan To Pak Kung Au)",
-    "startLocation": "Nam Shan",
-    "length": 6.34,
-    "difficulty": "Difficult",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 1.81,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SVdvZDdnTENQZXl0byt5QndsQ0NmZz09"
-  },
-  "MacLehose Trail Section 1 (Pak Tam Chung To Long Ke)": {
-    "name": "MacLehose Trail Section 1 (Pak Tam Chung To Long Ke)",
-    "startLocation": "Pak Tam Chung",
-    "length": 10.1,
-    "difficulty": "Demanding",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.61,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VFFUbFFNOXNXTHNWU2FqT09UTjlOZz09"
-  },
-  "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)": {
-    "name": "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)",
-    "startLocation": "Long Ke",
-    "length": 14.33,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/d0pFSWc1N1dWdkh3aStSajBvUHlmUT09"
-  },
-  "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)": {
-    "name": "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)",
-    "startLocation": "Kei Ling Ha",
-    "length": 12.84,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/aWhDRVFZbmpET0pMazRxdWhhU0hIUT09"
-  },
-  "MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road)": {
-    "name": "MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road)",
-    "startLocation": "Tate\u2019s Cairn",
-    "length": 11.43,
-    "difficulty": "Demanding",
-    "station": "MTR Lai Chi Kok Station",
-    "stationType": "bus_station",
-    "distance": 2.03,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MW45T1puY3I1OVJiaDRudGNuNEgxZz09"
-  },
-  "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)": {
-    "name": "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)",
-    "startLocation": "Tai Po Road",
-    "length": 4.2,
-    "difficulty": "Moderate",
-    "station": "The Apex",
-    "stationType": "bus_station",
-    "distance": 1.9,
-    "website": "https://www.hiking.gov.hk/trail/info/id/bStIb016ZGszVk5WWElJN2FzdTdRdz09"
-  },
-  "MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass)": {
-    "name": "MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass)",
-    "startLocation": "Shing Mun Reservoir",
-    "length": 7.0,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MzVpUXNrWFZsM3NvcEppamc4emhIZz09"
-  },
-  "MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk)": {
-    "name": "MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk)",
-    "startLocation": "Lead Mine Pass",
-    "length": 9.41,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cm1EdG9ycVhDTEFrT3NGYmFsYXdWdz09"
-  },
-  "MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai)": {
-    "name": "MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai)",
-    "startLocation": "Route Twisk",
-    "length": 6.15,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VGdKd0dZMzBTK3lKYjR3Z1dTR291UT09"
-  },
-  "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)": {
-    "name": "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)",
-    "startLocation": "Tin Fu Tsai",
-    "length": 15.22,
-    "difficulty": "Difficult",
-    "station": "Tuen Mun Station Terminus",
-    "stationType": "bus_station",
-    "distance": 0.83,
-    "website": "https://www.hiking.gov.hk/trail/info/id/N2ptQ3BGSUdScnRGTzllNXZ6Uk8vUT09"
-  },
-  "MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha)": {
-    "name": "MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha)",
-    "startLocation": "Pak Tam Au",
-    "length": 9.14,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/aG1rVm1JUWVFcUVyT2RXL3Z5RnpUdz09"
-  },
-  "Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir)": {
-    "name": "Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir)",
-    "startLocation": "Stanley Gap Road",
-    "length": 4.82,
-    "difficulty": "Demanding",
-    "station": "Chung Hom Kok Fire Station",
-    "stationType": "bus_station",
-    "distance": 5.37,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TCtocVVTL1JuMXpaQVBSOFBYYzRSUT09"
-  },
-  "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)": {
-    "name": "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)",
-    "startLocation": "Lam Tin",
-    "length": 9.53,
-    "difficulty": "Demanding",
-    "station": "Sin Fat Road; Near Lam Tin Station",
-    "stationType": "bus_station",
-    "distance": 0.13,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Z05QUVAxMnphOXBCSGlwSkhKVE1Zdz09"
-  },
-  "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)": {
-    "name": "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)",
-    "startLocation": "Sha Tin Pass",
-    "length": 8.2,
-    "difficulty": "Moderate",
-    "station": "Wong Tai Sin Fire Station",
-    "stationType": "bus_station",
-    "distance": 2.18,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Sk1oNnZ1NlE3VksxUU1CekZYYkZuUT09"
-  },
-  "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)": {
-    "name": "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)",
-    "startLocation": "Tai Po Road",
-    "length": 5.47,
-    "difficulty": "Moderate",
-    "station": "Hin Keng",
-    "stationType": "subway_station",
-    "distance": 2.84,
-    "website": "https://www.hiking.gov.hk/trail/info/id/M3ArN2RxYmROLzBKNlhxRndlRUdzZz09"
-  },
-  "Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha)": {
-    "name": "Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha)",
-    "startLocation": "Shing Mun Reservoir",
-    "length": 10.36,
-    "difficulty": "Demanding",
-    "station": "The Apex",
-    "stationType": "bus_station",
-    "distance": 2.57,
-    "website": "https://www.hiking.gov.hk/trail/info/id/anRlQ0Q2VTA5SUhNQjBTSm9tRGJhUT09"
-  },
-  "Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill)": {
-    "name": "Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill)",
-    "startLocation": "Yuen Tun Ha",
-    "length": 8.95,
-    "difficulty": "Difficult",
-    "station": "\u65b0\u9054\u5ee3\u5834",
-    "stationType": "bus_station",
-    "distance": 2.06,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dGljejY4cWNjZ3E5Z2wwK1V3cWtJZz09"
-  },
-  "Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng)": {
-    "name": "Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng)",
-    "startLocation": "Cloudy Hill",
-    "length": 10.26,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TjFJNDlpb0FhSmdCS25nYTg5K0pmQT09"
-  },
-  "Wilson Trail Section 10 (Pat Sin Leng To Nam Chung)": {
-    "name": "Wilson Trail Section 10 (Pat Sin Leng To Nam Chung)",
-    "startLocation": "Pat Sin Leng",
-    "length": 6.91,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/azJKaHRIeUFIbXZWN0UyVU1ZS1hFdz09"
-  },
-  "Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass)": {
-    "name": "Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass)",
-    "startLocation": "Tseng Lan Shue",
-    "length": 7.94,
-    "difficulty": "Demanding",
-    "station": "Denon Terrace",
-    "stationType": "bus_station",
-    "distance": 0.37,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Q3hxOUd0N3FPcVZMeXdBZi93U0t0dz09"
-  },
-  "Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin)": {
-    "name": "Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin)",
-    "startLocation": "Wong Nai Chung Reservoir",
-    "length": 7.0,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cktQWGdYRkF1MEsvNXFHQVk2Sm5FQT09"
-  },
-  "Lung Mun Country Trail": {
-    "name": "Lung Mun Country Trail",
-    "startLocation": "Chuen Lung",
-    "length": 4.94,
-    "difficulty": "Demanding",
-    "station": "Tsuen Wan Railway Station",
-    "stationType": "bus_station",
-    "distance": 3.03,
-    "website": "https://www.hiking.gov.hk/trail/info/id/STlIVWFKdDRmNjRZVUFIM3pyL04rUT09"
-  },
-  "Nam Chung Country Trail": {
-    "name": "Nam Chung Country Trail",
-    "startLocation": "Nam Chung",
-    "length": 5.42,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NUVWdXZxR2NuU0Y1OU5pOFloSDBCZz09"
-  },
-  "Hok Tau Country Trail": {
-    "name": "Hok Tau Country Trail",
-    "startLocation": "Hok Tau Road",
-    "length": 2.54,
-    "difficulty": "Moderate",
-    "station": "Hok Tau Organic Farm",
-    "stationType": "bus_station",
-    "distance": 0.14,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MHQzMHVZSGU5S3dNUEdYdEl1bUFHdz09"
-  },
-  "Yuen Tun Country Trail": {
-    "name": "Yuen Tun Country Trail",
-    "startLocation": "Tsing Lung Tau",
-    "length": 9.11,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RlZDWHhKMGtQZzBqL2l0eGRaajl2dz09"
-  },
-  "Lau Shui Heung Country Trail": {
-    "name": "Lau Shui Heung Country Trail",
-    "startLocation": "Lau Shui Heung Reservoir",
-    "length": 4.5,
-    "difficulty": "Demanding",
-    "station": "Hok Tau Organic Farm",
-    "stationType": "bus_station",
-    "distance": 1.05,
-    "website": "https://www.hiking.gov.hk/trail/info/id/U2ZUQWFtNks2Rjh6a1grT0tGR3p5UT09"
-  },
-  "Pottinger Peak Country Trail": {
-    "name": "Pottinger Peak Country Trail",
-    "startLocation": "Shek O Ma Tong Au",
-    "length": 1.68,
-    "difficulty": "Moderate",
-    "station": "Chai Wan Ambulance Station; Fei Tsui Road",
-    "stationType": "bus_station",
-    "distance": 2.76,
-    "website": "https://www.hiking.gov.hk/trail/info/id/WTlaMHl6akpNYk9BRGViczlXaFZhQT09"
-  },
-  "Tai Tan Country Trail": {
-    "name": "Tai Tan Country Trail",
-    "startLocation": "Hau Tong Kai",
-    "length": 7.06,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZzhaM011eEwyWkZuWVoyUjJ0aUdMUT09"
-  },
-  "Lung Ha Wan Country Trail": {
-    "name": "Lung Ha Wan Country Trail",
-    "startLocation": "Tai Hang Tun",
-    "length": 2.42,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/YXpGRThNNHNZeXB4dHppcmphemc3QT09"
-  },
-  "Cheung Sheung Country Trail": {
-    "name": "Cheung Sheung Country Trail",
-    "startLocation": "Hoi Ha Road",
-    "length": 4.37,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/aEVHbmRZbkJYL3FvR0EvVUNRRWFSZz09"
-  },
-  "Luk Wu Country Trail": {
-    "name": "Luk Wu Country Trail",
-    "startLocation": "Sai Kung Sai Wan Road",
-    "length": 5.27,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cTdXUHRZbytJbUo0eEtTNVNMT3I0dz09"
-  },
-  "Pak Tam Country Trail": {
-    "name": "Pak Tam Country Trail",
-    "startLocation": "Pak Tam Au",
-    "length": 1.94,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SUYvb0pkOWZMdWFTak5BWWJvK3RLQT09"
-  },
-  "Sheung Yiu Country Trail": {
-    "name": "Sheung Yiu Country Trail",
-    "startLocation": "Sheung Yiu",
-    "length": 3.16,
-    "difficulty": "Moderate",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 1.54,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cG9Hc1Z4bTEzN3ZkZ1p6VExnTWFhdz09"
-  },
-  "High Junk Peak Country Trail": {
-    "name": "High Junk Peak Country Trail",
-    "startLocation": "Ng Fai Tin",
-    "length": 6.35,
-    "difficulty": "Demanding",
-    "station": "\u5751\u53e3(\u5317)(\u5c07\u8ecd\u6fb3\u91ab\u9662)",
-    "stationType": "bus_station",
-    "distance": 2.92,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SzAxekR1U1dCNytYL3U3NW9PWnVWQT09"
-  },
-  "Ma On Shan Country Trail": {
-    "name": "Ma On Shan Country Trail",
-    "startLocation": "Ma On Shan Barbecue Area",
-    "length": 4.64,
-    "difficulty": "Moderate",
-    "station": "Yao'an Bus Terminal",
-    "stationType": "bus_station",
-    "distance": 2.32,
-    "website": "https://www.hiking.gov.hk/trail/info/id/QThMbWJpZ010MlZRYkFlMzU5UXY0QT09"
-  },
-  "Chi Ma Wan Country Trail": {
-    "name": "Chi Ma Wan Country Trail",
-    "startLocation": "Shap Long Campsite",
-    "length": 17.84,
-    "difficulty": "Difficult",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 1.83,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZDU4aERwb1FhczExTUxFNk9YOU5TUT09"
-  },
-  "Wong Lung Hang Country Trail": {
-    "name": "Wong Lung Hang Country Trail",
-    "startLocation": "Sheung Tung Au",
-    "length": 2.24,
-    "difficulty": "Demanding",
-    "station": "Yung Yat House Yat Tung Estate",
-    "stationType": "bus_station",
-    "distance": 2.17,
-    "website": "https://www.hiking.gov.hk/trail/info/id/OEMxQmNSNHUrVjBDV0xOMHJtYURldz09"
-  },
-  "South Lantau Country Trail": {
-    "name": "South Lantau Country Trail",
-    "startLocation": "Nam Shan",
-    "length": 10.34,
-    "difficulty": "Demanding",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 1.6,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VkxUMG1za3hybXBtOEFJZ0h1VUltQT09"
-  },
-  "Keung Shan Country Trail": {
-    "name": "Keung Shan Country Trail",
-    "startLocation": "Tai O Road",
-    "length": 8.21,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/d1E5STBlOVVkcmNTeks3cHM5Zm9BQT09"
-  },
-  "Nei Lak Shan Country Trail": {
-    "name": "Nei Lak Shan Country Trail",
-    "startLocation": "Dong Shan Fa Mun",
-    "length": 4.65,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/OGdwWlNpL1VmT3FQYndjVjljNklCZz09"
-  },
-  "Hong Pak Country Trail": {
-    "name": "Hong Pak Country Trail",
-    "startLocation": "Quarry Bay Management Centre",
-    "length": 4.01,
-    "difficulty": "Moderate",
-    "station": "MTR Tai Koo Station",
-    "stationType": "bus_station",
-    "distance": 1.73,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UVZUTW1PdmF5c1BSWU5JRjZVZ29DZz09"
-  },
-  "Wu Kau Tang Country Trail": {
-    "name": "Wu Kau Tang Country Trail",
-    "startLocation": "Wu Kau Tang Tin Sum",
-    "length": 2.32,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/OXArZzdyQnRlN2d4VlN6UVNDNHpFZz09"
-  },
-  "Ping Chau Country Trail": {
-    "name": "Ping Chau Country Trail",
-    "startLocation": "Ping Chau Pier",
-    "length": 5.8,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VE4wRlNxT1hZM1NqWkpKYVBmS1M2dz09"
-  },
-  "Tei Tong Tsai Country Trail": {
-    "name": "Tei Tong Tsai Country Trail",
-    "startLocation": "Tung Chung Road",
-    "length": 1.95,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VTAxcjA3Sks4RGorOUdwZzRRbVBFdz09"
-  },
-  "Tai Lam Chung Country Trail": {
-    "name": "Tai Lam Chung Country Trail",
-    "startLocation": "Ma On Kong Warden Post",
-    "length": 6.14,
-    "difficulty": "Demanding",
-    "station": "Kam Sheung Rd Station PTI",
-    "stationType": "bus_station",
-    "distance": 2.65,
-    "website": "https://www.hiking.gov.hk/trail/info/id/anYvYnJvaVlCeStTZ2VwTVNFbFkrZz09"
-  },
-  "Kap Lung Ancient Trail Country Trail": {
-    "name": "Kap Lung Ancient Trail Country Trail",
-    "startLocation": "Tsuen Kam Au",
-    "length": 1.8,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UVNWcm9oRWYwdU1xYWhjVk1VY2ZxZz09"
-  },
-  "Yuen Tsuen Ancient Trail Country Trail": {
-    "name": "Yuen Tsuen Ancient Trail Country Trail",
-    "startLocation": "Ha Fa Shan, Tsuen Wan",
-    "length": 12.31,
-    "difficulty": "Difficult",
-    "station": "Tsuen Wan Police Station",
-    "stationType": "bus_station",
-    "distance": 2.22,
-    "website": "https://www.hiking.gov.hk/trail/info/id/V2JJVDNVR25Lc0lnV1pZdC9NdHVBZz09"
-  },
-  "Lo Fu Tau Country Trail": {
-    "name": "Lo Fu Tau Country Trail",
-    "startLocation": "A Po Long (Olympic Trail)",
-    "length": 3.48,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/QVdhZkZzOGdtenhPZ2dTSGI1R3FUUT09"
-  },
-  "Shek Pik Country Trail": {
-    "name": "Shek Pik Country Trail",
-    "startLocation": "Wisdom Path, Ngong Ping",
-    "length": 5.29,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/OHBlUmNCN0JJZnl1ZjY3Z014cGYvQT09"
-  },
-  "Plover Cove Reservoir Country Trail": {
-    "name": "Plover Cove Reservoir Country Trail",
-    "startLocation": "Wu Kau Tang",
-    "length": 15.63,
-    "difficulty": "Very difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SUduYUhCbXFFaC9jT1dMRk91OTRKUT09"
-  },
-  "Fan Lau Country Trail": {
-    "name": "Fan Lau Country Trail",
-    "startLocation": "Lantau Trail Section 7",
-    "length": 2.39,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SnJ4Q3QwV3V3dW5FcHBsQ2RYM05pdz09"
-  },
-  "Fu Tei Country Trail": {
-    "name": "Fu Tei Country Trail",
-    "startLocation": "Fu Tei barbecue area",
-    "length": 4.12,
-    "difficulty": "Moderate",
-    "station": "MTR Siu Hong Station",
-    "stationType": "bus_station",
-    "distance": 2.93,
-    "website": "https://www.hiking.gov.hk/trail/info/id/K3BHR1o4SlVPNmFodG9ydjBvMlBvdz09"
-  },
-  "Double Haven Country Trail": {
-    "name": "Double Haven Country Trail",
-    "startLocation": "Wu Kau Tang",
-    "length": 10.52,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/a0h1NVNNdFp6UGFuUXZhblNLQ09UUT09"
-  },
-  "Tai Tam Country Trail": {
-    "name": "Tai Tam Country Trail",
-    "startLocation": "Wong Nai Chung Reservoir Park",
-    "length": 2.37,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/bGxMc2FyRXQvajBqQXFSNHlHOUlTZz09"
-  },
-  "Sharp Island Country Trail": {
-    "name": "Sharp Island Country Trail",
-    "startLocation": "Hap Mun Bay",
-    "length": 1.89,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZnovL1lLVDZuRUxZR3JhWlNidkZzQT09"
-  },
-  "Robin's Nest Country Trail": {
-    "name": "Robin's Nest Country Trail",
-    "startLocation": "Shan Tsui",
-    "length": 3.6,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VHBSaWIrMzR0aWN5RnFhWitoeFN0UT09"
-  },
-  "Lin Ma Hang Country Trail": {
-    "name": "Lin Ma Hang Country Trail",
-    "startLocation": "Lin Ma Hang",
-    "length": 2.56,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UFNRbC8yekNibFVpdWN5eW5XZ2c0Zz09"
-  },
-  "Chuen Lung Family Walk": {
-    "name": "Chuen Lung Family Walk",
-    "startLocation": "Chuen Lung Barbecue Site",
-    "length": 0.46,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RVJobWpURjlCUGU4VFB6bDdhYXl5UT09"
-  },
-  "Fung Hang Family Walk": {
-    "name": "Fung Hang Family Walk",
-    "startLocation": "Fung Hang",
-    "length": 1.69,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RDBrZUgxZm82eGlYWW5saS9zSDBWQT09"
-  },
-  "Ho Pui Reservoir Family Walk": {
-    "name": "Ho Pui Reservoir Family Walk",
-    "startLocation": "Ho Pui village",
-    "length": 2.12,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SnNRa3lmM0U4NTVScG5uMG45Qktsdz09"
-  },
-  "Hok Tau Reservoir Family Walk": {
-    "name": "Hok Tau Reservoir Family Walk",
-    "startLocation": "Hok Tau Reservoir",
-    "length": 2.16,
-    "difficulty": "Easy",
-    "station": "Hok Tau Wai",
-    "stationType": "bus_station",
-    "distance": 1.67,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UHkzMDc1SzQzSHoyK09neFRTNTRTUT09"
-  },
-  "Kam Shan Family Walk": {
-    "name": "Kam Shan Family Walk",
-    "startLocation": "Kam Shan Road",
-    "length": 1.27,
-    "difficulty": "Easy",
-    "station": "The Apex",
-    "stationType": "bus_station",
-    "distance": 3.37,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VGZRNVlyYTdoR2l4cXB2TTRSRWpsQT09"
-  },
-  "Pak Tam Chung Family Walk": {
-    "name": "Pak Tam Chung Family Walk",
-    "startLocation": "Pak Tam Chung Barbecue Area Car Park",
-    "length": 1.4,
-    "difficulty": "Easy",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.26,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dDFXTTZ2TTBxWGVpd3ZKajdFRUNzZz09"
-  },
-  "Pok Fu Lam Family Walk": {
-    "name": "Pok Fu Lam Family Walk",
-    "startLocation": "Pok Fu Lam Reservoir Management Centre",
-    "length": 3.26,
-    "difficulty": "Easy",
-    "station": "Pok Fu Lam Fire Station; Victoria Road",
-    "stationType": "bus_station",
-    "distance": 1.52,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TWprMlNsc2tlb3p2VFBNMGJnRzNSQT09"
-  },
-  "Sheung Yiu Family Walk": {
-    "name": "Sheung Yiu Family Walk",
-    "startLocation": "Sheung Yiu",
-    "length": 1.77,
-    "difficulty": "Easy",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 1.4,
-    "website": "https://www.hiking.gov.hk/trail/info/id/LzJZUFdmR0thSHgwV0xPSElFbjVBQT09"
-  },
-  "Tai Mei Tuk Family Walk": {
-    "name": "Tai Mei Tuk Family Walk",
-    "startLocation": "Tai Mei Tuk",
-    "length": 0.93,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZHIxalZwQUVXdytUUE9uRU94OTVTdz09"
-  },
-  "Tai Mo Shan Family Walk": {
-    "name": "Tai Mo Shan Family Walk",
-    "startLocation": "Rotary Park",
-    "length": 0.57,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/OUpMbkhjSTJxM05tM3VZcGFXZTZwdz09"
-  },
-  "Wong Shek Family Walk": {
-    "name": "Wong Shek Family Walk",
-    "startLocation": "Wong Shek Pier Bus Terminus",
-    "length": 1.91,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dVVzSndDcTNlMlpYcFgveHArcGxlZz09"
-  },
-  "Tai Tam Family Walk": {
-    "name": "Tai Tam Family Walk",
-    "startLocation": "Tai Tam Reservoir Road (near Parkview Mansions)",
-    "length": 1.61,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VXUrUWZ6Y3hSVmdqdmVDNXA5QU5mUT09"
-  },
-  "Aberdeen Nature Trail": {
-    "name": "Aberdeen Nature Trail",
-    "startLocation": "Lower Aberdeen Reservoir",
-    "length": 1.41,
-    "difficulty": "Easy",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.54,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UUVxMEg3eGVJSFpjbHdVQWtoOVdrQT09"
-  },
-  "Bride's Pool Nature Trail": {
-    "name": "Bride's Pool Nature Trail",
-    "startLocation": "Bride's Pool",
-    "length": 0.87,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/T2lic3MxTlFSUnVjZUQ2dGxOb25iQT09"
-  },
-  "Eagle's Nest Nature Trail": {
-    "name": "Eagle's Nest Nature Trail",
-    "startLocation": "Tai Po Road",
-    "length": 3.8,
-    "difficulty": "Easy",
-    "station": "MTR Lai Chi Kok Station",
-    "stationType": "bus_station",
-    "distance": 1.94,
-    "website": "https://www.hiking.gov.hk/trail/info/id/N0s2OTlzeWN5NzF0bG9BTmZsTWRsZz09"
-  },
-  "Hung Mui Kuk Nature Trail": {
-    "name": "Hung Mui Kuk Nature Trail",
-    "startLocation": "Hung Mui Kuk",
-    "length": 1.25,
-    "difficulty": "Easy",
-    "station": "Sha Tin Wai",
-    "stationType": "subway_station",
-    "distance": 5.18,
-    "website": "https://www.hiking.gov.hk/trail/info/id/YVpWWkg5S0gzMFJrWmZaSWVDWHZJZz09"
-  },
-  "Lai Chi Wo Nature Trail": {
-    "name": "Lai Chi Wo Nature Trail",
-    "startLocation": "Lai Chi Wo",
-    "length": 1.08,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NHJCWmlmZFNNcWRVVWVTYVBJZVh1UT09"
-  },
-  "Pak Tam Chung Nature Trail": {
-    "name": "Pak Tam Chung Nature Trail",
-    "startLocation": "Tai Mong Tsai Road Fuk Hing Bridge",
-    "length": 0.94,
-    "difficulty": "Easy",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.46,
-    "website": "https://www.hiking.gov.hk/trail/info/id/akp1K09abERSMDBzaGZFWDZQTkxMZz09"
-  },
-  "Pat Sin Leng Nature Trail": {
-    "name": "Pat Sin Leng Nature Trail",
-    "startLocation": "Tai Mei Tuk Management Centre",
-    "length": 4.54,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SmRaQXBzUy9DSHY1YlRSQjA3QVE5QT09"
-  },
-  "Pineapple Dam Nature Trail": {
-    "name": "Pineapple Dam Nature Trail",
-    "startLocation": "Pineapple Dam",
-    "length": 0.84,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dUNQblk0eTArL1RqVWVFWForbytaZz09"
-  },
-  "Rotary Park Nature Trail": {
-    "name": "Rotary Park Nature Trail",
-    "startLocation": "Rotary Park",
-    "length": 0.78,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/WFc2Tm45WTVOR0ZMQ3hLeTJHUDRldz09"
-  },
-  "Tai Po Kau Nature Trail": {
-    "name": "Tai Po Kau Nature Trail",
-    "startLocation": "Tsung Tsai Yuen",
-    "length": 1.06,
-    "difficulty": "Moderate",
-    "station": "Tai Po Kau Gas Station",
-    "stationType": "bus_station",
-    "distance": 0.99,
-    "website": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09"
-  },
-  "Tsiu Hang Nature Trail": {
-    "name": "Tsiu Hang Nature Trail",
-    "startLocation": "Lions Nature Education Centre",
-    "length": 0.85,
-    "difficulty": "Easy",
-    "station": "Wu Lei Tau",
-    "stationType": "bus_station",
-    "distance": 1.52,
-    "website": "https://www.hiking.gov.hk/trail/info/id/QW83RFlqandJamIvZGprRFlzNkdsZz09"
-  },
-  "Twisk Nature Trail": {
-    "name": "Twisk Nature Trail",
-    "startLocation": "Tsuen Kam Au",
-    "length": 1.76,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RUloUlprQ09aZ2FyMC9VVTlYWGtidz09"
-  },
-  "Tai Lam Nature Trail": {
-    "name": "Tai Lam Nature Trail",
-    "startLocation": "Tai Tong",
-    "length": 7.67,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TnN4ZEZ2M0dnZ0EzdEJMYnpLOXp4UT09"
-  },
-  "Ma Shi Chau Nature Trail": {
-    "name": "Ma Shi Chau Nature Trail",
-    "startLocation": "Sam Mun Tsai",
-    "length": 1.59,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MGRDbkwxQmtSSzV3OUliRlRhWE5DUT09"
-  },
-  "Tai Tong Nature Trail": {
-    "name": "Tai Tong Nature Trail",
-    "startLocation": "Tai Tong Barbecue Area",
-    "length": 2.71,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/d2pnTThIZnFwWWt5akVXc1NSeGxLdz09"
-  },
-  "Kam Shan Tree Walk": {
-    "name": "Kam Shan Tree Walk",
-    "startLocation": "Kowloon Reservoir",
-    "length": 0.86,
-    "difficulty": "Easy",
-    "station": "Sheung Kwai Chung Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.61,
-    "website": "https://www.hiking.gov.hk/trail/info/id/c0RsOFZwREtEUGlqK050bVY0dys1dz09"
-  },
-  "Kei Ling Ha Tree Walk": {
-    "name": "Kei Ling Ha Tree Walk",
-    "startLocation": "Shui Long Wo",
-    "length": 0.62,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RVlYeCtCQWFVQWcyanhnWGU0d1ZCUT09"
-  },
-  "Nam Shan Tree Walk": {
-    "name": "Nam Shan Tree Walk",
-    "startLocation": "South Lantau Road",
-    "length": 0.41,
-    "difficulty": "Easy",
-    "station": "Pui O Petrol Station",
-    "stationType": "bus_station",
-    "distance": 1.79,
-    "website": "https://www.hiking.gov.hk/trail/info/id/bUhFSUx4VzgzMFBPWFhuaVRqRE9mUT09"
-  },
-  "Ngong Ping Tree Walk": {
-    "name": "Ngong Ping Tree Walk",
-    "startLocation": "Ngong Ping",
-    "length": 0.33,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UGdjeDZSUjJJOEpjelA5K3p2enF3UT09"
-  },
-  "Tai Tong Tree Walk": {
-    "name": "Tai Tong Tree Walk",
-    "startLocation": "Tai Tong Barbecue Area",
-    "length": 0.64,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VUYwYmN4Y1Q4R0FHSldVNkRCTXVuUT09"
-  },
-  "Wong Shek Tree Walk": {
-    "name": "Wong Shek Tree Walk",
-    "startLocation": "Pak Tam Road",
-    "length": 0.38,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/VWlnL0szQnNOWG5OVEZLRXhCbnA1UT09"
-  },
-  "Aberdeen Tree Walk": {
-    "name": "Aberdeen Tree Walk",
-    "startLocation": "Aberdeen Tree Centre",
-    "length": 2.61,
-    "difficulty": "Easy",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.61,
-    "website": "https://www.hiking.gov.hk/trail/info/id/WmppU2ZSVEUwdFF4VWFaTFkrdmZBUT09"
-  },
-  "Clear Water Bay Tree Walk": {
-    "name": "Clear Water Bay Tree Walk",
-    "startLocation": "Clearwater Bay Country Park Visitor Centre",
-    "length": 0.93,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Wk12WTM4TlZlRFhhMlAyU0dCVkRldz09"
-  },
-  "Chung Pui Tree Walk": {
-    "name": "Chung Pui Tree Walk",
-    "startLocation": "Bride's Pool Road",
-    "length": 0.3,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/RURvbVRIM0FiZXc0U0dlcWtTVnNBdz09"
-  },
-  "Tai Tan Tree Walk": {
-    "name": "Tai Tan Tree Walk",
-    "startLocation": "Tai Tan Campsite",
-    "length": 0.22,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UzEydzFOQTc2YjFneklVdFV6cTVJZz09"
-  },
-  "Tai Tam Tree Walk": {
-    "name": "Tai Tam Tree Walk",
-    "startLocation": "Tai Tam Barbecue Area Site No. 3",
-    "length": 0.14,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MzdJN3lQcHFvVXp0R1BOWTRBZ2liUT09"
-  },
-  "Pak Tam Chung Tree Walk": {
-    "name": "Pak Tam Chung Tree Walk",
-    "startLocation": "Pak Tam Chung P.H.A.B. Site",
-    "length": 0.55,
-    "difficulty": "Easy",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.13,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ak8zampXZjZLK1d4ZmU5THVMMGVMUT09"
-  },
-  "Pok Fu Lam Tree Walk": {
-    "name": "Pok Fu Lam Tree Walk",
-    "startLocation": "Peak Tram",
-    "length": 3.42,
-    "difficulty": "Easy",
-    "station": "The Peak Police Station; Peak Road",
-    "stationType": "bus_station",
-    "distance": 0.94,
-    "website": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09"
-  },
-  "Nai Chung Tree Walk": {
-    "name": "Nai Chung Tree Walk",
-    "startLocation": "Nai Chung Barbecue Site",
-    "length": 0.2,
-    "difficulty": "Easy",
-    "station": "MTR Wu Kai Sha Station",
-    "stationType": "bus_station",
-    "distance": 2.02,
-    "website": "https://www.hiking.gov.hk/trail/info/id/V3JLaVN0VWZ2T1lteUZmQlp2L1ZoQT09"
-  },
-  "Quarry Bay Tree Walk": {
-    "name": "Quarry Bay Tree Walk",
-    "startLocation": "Mount Parker Road",
-    "length": 1.09,
-    "difficulty": "Easy",
-    "station": "MTR Tai Koo Station",
-    "stationType": "bus_station",
-    "distance": 0.84,
-    "website": "https://www.hiking.gov.hk/trail/info/id/bjVaMklDRFFFWnEzMmgxT2cvY2t4dz09"
-  },
-  "Aberdeen Fitness Trail": {
-    "name": "Aberdeen Fitness Trail",
-    "startLocation": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
-    "length": 2.07,
-    "difficulty": "Moderate",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.54,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Tuen Mun Fitness Trail": {
-    "name": "Tuen Mun Fitness Trail",
-    "startLocation": "The end of the catchwater road along Stage 10 of MacLehose Trail",
-    "length": 3.19,
-    "difficulty": "Easy",
-    "station": "Tuen Mun Station Terminus",
-    "stationType": "bus_station",
-    "distance": 1.45,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Shing Mun Jogging Trail": {
-    "name": "Shing Mun Jogging Trail",
-    "startLocation": "Shing Mun Reservoir Main Dam",
-    "length": 4.79,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Kowloon Reception Reservoir Jogging Trail": {
-    "name": "Kowloon Reception Reservoir Jogging Trail",
-    "startLocation": "Surrounding Kowloon Reception Reservoir",
-    "length": 1.72,
-    "difficulty": "Easy",
-    "station": "Sheung Kwai Chung Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.61,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Shek Lei Pui Reservoir Jogging Trail": {
-    "name": "Shek Lei Pui Reservoir Jogging Trail",
-    "startLocation": "Surrounding Shek Lei Pui Reservoir",
-    "length": 1.83,
-    "difficulty": "Easy",
-    "station": "The Apex",
-    "stationType": "bus_station",
-    "distance": 2.91,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Quarry Bay Jogging Trail": {
-    "name": "Quarry Bay Jogging Trail",
-    "startLocation": "The entrance of Sir Cecil's Ride of Mount Parker Road",
-    "length": 2.55,
-    "difficulty": "Easy",
-    "station": "MTR Tai Koo Station",
-    "stationType": "bus_station",
-    "distance": 1.82,
-    "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
-  },
-  "Pak Tam Chung Wheel Chair Trail": {
-    "name": "Pak Tam Chung Wheel Chair Trail",
-    "startLocation": " ",
-    "length": 0.61,
-    "difficulty": " ",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.08,
-    "website": "-"
-  },
-  "Aberdeen Wheelchair Trail": {
-    "name": "Aberdeen Wheelchair Trail",
-    "startLocation": " ",
-    "length": 0.21,
-    "difficulty": " ",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.75,
-    "website": "-"
-  },
-  "Pak Tam Chung Hiking Practice Trail": {
-    "name": "Pak Tam Chung Hiking Practice Trail",
-    "startLocation": " ",
-    "length": 0.29,
-    "difficulty": " ",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.24,
-    "website": "-"
-  },
-  "Wisdom Path": {
-    "name": "Wisdom Path",
-    "startLocation": " ",
-    "length": 0.15,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Tai Po Kau Brown Walk": {
-    "name": "Tai Po Kau Brown Walk",
-    "startLocation": " ",
-    "length": 7.73,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Tai Po Kau Red Walk": {
-    "name": "Tai Po Kau Red Walk",
-    "startLocation": " ",
-    "length": 3.28,
-    "difficulty": " ",
-    "station": "Tai Po Kau Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.58,
-    "website": "-"
-  },
-  "Tai Po Kau Yellow Walk": {
-    "name": "Tai Po Kau Yellow Walk",
-    "startLocation": " ",
-    "length": 10.34,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Tai Po Kau Blue Walk": {
-    "name": "Tai Po Kau Blue Walk",
-    "startLocation": " ",
-    "length": 4.36,
-    "difficulty": " ",
-    "station": "Tai Po Market Station",
-    "stationType": "bus_station",
-    "distance": 2.05,
-    "website": "-"
-  },
-  "Kap Lung Forest Trail": {
-    "name": "Kap Lung Forest Trail",
-    "startLocation": " ",
-    "length": 3.83,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Islands Nature Heritage Trail - Tai O Section": {
-    "name": "Islands Nature Heritage Trail - Tai O Section",
-    "startLocation": " ",
-    "length": 13.82,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Islands Nature Heritage Trail - Ngong Ping Section": {
-    "name": "Islands Nature Heritage Trail - Ngong Ping Section",
-    "startLocation": " ",
-    "length": 8.62,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Islands Nature Heritage Trail - Mui Wo Section": {
-    "name": "Islands Nature Heritage Trail - Mui Wo Section",
-    "startLocation": " ",
-    "length": 6.58,
-    "difficulty": "Moderate",
-    "station": "Mui Wo Police Station",
-    "stationType": "bus_station",
-    "distance": 2.64,
-    "website": "-"
-  },
-  "War Relics Trail (Shing Mun)": {
-    "name": "War Relics Trail (Shing Mun)",
-    "startLocation": "Memorial Arch of MacLehose Trail Section 6 at Barbecue Site No.5",
-    "length": 0.42,
-    "difficulty": "Easy",
-    "station": "The Apex",
-    "stationType": "bus_station",
-    "distance": 1.95,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NTdJUjdNOGM2REpMSEZydGkwNHJSQT09"
-  },
-  "Lion Rock War Relics Trail": {
-    "name": "Lion Rock War Relics Trail",
-    "startLocation": "Tate's Cairn (Gilwell Campsite)",
-    "length": 8.0,
-    "difficulty": "Demanding",
-    "station": "Kowloon Tong Station; Waterloo Road",
-    "stationType": "bus_station",
-    "distance": 4.11,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cFFCTzVsK0N3K21MeW1kRGdDVGppQT09"
-  },
-  "Pinewood Battery Heritage Trail": {
-    "name": "Pinewood Battery Heritage Trail",
-    "startLocation": "Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park",
-    "length": 0.31,
-    "difficulty": "Easy",
-    "station": "Kotewall Fire Station",
-    "stationType": "bus_station",
-    "distance": 0.82,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09"
-  },
-  "Islands Nature Heritage Trail - Peng Chau Section": {
-    "name": "Islands Nature Heritage Trail - Peng Chau Section",
-    "startLocation": " ",
-    "length": 5.9,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Hong Kong Olympic Trail": {
-    "name": "Hong Kong Olympic Trail",
-    "startLocation": " ",
-    "length": 5.61,
-    "difficulty": " ",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Aberdeen Kids Walk": {
-    "name": "Aberdeen Kids Walk",
-    "startLocation": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
-    "length": 0.11,
-    "difficulty": "Easy",
-    "station": "Peak Road Gas Station",
-    "stationType": "bus_station",
-    "distance": 2.7,
-    "website": "-"
-  },
-  "Ap Chau Geosite": {
-    "name": "Ap Chau Geosite",
-    "startLocation": "Ap Chau Story Room",
-    "length": 0.4,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TmZqUWFZMmJwU1hoKzNwVlA0aXErQT09"
-  },
-  "Lai Chi Chong Geosite": {
-    "name": "Lai Chi Chong Geosite",
-    "startLocation": "Lai Chi Chong Pier",
-    "length": 0.49,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dTRjZnBQWXZ0WHdjVFhxS1dSR0tkZz09"
-  },
-  "Sharp Island Geo Trail": {
-    "name": "Sharp Island Geo Trail",
-    "startLocation": "Kiu Tsui Pier",
-    "length": 0.67,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09"
-  },
-  "Kat O Heritage Trail": {
-    "name": "Kat O Heritage Trail",
-    "startLocation": "Kat O Pier",
-    "length": 3.1,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/R2FLU0hMdUpwY29KUVpmZXJEbTE5UT09"
-  },
-  "Peak Trail (Pinewood Battery Section)": {
-    "name": "Peak Trail (Pinewood Battery Section)",
-    "startLocation": "Peak",
-    "length": 4.4,
-    "difficulty": "Moderate",
-    "station": "Kotewall Fire Station",
-    "stationType": "bus_station",
-    "distance": 0.86,
-    "website": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09"
-  },
-  "Peak Trail (High West Section)": {
-    "name": "Peak Trail (High West Section)",
-    "startLocation": "Peak",
-    "length": 4.85,
-    "difficulty": "Moderate",
-    "station": "Kotewall Fire Station",
-    "stationType": "bus_station",
-    "distance": 1.44,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09"
-  },
-  "Shing Mun Reservoir Walk": {
-    "name": "Shing Mun Reservoir Walk",
-    "startLocation": "Pineapple Dam",
-    "length": 8.52,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/NlRMUDdJZmdSaTRPeDVGZXlMQ0VEZz09"
-  },
-  "Tai Long Wan Hiking Trail": {
-    "name": "Tai Long Wan Hiking Trail",
-    "startLocation": "Sai Kung Sai Wan Road",
-    "length": 11.23,
-    "difficulty": "Difficult",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ckZZcXRjeHpwZzROc0FUN0xFTTJPdz09"
-  },
-  "Ma On Shan Family Walk": {
-    "name": "Ma On Shan Family Walk",
-    "startLocation": "Ma On Shan Barbecue Site",
-    "length": 0.54,
-    "difficulty": "Easy",
-    "station": "Yao'an Bus Terminal",
-    "stationType": "bus_station",
-    "distance": 2.51,
-    "website": "https://www.hiking.gov.hk/trail/info/id/S25mS2F6QmlEQlg2VTRtOVN4M29nZz09"
-  },
-  "Pak Tam Chung To Biu Tsim Kok Hiking Trail": {
-    "name": "Pak Tam Chung To Biu Tsim Kok Hiking Trail",
-    "startLocation": "Pak Tam Chung",
-    "length": 11.06,
-    "difficulty": "Demanding",
-    "station": "Pak Tam Chung Bus Terminus",
-    "stationType": "bus_station",
-    "distance": 0.08,
-    "website": "https://www.hiking.gov.hk/trail/info/id/SnVsSFVZUXZWbWtlczU4RmN0a1NGZz09"
-  },
-  "Ngong Ping Trail (Village Section)": {
-    "name": "Ngong Ping Trail (Village Section)",
-    "startLocation": "Ngong Ping",
-    "length": 3.83,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/WWVwemE2SGZGSmlTQWxUc2dQOHBkdz09"
-  },
-  "Ngong Ping Trail (Nei Lak Shan Section)": {
-    "name": "Ngong Ping Trail (Nei Lak Shan Section)",
-    "startLocation": "Ngong Ping",
-    "length": 5.99,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/eXNxeEpiRVl4cXRidzFFZTg3VHE2dz09"
-  },
-  "Ngong Ping Trail (Lantau Peak Section)": {
-    "name": "Ngong Ping Trail (Lantau Peak Section)",
-    "startLocation": "Ngong Ping",
-    "length": 2.58,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZlNCMkhacU5vNm90ZzJLOENqOVhpQT09"
-  },
-  "Tai Tam to Tai Koo (Jardine's Lookout Section)": {
-    "name": "Tai Tam to Tai Koo (Jardine's Lookout Section)",
-    "startLocation": "Wong Nai Chung Gap",
-    "length": 5.92,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/TXpWQlRML0VFTUtiTmpqSDhhMkYwQT09"
-  },
-  "Tai Tam to Tai Koo (Tai Tam Reservoir Section)": {
-    "name": "Tai Tam to Tai Koo (Tai Tam Reservoir Section)",
-    "startLocation": "Wong Nai Chung Gap",
-    "length": 6.24,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/dmpYRDNZMzFZUXczNGFDN0VlZnRxdz09"
-  },
-  "Tai Tong to Wong Nai Tun Reservoir": {
-    "name": "Tai Tong to Wong Nai Tun Reservoir",
-    "startLocation": "Tai Tong Shan Road",
-    "length": 7.09,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Z1U3TDhQNmtyWmhnS0VFV2w1RFBYUT09"
-  },
-  "Twisk to Shek Lung Kung": {
-    "name": "Twisk to Shek Lung Kung",
-    "startLocation": "Twisk",
-    "length": 7.05,
-    "difficulty": "Demanding",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "-"
-  },
-  "Lion Rock Historic Walk": {
-    "name": "Lion Rock Historic Walk",
-    "startLocation": "Hung Mui Kuk",
-    "length": 7.08,
-    "difficulty": "Difficult",
-    "station": "MTR Sha Tin Wai Station",
-    "stationType": "bus_station",
-    "distance": 5.2,
-    "website": "https://www.hiking.gov.hk/trail/info/id/Ymh6YmlmYzl3WkRUdmdzeGx0QVMvQT09"
-  },
-  "High Island Geo Trail - Biu Tsim Kok Section": {
-    "name": "High Island Geo Trail - Biu Tsim Kok Section",
-    "startLocation": "East Dam",
-    "length": 1.33,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/MUNrNUw1WEdwS2RTa0IzMVJwSkY5QT09"
-  },
-  "High Island Geo Trail - East Dam Section": {
-    "name": "High Island Geo Trail - East Dam Section",
-    "startLocation": "East Dam",
-    "length": 1.4,
-    "difficulty": "Easy",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/ZFNQcUI3R0toMzhFWHAwbUdQNXBwZz09"
-  },
-  "High Island Geo Trail - Po Pin Chau Section": {
-    "name": "High Island Geo Trail - Po Pin Chau Section",
-    "startLocation": "East Dam",
-    "length": 0.97,
-    "difficulty": "Moderate",
-    "station": null,
-    "stationType": null,
-    "distance": null,
-    "website": "https://www.hiking.gov.hk/trail/info/id/c2ZrZUpiUGRBck1TanVNQ1J6Qkg5Zz09"
-  }
+  "stations": {
+    "Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road)": {
+      "name": "Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road)",
+      "startLocation": "The Peak",
+      "length": 6.33,
+      "difficulty": "Moderate",
+      "station": "The Peak Police Station; Peak Road",
+      "stationType": "bus_station",
+      "distance": 2.26,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MkpYc3Jud1ZjS2RFbzE1Qkhza0htdz09"
+    },
+    "Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise)": {
+      "name": "Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise)",
+      "startLocation": "Pok Fu Lam Reservoir Road",
+      "length": 4.33,
+      "difficulty": "Moderate",
+      "station": "The Peak Police Station; Peak Road",
+      "stationType": "bus_station",
+      "distance": 2.26,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TnY1M1V3ajM0MEZnRE5TbzRSVUJ3QT09"
+    },
+    "Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap)": {
+      "name": "Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap)",
+      "startLocation": "Peel Rise",
+      "length": 5.86,
+      "difficulty": "Moderate",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.28,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cGRqOGNYRGlmUTFxbjB3TEVaakxHdz09"
+    },
+    "Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap)": {
+      "name": "Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap)",
+      "startLocation": "Wan Chai Gap",
+      "length": 7.23,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZFJyWllCUGJpMUJublRIZUVPWWF0dz09"
+    },
+    "Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road)": {
+      "name": "Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road)",
+      "startLocation": "Mount Parker Road",
+      "length": 4.46,
+      "difficulty": "Moderate",
+      "station": "Chai Wan Ambulance Station; Fei Tsui Road",
+      "stationType": "bus_station",
+      "distance": 7.57,
+      "website": "https://www.hiking.gov.hk/trail/info/id/N3BGSE14SVlMSE9yVzQva1RNRTN5Zz09"
+    },
+    "Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan)": {
+      "name": "Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan)",
+      "startLocation": "Tai Tam Road",
+      "length": 7.13,
+      "difficulty": "Moderate",
+      "station": "Shek O Police Station; Shek O Road",
+      "stationType": "bus_station",
+      "distance": 8.98,
+      "website": "https://www.hiking.gov.hk/trail/info/id/czFnaDRTUUFySjBwT1VDeWxSSGM3QT09"
+    },
+    "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)": {
+      "name": "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)",
+      "startLocation": "Wong Nai Chung Gap",
+      "length": 3.5,
+      "difficulty": "Demanding",
+      "station": "Tai Koo",
+      "stationType": "subway_station",
+      "distance": 3.06,
+      "website": "https://www.hiking.gov.hk/trail/info/id/YXhBNmNMRldCL0wwZHE5ZGR1aWRHQT09"
+    },
+    "Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan)": {
+      "name": "Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan)",
+      "startLocation": "To Tei Wan",
+      "length": 7.81,
+      "difficulty": "Demanding",
+      "station": "Shek O Police Station; Shek O Road",
+      "stationType": "bus_station",
+      "distance": 1.18,
+      "website": "https://www.hiking.gov.hk/trail/info/id/QVVxLzJWeGxNUndtYUNXY2VpK3QxUT09"
+    },
+    "Lantau Trail Section 10 (Shui Hau To Cheung Sha)": {
+      "name": "Lantau Trail Section 10 (Shui Hau To Cheung Sha)",
+      "startLocation": "Shui Hau",
+      "length": 5.77,
+      "difficulty": "Moderate",
+      "station": "Cheung Sha Fire Station",
+      "stationType": "bus_station",
+      "distance": 1.83,
+      "website": "https://www.hiking.gov.hk/trail/info/id/YS9XR04yWE5GRnBRZTFFS3E3bjlKdz09"
+    },
+    "Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po)": {
+      "name": "Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po)",
+      "startLocation": "Sham Wat Road",
+      "length": 7.77,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ckcwQUpQUHEzcWRhZVdDYkZsQlR2UT09"
+    },
+    "Lantau Trail Section 6 (Man Cheung Po To Tai O)": {
+      "name": "Lantau Trail Section 6 (Man Cheung Po To Tai O)",
+      "startLocation": "Man Cheung Po",
+      "length": 1.89,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NjVmZUw2OURKcjZkQldxYlN3TjJXQT09"
+    },
+    "Lantau Trail Section 8 (Kau Ling Chung To Shek Pik)": {
+      "name": "Lantau Trail Section 8 (Kau Ling Chung To Shek Pik)",
+      "startLocation": "Kau Ling Chung",
+      "length": 4.74,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Nk5VMHQ4YmlkMFZkV0JxdDdtSS94Zz09"
+    },
+    "Lantau Trail Section 9 (Shek Pik To Shui Hau)": {
+      "name": "Lantau Trail Section 9 (Shek Pik To Shui Hau)",
+      "startLocation": "Shek Pik",
+      "length": 6.42,
+      "difficulty": "Moderate",
+      "station": "South Lantau Submarine Cable Station",
+      "stationType": "bus_station",
+      "distance": 1.31,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZjQ0ZG5zT3FFbm5HYUlwVmNtck5QUT09"
+    },
+    "Lantau Trail Section 1 (Mui Wo To Nam Shan)": {
+      "name": "Lantau Trail Section 1 (Mui Wo To Nam Shan)",
+      "startLocation": "Mui Wo",
+      "length": 2.21,
+      "difficulty": "Easy",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 1.81,
+      "website": "https://www.hiking.gov.hk/trail/info/id/YUNwM2czOWpZU2hrTXF3NlRTU3hNZz09"
+    },
+    "Lantau Trail Section 4 (Ngong Ping To Sham Wat Road)": {
+      "name": "Lantau Trail Section 4 (Ngong Ping To Sham Wat Road)",
+      "startLocation": "Ngong Ping",
+      "length": 5.2,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/bFFXSU03dVRuU1VQSHpMRThST3Zldz09"
+    },
+    "Lantau Trail Section 7 (Tai O To Kau Ling Chung)": {
+      "name": "Lantau Trail Section 7 (Tai O To Kau Ling Chung)",
+      "startLocation": "Tai O",
+      "length": 9.84,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Qk9WL0ZDY2huUFJSYVg4Rm5Gb3h3Zz09"
+    },
+    "Lantau Trail Section 11 (Cheung Sha To Pui O)": {
+      "name": "Lantau Trail Section 11 (Cheung Sha To Pui O)",
+      "startLocation": "Cheung Sha",
+      "length": 4.17,
+      "difficulty": "Moderate",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 0.65,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NktmYXJYQWVwNmMrM016d09JbkYrQT09"
+    },
+    "Lantau Trail Section 12 (Pui O To Mui Wo)": {
+      "name": "Lantau Trail Section 12 (Pui O To Mui Wo)",
+      "startLocation": "Pui O",
+      "length": 9.0,
+      "difficulty": "Demanding",
+      "station": "Mui Wo Police Station",
+      "stationType": "bus_station",
+      "distance": 0.42,
+      "website": "https://www.hiking.gov.hk/trail/info/id/aU9nYU5ZRzBPU0VIWWJ0NUhkK1NWZz09"
+    },
+    "Lantau Trail Section 3 (Pak Kung Au To Ngong Ping)": {
+      "name": "Lantau Trail Section 3 (Pak Kung Au To Ngong Ping)",
+      "startLocation": "Pak Kung Au",
+      "length": 4.45,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NWJYSHpGd0d5NmZNdXdtQmM4UTBRdz09"
+    },
+    "Lantau Trail Section 2 (Nam Shan To Pak Kung Au)": {
+      "name": "Lantau Trail Section 2 (Nam Shan To Pak Kung Au)",
+      "startLocation": "Nam Shan",
+      "length": 6.34,
+      "difficulty": "Difficult",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 1.81,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SVdvZDdnTENQZXl0byt5QndsQ0NmZz09"
+    },
+    "MacLehose Trail Section 1 (Pak Tam Chung To Long Ke)": {
+      "name": "MacLehose Trail Section 1 (Pak Tam Chung To Long Ke)",
+      "startLocation": "Pak Tam Chung",
+      "length": 10.1,
+      "difficulty": "Demanding",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.61,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VFFUbFFNOXNXTHNWU2FqT09UTjlOZz09"
+    },
+    "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)": {
+      "name": "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)",
+      "startLocation": "Long Ke",
+      "length": 14.33,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/d0pFSWc1N1dWdkh3aStSajBvUHlmUT09"
+    },
+    "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)": {
+      "name": "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)",
+      "startLocation": "Kei Ling Ha",
+      "length": 12.84,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/aWhDRVFZbmpET0pMazRxdWhhU0hIUT09"
+    },
+    "MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road)": {
+      "name": "MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road)",
+      "startLocation": "Tate\u2019s Cairn",
+      "length": 11.43,
+      "difficulty": "Demanding",
+      "station": "MTR Lai Chi Kok Station",
+      "stationType": "bus_station",
+      "distance": 2.03,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MW45T1puY3I1OVJiaDRudGNuNEgxZz09"
+    },
+    "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)": {
+      "name": "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)",
+      "startLocation": "Tai Po Road",
+      "length": 4.2,
+      "difficulty": "Moderate",
+      "station": "The Apex",
+      "stationType": "bus_station",
+      "distance": 1.9,
+      "website": "https://www.hiking.gov.hk/trail/info/id/bStIb016ZGszVk5WWElJN2FzdTdRdz09"
+    },
+    "MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass)": {
+      "name": "MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass)",
+      "startLocation": "Shing Mun Reservoir",
+      "length": 7.0,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MzVpUXNrWFZsM3NvcEppamc4emhIZz09"
+    },
+    "MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk)": {
+      "name": "MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk)",
+      "startLocation": "Lead Mine Pass",
+      "length": 9.41,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cm1EdG9ycVhDTEFrT3NGYmFsYXdWdz09"
+    },
+    "MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai)": {
+      "name": "MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai)",
+      "startLocation": "Route Twisk",
+      "length": 6.15,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VGdKd0dZMzBTK3lKYjR3Z1dTR291UT09"
+    },
+    "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)": {
+      "name": "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)",
+      "startLocation": "Tin Fu Tsai",
+      "length": 15.22,
+      "difficulty": "Difficult",
+      "station": "Tuen Mun Station Terminus",
+      "stationType": "bus_station",
+      "distance": 0.83,
+      "website": "https://www.hiking.gov.hk/trail/info/id/N2ptQ3BGSUdScnRGTzllNXZ6Uk8vUT09"
+    },
+    "MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha)": {
+      "name": "MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha)",
+      "startLocation": "Pak Tam Au",
+      "length": 9.14,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/aG1rVm1JUWVFcUVyT2RXL3Z5RnpUdz09"
+    },
+    "Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir)": {
+      "name": "Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir)",
+      "startLocation": "Stanley Gap Road",
+      "length": 4.82,
+      "difficulty": "Demanding",
+      "station": "Chung Hom Kok Fire Station",
+      "stationType": "bus_station",
+      "distance": 5.37,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TCtocVVTL1JuMXpaQVBSOFBYYzRSUT09"
+    },
+    "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)": {
+      "name": "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)",
+      "startLocation": "Lam Tin",
+      "length": 9.53,
+      "difficulty": "Demanding",
+      "station": "Sin Fat Road; Near Lam Tin Station",
+      "stationType": "bus_station",
+      "distance": 0.13,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Z05QUVAxMnphOXBCSGlwSkhKVE1Zdz09"
+    },
+    "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)": {
+      "name": "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)",
+      "startLocation": "Sha Tin Pass",
+      "length": 8.2,
+      "difficulty": "Moderate",
+      "station": "Wong Tai Sin Fire Station",
+      "stationType": "bus_station",
+      "distance": 2.18,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Sk1oNnZ1NlE3VksxUU1CekZYYkZuUT09"
+    },
+    "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)": {
+      "name": "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)",
+      "startLocation": "Tai Po Road",
+      "length": 5.47,
+      "difficulty": "Moderate",
+      "station": "Hin Keng",
+      "stationType": "subway_station",
+      "distance": 2.84,
+      "website": "https://www.hiking.gov.hk/trail/info/id/M3ArN2RxYmROLzBKNlhxRndlRUdzZz09"
+    },
+    "Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha)": {
+      "name": "Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha)",
+      "startLocation": "Shing Mun Reservoir",
+      "length": 10.36,
+      "difficulty": "Demanding",
+      "station": "The Apex",
+      "stationType": "bus_station",
+      "distance": 2.57,
+      "website": "https://www.hiking.gov.hk/trail/info/id/anRlQ0Q2VTA5SUhNQjBTSm9tRGJhUT09"
+    },
+    "Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill)": {
+      "name": "Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill)",
+      "startLocation": "Yuen Tun Ha",
+      "length": 8.95,
+      "difficulty": "Difficult",
+      "station": "\u65b0\u9054\u5ee3\u5834",
+      "stationType": "bus_station",
+      "distance": 2.06,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dGljejY4cWNjZ3E5Z2wwK1V3cWtJZz09"
+    },
+    "Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng)": {
+      "name": "Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng)",
+      "startLocation": "Cloudy Hill",
+      "length": 10.26,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TjFJNDlpb0FhSmdCS25nYTg5K0pmQT09"
+    },
+    "Wilson Trail Section 10 (Pat Sin Leng To Nam Chung)": {
+      "name": "Wilson Trail Section 10 (Pat Sin Leng To Nam Chung)",
+      "startLocation": "Pat Sin Leng",
+      "length": 6.91,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/azJKaHRIeUFIbXZWN0UyVU1ZS1hFdz09"
+    },
+    "Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass)": {
+      "name": "Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass)",
+      "startLocation": "Tseng Lan Shue",
+      "length": 7.94,
+      "difficulty": "Demanding",
+      "station": "Denon Terrace",
+      "stationType": "bus_station",
+      "distance": 0.37,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Q3hxOUd0N3FPcVZMeXdBZi93U0t0dz09"
+    },
+    "Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin)": {
+      "name": "Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin)",
+      "startLocation": "Wong Nai Chung Reservoir",
+      "length": 7.0,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cktQWGdYRkF1MEsvNXFHQVk2Sm5FQT09"
+    },
+    "Lung Mun Country Trail": {
+      "name": "Lung Mun Country Trail",
+      "startLocation": "Chuen Lung",
+      "length": 4.94,
+      "difficulty": "Demanding",
+      "station": "Tsuen Wan Railway Station",
+      "stationType": "bus_station",
+      "distance": 3.03,
+      "website": "https://www.hiking.gov.hk/trail/info/id/STlIVWFKdDRmNjRZVUFIM3pyL04rUT09"
+    },
+    "Nam Chung Country Trail": {
+      "name": "Nam Chung Country Trail",
+      "startLocation": "Nam Chung",
+      "length": 5.42,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NUVWdXZxR2NuU0Y1OU5pOFloSDBCZz09"
+    },
+    "Hok Tau Country Trail": {
+      "name": "Hok Tau Country Trail",
+      "startLocation": "Hok Tau Road",
+      "length": 2.54,
+      "difficulty": "Moderate",
+      "station": "Hok Tau Organic Farm",
+      "stationType": "bus_station",
+      "distance": 0.14,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MHQzMHVZSGU5S3dNUEdYdEl1bUFHdz09"
+    },
+    "Yuen Tun Country Trail": {
+      "name": "Yuen Tun Country Trail",
+      "startLocation": "Tsing Lung Tau",
+      "length": 9.11,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RlZDWHhKMGtQZzBqL2l0eGRaajl2dz09"
+    },
+    "Lau Shui Heung Country Trail": {
+      "name": "Lau Shui Heung Country Trail",
+      "startLocation": "Lau Shui Heung Reservoir",
+      "length": 4.5,
+      "difficulty": "Demanding",
+      "station": "Hok Tau Organic Farm",
+      "stationType": "bus_station",
+      "distance": 1.05,
+      "website": "https://www.hiking.gov.hk/trail/info/id/U2ZUQWFtNks2Rjh6a1grT0tGR3p5UT09"
+    },
+    "Pottinger Peak Country Trail": {
+      "name": "Pottinger Peak Country Trail",
+      "startLocation": "Shek O Ma Tong Au",
+      "length": 1.68,
+      "difficulty": "Moderate",
+      "station": "Chai Wan Ambulance Station; Fei Tsui Road",
+      "stationType": "bus_station",
+      "distance": 2.76,
+      "website": "https://www.hiking.gov.hk/trail/info/id/WTlaMHl6akpNYk9BRGViczlXaFZhQT09"
+    },
+    "Tai Tan Country Trail": {
+      "name": "Tai Tan Country Trail",
+      "startLocation": "Hau Tong Kai",
+      "length": 7.06,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZzhaM011eEwyWkZuWVoyUjJ0aUdMUT09"
+    },
+    "Lung Ha Wan Country Trail": {
+      "name": "Lung Ha Wan Country Trail",
+      "startLocation": "Tai Hang Tun",
+      "length": 2.42,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/YXpGRThNNHNZeXB4dHppcmphemc3QT09"
+    },
+    "Cheung Sheung Country Trail": {
+      "name": "Cheung Sheung Country Trail",
+      "startLocation": "Hoi Ha Road",
+      "length": 4.37,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/aEVHbmRZbkJYL3FvR0EvVUNRRWFSZz09"
+    },
+    "Luk Wu Country Trail": {
+      "name": "Luk Wu Country Trail",
+      "startLocation": "Sai Kung Sai Wan Road",
+      "length": 5.27,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cTdXUHRZbytJbUo0eEtTNVNMT3I0dz09"
+    },
+    "Pak Tam Country Trail": {
+      "name": "Pak Tam Country Trail",
+      "startLocation": "Pak Tam Au",
+      "length": 1.94,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SUYvb0pkOWZMdWFTak5BWWJvK3RLQT09"
+    },
+    "Sheung Yiu Country Trail": {
+      "name": "Sheung Yiu Country Trail",
+      "startLocation": "Sheung Yiu",
+      "length": 3.16,
+      "difficulty": "Moderate",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 1.54,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cG9Hc1Z4bTEzN3ZkZ1p6VExnTWFhdz09"
+    },
+    "High Junk Peak Country Trail": {
+      "name": "High Junk Peak Country Trail",
+      "startLocation": "Ng Fai Tin",
+      "length": 6.35,
+      "difficulty": "Demanding",
+      "station": "\u5751\u53e3(\u5317)(\u5c07\u8ecd\u6fb3\u91ab\u9662)",
+      "stationType": "bus_station",
+      "distance": 2.92,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SzAxekR1U1dCNytYL3U3NW9PWnVWQT09"
+    },
+    "Ma On Shan Country Trail": {
+      "name": "Ma On Shan Country Trail",
+      "startLocation": "Ma On Shan Barbecue Area",
+      "length": 4.64,
+      "difficulty": "Moderate",
+      "station": "Yao'an Bus Terminal",
+      "stationType": "bus_station",
+      "distance": 2.32,
+      "website": "https://www.hiking.gov.hk/trail/info/id/QThMbWJpZ010MlZRYkFlMzU5UXY0QT09"
+    },
+    "Chi Ma Wan Country Trail": {
+      "name": "Chi Ma Wan Country Trail",
+      "startLocation": "Shap Long Campsite",
+      "length": 17.84,
+      "difficulty": "Difficult",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 1.83,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZDU4aERwb1FhczExTUxFNk9YOU5TUT09"
+    },
+    "Wong Lung Hang Country Trail": {
+      "name": "Wong Lung Hang Country Trail",
+      "startLocation": "Sheung Tung Au",
+      "length": 2.24,
+      "difficulty": "Demanding",
+      "station": "Yung Yat House Yat Tung Estate",
+      "stationType": "bus_station",
+      "distance": 2.17,
+      "website": "https://www.hiking.gov.hk/trail/info/id/OEMxQmNSNHUrVjBDV0xOMHJtYURldz09"
+    },
+    "South Lantau Country Trail": {
+      "name": "South Lantau Country Trail",
+      "startLocation": "Nam Shan",
+      "length": 10.34,
+      "difficulty": "Demanding",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 1.6,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VkxUMG1za3hybXBtOEFJZ0h1VUltQT09"
+    },
+    "Keung Shan Country Trail": {
+      "name": "Keung Shan Country Trail",
+      "startLocation": "Tai O Road",
+      "length": 8.21,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/d1E5STBlOVVkcmNTeks3cHM5Zm9BQT09"
+    },
+    "Nei Lak Shan Country Trail": {
+      "name": "Nei Lak Shan Country Trail",
+      "startLocation": "Dong Shan Fa Mun",
+      "length": 4.65,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/OGdwWlNpL1VmT3FQYndjVjljNklCZz09"
+    },
+    "Hong Pak Country Trail": {
+      "name": "Hong Pak Country Trail",
+      "startLocation": "Quarry Bay Management Centre",
+      "length": 4.01,
+      "difficulty": "Moderate",
+      "station": "MTR Tai Koo Station",
+      "stationType": "bus_station",
+      "distance": 1.73,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UVZUTW1PdmF5c1BSWU5JRjZVZ29DZz09"
+    },
+    "Wu Kau Tang Country Trail": {
+      "name": "Wu Kau Tang Country Trail",
+      "startLocation": "Wu Kau Tang Tin Sum",
+      "length": 2.32,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/OXArZzdyQnRlN2d4VlN6UVNDNHpFZz09"
+    },
+    "Ping Chau Country Trail": {
+      "name": "Ping Chau Country Trail",
+      "startLocation": "Ping Chau Pier",
+      "length": 5.8,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VE4wRlNxT1hZM1NqWkpKYVBmS1M2dz09"
+    },
+    "Tei Tong Tsai Country Trail": {
+      "name": "Tei Tong Tsai Country Trail",
+      "startLocation": "Tung Chung Road",
+      "length": 1.95,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VTAxcjA3Sks4RGorOUdwZzRRbVBFdz09"
+    },
+    "Tai Lam Chung Country Trail": {
+      "name": "Tai Lam Chung Country Trail",
+      "startLocation": "Ma On Kong Warden Post",
+      "length": 6.14,
+      "difficulty": "Demanding",
+      "station": "Kam Sheung Rd Station PTI",
+      "stationType": "bus_station",
+      "distance": 2.65,
+      "website": "https://www.hiking.gov.hk/trail/info/id/anYvYnJvaVlCeStTZ2VwTVNFbFkrZz09"
+    },
+    "Kap Lung Ancient Trail Country Trail": {
+      "name": "Kap Lung Ancient Trail Country Trail",
+      "startLocation": "Tsuen Kam Au",
+      "length": 1.8,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UVNWcm9oRWYwdU1xYWhjVk1VY2ZxZz09"
+    },
+    "Yuen Tsuen Ancient Trail Country Trail": {
+      "name": "Yuen Tsuen Ancient Trail Country Trail",
+      "startLocation": "Ha Fa Shan, Tsuen Wan",
+      "length": 12.31,
+      "difficulty": "Difficult",
+      "station": "Tsuen Wan Police Station",
+      "stationType": "bus_station",
+      "distance": 2.22,
+      "website": "https://www.hiking.gov.hk/trail/info/id/V2JJVDNVR25Lc0lnV1pZdC9NdHVBZz09"
+    },
+    "Lo Fu Tau Country Trail": {
+      "name": "Lo Fu Tau Country Trail",
+      "startLocation": "A Po Long (Olympic Trail)",
+      "length": 3.48,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/QVdhZkZzOGdtenhPZ2dTSGI1R3FUUT09"
+    },
+    "Shek Pik Country Trail": {
+      "name": "Shek Pik Country Trail",
+      "startLocation": "Wisdom Path, Ngong Ping",
+      "length": 5.29,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/OHBlUmNCN0JJZnl1ZjY3Z014cGYvQT09"
+    },
+    "Plover Cove Reservoir Country Trail": {
+      "name": "Plover Cove Reservoir Country Trail",
+      "startLocation": "Wu Kau Tang",
+      "length": 15.63,
+      "difficulty": "Very difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SUduYUhCbXFFaC9jT1dMRk91OTRKUT09"
+    },
+    "Fan Lau Country Trail": {
+      "name": "Fan Lau Country Trail",
+      "startLocation": "Lantau Trail Section 7",
+      "length": 2.39,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SnJ4Q3QwV3V3dW5FcHBsQ2RYM05pdz09"
+    },
+    "Fu Tei Country Trail": {
+      "name": "Fu Tei Country Trail",
+      "startLocation": "Fu Tei barbecue area",
+      "length": 4.12,
+      "difficulty": "Moderate",
+      "station": "MTR Siu Hong Station",
+      "stationType": "bus_station",
+      "distance": 2.93,
+      "website": "https://www.hiking.gov.hk/trail/info/id/K3BHR1o4SlVPNmFodG9ydjBvMlBvdz09"
+    },
+    "Double Haven Country Trail": {
+      "name": "Double Haven Country Trail",
+      "startLocation": "Wu Kau Tang",
+      "length": 10.52,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/a0h1NVNNdFp6UGFuUXZhblNLQ09UUT09"
+    },
+    "Tai Tam Country Trail": {
+      "name": "Tai Tam Country Trail",
+      "startLocation": "Wong Nai Chung Reservoir Park",
+      "length": 2.37,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/bGxMc2FyRXQvajBqQXFSNHlHOUlTZz09"
+    },
+    "Sharp Island Country Trail": {
+      "name": "Sharp Island Country Trail",
+      "startLocation": "Hap Mun Bay",
+      "length": 1.89,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZnovL1lLVDZuRUxZR3JhWlNidkZzQT09"
+    },
+    "Robin's Nest Country Trail": {
+      "name": "Robin's Nest Country Trail",
+      "startLocation": "Shan Tsui",
+      "length": 3.6,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VHBSaWIrMzR0aWN5RnFhWitoeFN0UT09"
+    },
+    "Lin Ma Hang Country Trail": {
+      "name": "Lin Ma Hang Country Trail",
+      "startLocation": "Lin Ma Hang",
+      "length": 2.56,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UFNRbC8yekNibFVpdWN5eW5XZ2c0Zz09"
+    },
+    "Chuen Lung Family Walk": {
+      "name": "Chuen Lung Family Walk",
+      "startLocation": "Chuen Lung Barbecue Site",
+      "length": 0.46,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RVJobWpURjlCUGU4VFB6bDdhYXl5UT09"
+    },
+    "Fung Hang Family Walk": {
+      "name": "Fung Hang Family Walk",
+      "startLocation": "Fung Hang",
+      "length": 1.69,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RDBrZUgxZm82eGlYWW5saS9zSDBWQT09"
+    },
+    "Ho Pui Reservoir Family Walk": {
+      "name": "Ho Pui Reservoir Family Walk",
+      "startLocation": "Ho Pui village",
+      "length": 2.12,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SnNRa3lmM0U4NTVScG5uMG45Qktsdz09"
+    },
+    "Hok Tau Reservoir Family Walk": {
+      "name": "Hok Tau Reservoir Family Walk",
+      "startLocation": "Hok Tau Reservoir",
+      "length": 2.16,
+      "difficulty": "Easy",
+      "station": "Hok Tau Wai",
+      "stationType": "bus_station",
+      "distance": 1.67,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UHkzMDc1SzQzSHoyK09neFRTNTRTUT09"
+    },
+    "Kam Shan Family Walk": {
+      "name": "Kam Shan Family Walk",
+      "startLocation": "Kam Shan Road",
+      "length": 1.27,
+      "difficulty": "Easy",
+      "station": "The Apex",
+      "stationType": "bus_station",
+      "distance": 3.37,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VGZRNVlyYTdoR2l4cXB2TTRSRWpsQT09"
+    },
+    "Pak Tam Chung Family Walk": {
+      "name": "Pak Tam Chung Family Walk",
+      "startLocation": "Pak Tam Chung Barbecue Area Car Park",
+      "length": 1.4,
+      "difficulty": "Easy",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.26,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dDFXTTZ2TTBxWGVpd3ZKajdFRUNzZz09"
+    },
+    "Pok Fu Lam Family Walk": {
+      "name": "Pok Fu Lam Family Walk",
+      "startLocation": "Pok Fu Lam Reservoir Management Centre",
+      "length": 3.26,
+      "difficulty": "Easy",
+      "station": "Pok Fu Lam Fire Station; Victoria Road",
+      "stationType": "bus_station",
+      "distance": 1.52,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TWprMlNsc2tlb3p2VFBNMGJnRzNSQT09"
+    },
+    "Sheung Yiu Family Walk": {
+      "name": "Sheung Yiu Family Walk",
+      "startLocation": "Sheung Yiu",
+      "length": 1.77,
+      "difficulty": "Easy",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 1.4,
+      "website": "https://www.hiking.gov.hk/trail/info/id/LzJZUFdmR0thSHgwV0xPSElFbjVBQT09"
+    },
+    "Tai Mei Tuk Family Walk": {
+      "name": "Tai Mei Tuk Family Walk",
+      "startLocation": "Tai Mei Tuk",
+      "length": 0.93,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZHIxalZwQUVXdytUUE9uRU94OTVTdz09"
+    },
+    "Tai Mo Shan Family Walk": {
+      "name": "Tai Mo Shan Family Walk",
+      "startLocation": "Rotary Park",
+      "length": 0.57,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/OUpMbkhjSTJxM05tM3VZcGFXZTZwdz09"
+    },
+    "Wong Shek Family Walk": {
+      "name": "Wong Shek Family Walk",
+      "startLocation": "Wong Shek Pier Bus Terminus",
+      "length": 1.91,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dVVzSndDcTNlMlpYcFgveHArcGxlZz09"
+    },
+    "Tai Tam Family Walk": {
+      "name": "Tai Tam Family Walk",
+      "startLocation": "Tai Tam Reservoir Road (near Parkview Mansions)",
+      "length": 1.61,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VXUrUWZ6Y3hSVmdqdmVDNXA5QU5mUT09"
+    },
+    "Aberdeen Nature Trail": {
+      "name": "Aberdeen Nature Trail",
+      "startLocation": "Lower Aberdeen Reservoir",
+      "length": 1.41,
+      "difficulty": "Easy",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.54,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UUVxMEg3eGVJSFpjbHdVQWtoOVdrQT09"
+    },
+    "Bride's Pool Nature Trail": {
+      "name": "Bride's Pool Nature Trail",
+      "startLocation": "Bride's Pool",
+      "length": 0.87,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/T2lic3MxTlFSUnVjZUQ2dGxOb25iQT09"
+    },
+    "Eagle's Nest Nature Trail": {
+      "name": "Eagle's Nest Nature Trail",
+      "startLocation": "Tai Po Road",
+      "length": 3.8,
+      "difficulty": "Easy",
+      "station": "MTR Lai Chi Kok Station",
+      "stationType": "bus_station",
+      "distance": 1.94,
+      "website": "https://www.hiking.gov.hk/trail/info/id/N0s2OTlzeWN5NzF0bG9BTmZsTWRsZz09"
+    },
+    "Hung Mui Kuk Nature Trail": {
+      "name": "Hung Mui Kuk Nature Trail",
+      "startLocation": "Hung Mui Kuk",
+      "length": 1.25,
+      "difficulty": "Easy",
+      "station": "Sha Tin Wai",
+      "stationType": "subway_station",
+      "distance": 5.18,
+      "website": "https://www.hiking.gov.hk/trail/info/id/YVpWWkg5S0gzMFJrWmZaSWVDWHZJZz09"
+    },
+    "Lai Chi Wo Nature Trail": {
+      "name": "Lai Chi Wo Nature Trail",
+      "startLocation": "Lai Chi Wo",
+      "length": 1.08,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NHJCWmlmZFNNcWRVVWVTYVBJZVh1UT09"
+    },
+    "Pak Tam Chung Nature Trail": {
+      "name": "Pak Tam Chung Nature Trail",
+      "startLocation": "Tai Mong Tsai Road Fuk Hing Bridge",
+      "length": 0.94,
+      "difficulty": "Easy",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.46,
+      "website": "https://www.hiking.gov.hk/trail/info/id/akp1K09abERSMDBzaGZFWDZQTkxMZz09"
+    },
+    "Pat Sin Leng Nature Trail": {
+      "name": "Pat Sin Leng Nature Trail",
+      "startLocation": "Tai Mei Tuk Management Centre",
+      "length": 4.54,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SmRaQXBzUy9DSHY1YlRSQjA3QVE5QT09"
+    },
+    "Pineapple Dam Nature Trail": {
+      "name": "Pineapple Dam Nature Trail",
+      "startLocation": "Pineapple Dam",
+      "length": 0.84,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dUNQblk0eTArL1RqVWVFWForbytaZz09"
+    },
+    "Rotary Park Nature Trail": {
+      "name": "Rotary Park Nature Trail",
+      "startLocation": "Rotary Park",
+      "length": 0.78,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/WFc2Tm45WTVOR0ZMQ3hLeTJHUDRldz09"
+    },
+    "Tai Po Kau Nature Trail": {
+      "name": "Tai Po Kau Nature Trail",
+      "startLocation": "Tsung Tsai Yuen",
+      "length": 1.06,
+      "difficulty": "Moderate",
+      "station": "Tai Po Kau Gas Station",
+      "stationType": "bus_station",
+      "distance": 0.99,
+      "website": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09"
+    },
+    "Tsiu Hang Nature Trail": {
+      "name": "Tsiu Hang Nature Trail",
+      "startLocation": "Lions Nature Education Centre",
+      "length": 0.85,
+      "difficulty": "Easy",
+      "station": "Wu Lei Tau",
+      "stationType": "bus_station",
+      "distance": 1.52,
+      "website": "https://www.hiking.gov.hk/trail/info/id/QW83RFlqandJamIvZGprRFlzNkdsZz09"
+    },
+    "Twisk Nature Trail": {
+      "name": "Twisk Nature Trail",
+      "startLocation": "Tsuen Kam Au",
+      "length": 1.76,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RUloUlprQ09aZ2FyMC9VVTlYWGtidz09"
+    },
+    "Tai Lam Nature Trail": {
+      "name": "Tai Lam Nature Trail",
+      "startLocation": "Tai Tong",
+      "length": 7.67,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TnN4ZEZ2M0dnZ0EzdEJMYnpLOXp4UT09"
+    },
+    "Ma Shi Chau Nature Trail": {
+      "name": "Ma Shi Chau Nature Trail",
+      "startLocation": "Sam Mun Tsai",
+      "length": 1.59,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MGRDbkwxQmtSSzV3OUliRlRhWE5DUT09"
+    },
+    "Tai Tong Nature Trail": {
+      "name": "Tai Tong Nature Trail",
+      "startLocation": "Tai Tong Barbecue Area",
+      "length": 2.71,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/d2pnTThIZnFwWWt5akVXc1NSeGxLdz09"
+    },
+    "Kam Shan Tree Walk": {
+      "name": "Kam Shan Tree Walk",
+      "startLocation": "Kowloon Reservoir",
+      "length": 0.86,
+      "difficulty": "Easy",
+      "station": "Sheung Kwai Chung Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.61,
+      "website": "https://www.hiking.gov.hk/trail/info/id/c0RsOFZwREtEUGlqK050bVY0dys1dz09"
+    },
+    "Kei Ling Ha Tree Walk": {
+      "name": "Kei Ling Ha Tree Walk",
+      "startLocation": "Shui Long Wo",
+      "length": 0.62,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RVlYeCtCQWFVQWcyanhnWGU0d1ZCUT09"
+    },
+    "Nam Shan Tree Walk": {
+      "name": "Nam Shan Tree Walk",
+      "startLocation": "South Lantau Road",
+      "length": 0.41,
+      "difficulty": "Easy",
+      "station": "Pui O Petrol Station",
+      "stationType": "bus_station",
+      "distance": 1.79,
+      "website": "https://www.hiking.gov.hk/trail/info/id/bUhFSUx4VzgzMFBPWFhuaVRqRE9mUT09"
+    },
+    "Ngong Ping Tree Walk": {
+      "name": "Ngong Ping Tree Walk",
+      "startLocation": "Ngong Ping",
+      "length": 0.33,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UGdjeDZSUjJJOEpjelA5K3p2enF3UT09"
+    },
+    "Tai Tong Tree Walk": {
+      "name": "Tai Tong Tree Walk",
+      "startLocation": "Tai Tong Barbecue Area",
+      "length": 0.64,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VUYwYmN4Y1Q4R0FHSldVNkRCTXVuUT09"
+    },
+    "Wong Shek Tree Walk": {
+      "name": "Wong Shek Tree Walk",
+      "startLocation": "Pak Tam Road",
+      "length": 0.38,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/VWlnL0szQnNOWG5OVEZLRXhCbnA1UT09"
+    },
+    "Aberdeen Tree Walk": {
+      "name": "Aberdeen Tree Walk",
+      "startLocation": "Aberdeen Tree Centre",
+      "length": 2.61,
+      "difficulty": "Easy",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.61,
+      "website": "https://www.hiking.gov.hk/trail/info/id/WmppU2ZSVEUwdFF4VWFaTFkrdmZBUT09"
+    },
+    "Clear Water Bay Tree Walk": {
+      "name": "Clear Water Bay Tree Walk",
+      "startLocation": "Clearwater Bay Country Park Visitor Centre",
+      "length": 0.93,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Wk12WTM4TlZlRFhhMlAyU0dCVkRldz09"
+    },
+    "Chung Pui Tree Walk": {
+      "name": "Chung Pui Tree Walk",
+      "startLocation": "Bride's Pool Road",
+      "length": 0.3,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/RURvbVRIM0FiZXc0U0dlcWtTVnNBdz09"
+    },
+    "Tai Tan Tree Walk": {
+      "name": "Tai Tan Tree Walk",
+      "startLocation": "Tai Tan Campsite",
+      "length": 0.22,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UzEydzFOQTc2YjFneklVdFV6cTVJZz09"
+    },
+    "Tai Tam Tree Walk": {
+      "name": "Tai Tam Tree Walk",
+      "startLocation": "Tai Tam Barbecue Area Site No. 3",
+      "length": 0.14,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MzdJN3lQcHFvVXp0R1BOWTRBZ2liUT09"
+    },
+    "Pak Tam Chung Tree Walk": {
+      "name": "Pak Tam Chung Tree Walk",
+      "startLocation": "Pak Tam Chung P.H.A.B. Site",
+      "length": 0.55,
+      "difficulty": "Easy",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.13,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ak8zampXZjZLK1d4ZmU5THVMMGVMUT09"
+    },
+    "Pok Fu Lam Tree Walk": {
+      "name": "Pok Fu Lam Tree Walk",
+      "startLocation": "Peak Tram",
+      "length": 3.42,
+      "difficulty": "Easy",
+      "station": "The Peak Police Station; Peak Road",
+      "stationType": "bus_station",
+      "distance": 0.94,
+      "website": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09"
+    },
+    "Nai Chung Tree Walk": {
+      "name": "Nai Chung Tree Walk",
+      "startLocation": "Nai Chung Barbecue Site",
+      "length": 0.2,
+      "difficulty": "Easy",
+      "station": "MTR Wu Kai Sha Station",
+      "stationType": "bus_station",
+      "distance": 2.02,
+      "website": "https://www.hiking.gov.hk/trail/info/id/V3JLaVN0VWZ2T1lteUZmQlp2L1ZoQT09"
+    },
+    "Quarry Bay Tree Walk": {
+      "name": "Quarry Bay Tree Walk",
+      "startLocation": "Mount Parker Road",
+      "length": 1.09,
+      "difficulty": "Easy",
+      "station": "MTR Tai Koo Station",
+      "stationType": "bus_station",
+      "distance": 0.84,
+      "website": "https://www.hiking.gov.hk/trail/info/id/bjVaMklDRFFFWnEzMmgxT2cvY2t4dz09"
+    },
+    "Aberdeen Fitness Trail": {
+      "name": "Aberdeen Fitness Trail",
+      "startLocation": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+      "length": 2.07,
+      "difficulty": "Moderate",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.54,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Tuen Mun Fitness Trail": {
+      "name": "Tuen Mun Fitness Trail",
+      "startLocation": "The end of the catchwater road along Stage 10 of MacLehose Trail",
+      "length": 3.19,
+      "difficulty": "Easy",
+      "station": "Tuen Mun Station Terminus",
+      "stationType": "bus_station",
+      "distance": 1.45,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Shing Mun Jogging Trail": {
+      "name": "Shing Mun Jogging Trail",
+      "startLocation": "Shing Mun Reservoir Main Dam",
+      "length": 4.79,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Kowloon Reception Reservoir Jogging Trail": {
+      "name": "Kowloon Reception Reservoir Jogging Trail",
+      "startLocation": "Surrounding Kowloon Reception Reservoir",
+      "length": 1.72,
+      "difficulty": "Easy",
+      "station": "Sheung Kwai Chung Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.61,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Shek Lei Pui Reservoir Jogging Trail": {
+      "name": "Shek Lei Pui Reservoir Jogging Trail",
+      "startLocation": "Surrounding Shek Lei Pui Reservoir",
+      "length": 1.83,
+      "difficulty": "Easy",
+      "station": "The Apex",
+      "stationType": "bus_station",
+      "distance": 2.91,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Quarry Bay Jogging Trail": {
+      "name": "Quarry Bay Jogging Trail",
+      "startLocation": "The entrance of Sir Cecil's Ride of Mount Parker Road",
+      "length": 2.55,
+      "difficulty": "Easy",
+      "station": "MTR Tai Koo Station",
+      "stationType": "bus_station",
+      "distance": 1.82,
+      "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+    },
+    "Pak Tam Chung Wheel Chair Trail": {
+      "name": "Pak Tam Chung Wheel Chair Trail",
+      "startLocation": " ",
+      "length": 0.61,
+      "difficulty": " ",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.08,
+      "website": "-"
+    },
+    "Aberdeen Wheelchair Trail": {
+      "name": "Aberdeen Wheelchair Trail",
+      "startLocation": " ",
+      "length": 0.21,
+      "difficulty": " ",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.75,
+      "website": "-"
+    },
+    "Pak Tam Chung Hiking Practice Trail": {
+      "name": "Pak Tam Chung Hiking Practice Trail",
+      "startLocation": " ",
+      "length": 0.29,
+      "difficulty": " ",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.24,
+      "website": "-"
+    },
+    "Wisdom Path": {
+      "name": "Wisdom Path",
+      "startLocation": " ",
+      "length": 0.15,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Tai Po Kau Brown Walk": {
+      "name": "Tai Po Kau Brown Walk",
+      "startLocation": " ",
+      "length": 7.73,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Tai Po Kau Red Walk": {
+      "name": "Tai Po Kau Red Walk",
+      "startLocation": " ",
+      "length": 3.28,
+      "difficulty": " ",
+      "station": "Tai Po Kau Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.58,
+      "website": "-"
+    },
+    "Tai Po Kau Yellow Walk": {
+      "name": "Tai Po Kau Yellow Walk",
+      "startLocation": " ",
+      "length": 10.34,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Tai Po Kau Blue Walk": {
+      "name": "Tai Po Kau Blue Walk",
+      "startLocation": " ",
+      "length": 4.36,
+      "difficulty": " ",
+      "station": "Tai Po Market Station",
+      "stationType": "bus_station",
+      "distance": 2.05,
+      "website": "-"
+    },
+    "Kap Lung Forest Trail": {
+      "name": "Kap Lung Forest Trail",
+      "startLocation": " ",
+      "length": 3.83,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Islands Nature Heritage Trail - Tai O Section": {
+      "name": "Islands Nature Heritage Trail - Tai O Section",
+      "startLocation": " ",
+      "length": 13.82,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Islands Nature Heritage Trail - Ngong Ping Section": {
+      "name": "Islands Nature Heritage Trail - Ngong Ping Section",
+      "startLocation": " ",
+      "length": 8.62,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Islands Nature Heritage Trail - Mui Wo Section": {
+      "name": "Islands Nature Heritage Trail - Mui Wo Section",
+      "startLocation": " ",
+      "length": 6.58,
+      "difficulty": "Moderate",
+      "station": "Mui Wo Police Station",
+      "stationType": "bus_station",
+      "distance": 2.64,
+      "website": "-"
+    },
+    "War Relics Trail (Shing Mun)": {
+      "name": "War Relics Trail (Shing Mun)",
+      "startLocation": "Memorial Arch of MacLehose Trail Section 6 at Barbecue Site No.5",
+      "length": 0.42,
+      "difficulty": "Easy",
+      "station": "The Apex",
+      "stationType": "bus_station",
+      "distance": 1.95,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NTdJUjdNOGM2REpMSEZydGkwNHJSQT09"
+    },
+    "Lion Rock War Relics Trail": {
+      "name": "Lion Rock War Relics Trail",
+      "startLocation": "Tate's Cairn (Gilwell Campsite)",
+      "length": 8.0,
+      "difficulty": "Demanding",
+      "station": "Kowloon Tong Station; Waterloo Road",
+      "stationType": "bus_station",
+      "distance": 4.11,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cFFCTzVsK0N3K21MeW1kRGdDVGppQT09"
+    },
+    "Pinewood Battery Heritage Trail": {
+      "name": "Pinewood Battery Heritage Trail",
+      "startLocation": "Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park",
+      "length": 0.31,
+      "difficulty": "Easy",
+      "station": "Kotewall Fire Station",
+      "stationType": "bus_station",
+      "distance": 0.82,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09"
+    },
+    "Islands Nature Heritage Trail - Peng Chau Section": {
+      "name": "Islands Nature Heritage Trail - Peng Chau Section",
+      "startLocation": " ",
+      "length": 5.9,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Hong Kong Olympic Trail": {
+      "name": "Hong Kong Olympic Trail",
+      "startLocation": " ",
+      "length": 5.61,
+      "difficulty": " ",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Aberdeen Kids Walk": {
+      "name": "Aberdeen Kids Walk",
+      "startLocation": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+      "length": 0.11,
+      "difficulty": "Easy",
+      "station": "Peak Road Gas Station",
+      "stationType": "bus_station",
+      "distance": 2.7,
+      "website": "-"
+    },
+    "Ap Chau Geosite": {
+      "name": "Ap Chau Geosite",
+      "startLocation": "Ap Chau Story Room",
+      "length": 0.4,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TmZqUWFZMmJwU1hoKzNwVlA0aXErQT09"
+    },
+    "Lai Chi Chong Geosite": {
+      "name": "Lai Chi Chong Geosite",
+      "startLocation": "Lai Chi Chong Pier",
+      "length": 0.49,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dTRjZnBQWXZ0WHdjVFhxS1dSR0tkZz09"
+    },
+    "Sharp Island Geo Trail": {
+      "name": "Sharp Island Geo Trail",
+      "startLocation": "Kiu Tsui Pier",
+      "length": 0.67,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09"
+    },
+    "Kat O Heritage Trail": {
+      "name": "Kat O Heritage Trail",
+      "startLocation": "Kat O Pier",
+      "length": 3.1,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/R2FLU0hMdUpwY29KUVpmZXJEbTE5UT09"
+    },
+    "Peak Trail (Pinewood Battery Section)": {
+      "name": "Peak Trail (Pinewood Battery Section)",
+      "startLocation": "Peak",
+      "length": 4.4,
+      "difficulty": "Moderate",
+      "station": "Kotewall Fire Station",
+      "stationType": "bus_station",
+      "distance": 0.86,
+      "website": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09"
+    },
+    "Peak Trail (High West Section)": {
+      "name": "Peak Trail (High West Section)",
+      "startLocation": "Peak",
+      "length": 4.85,
+      "difficulty": "Moderate",
+      "station": "Kotewall Fire Station",
+      "stationType": "bus_station",
+      "distance": 1.44,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09"
+    },
+    "Shing Mun Reservoir Walk": {
+      "name": "Shing Mun Reservoir Walk",
+      "startLocation": "Pineapple Dam",
+      "length": 8.52,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/NlRMUDdJZmdSaTRPeDVGZXlMQ0VEZz09"
+    },
+    "Tai Long Wan Hiking Trail": {
+      "name": "Tai Long Wan Hiking Trail",
+      "startLocation": "Sai Kung Sai Wan Road",
+      "length": 11.23,
+      "difficulty": "Difficult",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ckZZcXRjeHpwZzROc0FUN0xFTTJPdz09"
+    },
+    "Ma On Shan Family Walk": {
+      "name": "Ma On Shan Family Walk",
+      "startLocation": "Ma On Shan Barbecue Site",
+      "length": 0.54,
+      "difficulty": "Easy",
+      "station": "Yao'an Bus Terminal",
+      "stationType": "bus_station",
+      "distance": 2.51,
+      "website": "https://www.hiking.gov.hk/trail/info/id/S25mS2F6QmlEQlg2VTRtOVN4M29nZz09"
+    },
+    "Pak Tam Chung To Biu Tsim Kok Hiking Trail": {
+      "name": "Pak Tam Chung To Biu Tsim Kok Hiking Trail",
+      "startLocation": "Pak Tam Chung",
+      "length": 11.06,
+      "difficulty": "Demanding",
+      "station": "Pak Tam Chung Bus Terminus",
+      "stationType": "bus_station",
+      "distance": 0.08,
+      "website": "https://www.hiking.gov.hk/trail/info/id/SnVsSFVZUXZWbWtlczU4RmN0a1NGZz09"
+    },
+    "Ngong Ping Trail (Village Section)": {
+      "name": "Ngong Ping Trail (Village Section)",
+      "startLocation": "Ngong Ping",
+      "length": 3.83,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/WWVwemE2SGZGSmlTQWxUc2dQOHBkdz09"
+    },
+    "Ngong Ping Trail (Nei Lak Shan Section)": {
+      "name": "Ngong Ping Trail (Nei Lak Shan Section)",
+      "startLocation": "Ngong Ping",
+      "length": 5.99,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/eXNxeEpiRVl4cXRidzFFZTg3VHE2dz09"
+    },
+    "Ngong Ping Trail (Lantau Peak Section)": {
+      "name": "Ngong Ping Trail (Lantau Peak Section)",
+      "startLocation": "Ngong Ping",
+      "length": 2.58,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZlNCMkhacU5vNm90ZzJLOENqOVhpQT09"
+    },
+    "Tai Tam to Tai Koo (Jardine's Lookout Section)": {
+      "name": "Tai Tam to Tai Koo (Jardine's Lookout Section)",
+      "startLocation": "Wong Nai Chung Gap",
+      "length": 5.92,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/TXpWQlRML0VFTUtiTmpqSDhhMkYwQT09"
+    },
+    "Tai Tam to Tai Koo (Tai Tam Reservoir Section)": {
+      "name": "Tai Tam to Tai Koo (Tai Tam Reservoir Section)",
+      "startLocation": "Wong Nai Chung Gap",
+      "length": 6.24,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/dmpYRDNZMzFZUXczNGFDN0VlZnRxdz09"
+    },
+    "Tai Tong to Wong Nai Tun Reservoir": {
+      "name": "Tai Tong to Wong Nai Tun Reservoir",
+      "startLocation": "Tai Tong Shan Road",
+      "length": 7.09,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Z1U3TDhQNmtyWmhnS0VFV2w1RFBYUT09"
+    },
+    "Twisk to Shek Lung Kung": {
+      "name": "Twisk to Shek Lung Kung",
+      "startLocation": "Twisk",
+      "length": 7.05,
+      "difficulty": "Demanding",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "-"
+    },
+    "Lion Rock Historic Walk": {
+      "name": "Lion Rock Historic Walk",
+      "startLocation": "Hung Mui Kuk",
+      "length": 7.08,
+      "difficulty": "Difficult",
+      "station": "MTR Sha Tin Wai Station",
+      "stationType": "bus_station",
+      "distance": 5.2,
+      "website": "https://www.hiking.gov.hk/trail/info/id/Ymh6YmlmYzl3WkRUdmdzeGx0QVMvQT09"
+    },
+    "High Island Geo Trail - Biu Tsim Kok Section": {
+      "name": "High Island Geo Trail - Biu Tsim Kok Section",
+      "startLocation": "East Dam",
+      "length": 1.33,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/MUNrNUw1WEdwS2RTa0IzMVJwSkY5QT09"
+    },
+    "High Island Geo Trail - East Dam Section": {
+      "name": "High Island Geo Trail - East Dam Section",
+      "startLocation": "East Dam",
+      "length": 1.4,
+      "difficulty": "Easy",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/ZFNQcUI3R0toMzhFWHAwbUdQNXBwZz09"
+    },
+    "High Island Geo Trail - Po Pin Chau Section": {
+      "name": "High Island Geo Trail - Po Pin Chau Section",
+      "startLocation": "East Dam",
+      "length": 0.97,
+      "difficulty": "Moderate",
+      "station": null,
+      "stationType": null,
+      "distance": null,
+      "website": "https://www.hiking.gov.hk/trail/info/id/c2ZrZUpiUGRBck1TanVNQ1J6Qkg5Zz09"
+    }
+  },
+  "timestamp": 1745246674.301423
 }

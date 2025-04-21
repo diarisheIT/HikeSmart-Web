@@ -21,11 +21,13 @@ PLACES_RADIUS = 2000
 SEARCH_TYPES = ["subway_station", "bus_station"]
 INPUT_FILE = "static/Hiking_Trails.json"  # Move your GeoJSON file to the static folder
 CACHE_FILE = "static/station_cache.json"
+WEATHER_CACHE_FILE = "static/weather_cache.json"
+RECOMMENDATIONS_CACHE_FILE = "static/recommendations_cache.json"
 
 # Initialize transformer for coordinate conversion
 transformer = Transformer.from_crs("EPSG:2326", "EPSG:4326", always_xy=True)
 
-# Load trail data on startup
+# === ENHANCED CACHING FOR TRAIL DATA ===
 def load_trail_data():
     # Make sure the cache directory exists
     os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
@@ -37,13 +39,67 @@ def load_trail_data():
     # Load cache if it exists
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r") as f:
-            station_cache = json.load(f)
+            try:
+                cache_data = json.load(f)
+                station_cache = cache_data.get("stations", {})
+                cache_timestamp = cache_data.get("timestamp", 0)
+                
+                # If cache is recent (less than 7 days old), use it
+                if time.time() - cache_timestamp < 7 * 24 * 60 * 60:
+                    # Skip API calls if cache is valid
+                    return geojson, station_cache, True
+                else:
+                    print("Cache expired, will refresh trail data")
+            except json.JSONDecodeError:
+                print("Cache file corrupted, creating new cache")
+                station_cache = {}
     else:
+        print("No cache file found, creating new cache")
         station_cache = {}
         
-    return geojson, station_cache
+    return geojson, station_cache, False
 
-# Weather forecast function
+# === ENHANCED WEATHER FORECAST CACHING ===
+def get_cached_weather(prompt):
+    # Initialize weather cache
+    if os.path.exists(WEATHER_CACHE_FILE):
+        with open(WEATHER_CACHE_FILE, "r") as f:
+            try:
+                weather_cache = json.load(f)
+            except:
+                weather_cache = {"data": {}, "timestamp": time.time()}
+    else:
+        weather_cache = {"data": {}, "timestamp": time.time()}
+    
+    # Check if cache is still valid (1 hour for current weather, 12 hours for forecasts)
+    cache_age = time.time() - weather_cache.get("timestamp", 0)
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    
+    # Simple key for weather cache based on date in prompt
+    cache_key = prompt.lower().strip()
+    
+    # If we have cached data for this query and it's not too old
+    if (cache_key in weather_cache["data"] and 
+        ((cache_key.find("today") >= 0 and cache_age < 3600) or  # 1 hour for today
+         (cache_age < 12 * 3600))):  # 12 hours for other forecasts
+        print(f"Using cached weather for: {cache_key}")
+        return weather_cache["data"][cache_key]
+    
+    # If not in cache or expired, get fresh data
+    weather_info = get_forecast_for_day(prompt)
+    
+    # Update cache
+    weather_cache["data"][cache_key] = weather_info
+    weather_cache["timestamp"] = time.time()
+    
+    # Save updated cache
+    os.makedirs(os.path.dirname(WEATHER_CACHE_FILE), exist_ok=True)
+    with open(WEATHER_CACHE_FILE, "w") as f:
+        json.dump(weather_cache, f, indent=2)
+    
+    return weather_info
+
+# Original weather forecast function
 def get_forecast_for_day(prompt):
     # Try using dateparser for natural language input
     results = search_dates(prompt, settings={"PREFER_DATES_FROM": "future"})
@@ -136,9 +192,45 @@ def get_forecast_for_day(prompt):
         "alert": "No weather data available for this date."
     }
 
+# === ENHANCED AI RECOMMENDATIONS CACHING ===
+def get_cached_recommendations(user_preference, trail_data):
+    # Initialize recommendations cache
+    if os.path.exists(RECOMMENDATIONS_CACHE_FILE):
+        with open(RECOMMENDATIONS_CACHE_FILE, "r") as f:
+            try:
+                recommendations_cache = json.load(f)
+            except:
+                recommendations_cache = {"data": {}, "timestamp": time.time()}
+    else:
+        recommendations_cache = {"data": {}, "timestamp": time.time()}
+    
+    # Simple key for recommendations cache
+    cache_key = user_preference.lower().strip()
+    
+    # Cache is valid for 24 hours
+    cache_age = time.time() - recommendations_cache.get("timestamp", 0)
+    if cache_key in recommendations_cache["data"] and cache_age < 24 * 3600:
+        print(f"Using cached recommendations for: {cache_key}")
+        return recommendations_cache["data"][cache_key]
+    
+    # Not in cache or expired, get fresh recommendations
+    recommendations = get_recommendations(user_preference, trail_data)
+    
+    # Update cache
+    recommendations_cache["data"][cache_key] = recommendations
+    recommendations_cache["timestamp"] = time.time()
+    
+    # Save updated cache
+    os.makedirs(os.path.dirname(RECOMMENDATIONS_CACHE_FILE), exist_ok=True)
+    with open(RECOMMENDATIONS_CACHE_FILE, "w") as f:
+        json.dump(recommendations_cache, f, indent=2)
+    
+    return recommendations
+
 # Process trail and find nearest stations
 def process_trails(geojson, station_cache):
     trail_data = []
+    cache_updated = False
 
     for i, feature in enumerate(geojson["features"]):
         props = feature["properties"]
@@ -166,6 +258,8 @@ def process_trails(geojson, station_cache):
             trail_data.append(station_cache[trail_id])
             continue
 
+        print(f"Finding nearest station for trail: {trail_id}")
+        cache_updated = True
         best_station = None
         best_distance = float('inf')
         best_type = None
@@ -209,6 +303,9 @@ def process_trails(geojson, station_cache):
                 except Exception:
                     continue
 
+            # Add a small delay to avoid API rate limits
+            time.sleep(0.2)
+
         trail_result = {
             "name": props.get("Trail_name_En"),
             "startLocation": props.get("Startpt_En"),
@@ -223,9 +320,13 @@ def process_trails(geojson, station_cache):
         trail_data.append(trail_result)
         station_cache[trail_id] = trail_result
 
-    # Save updated cache
-    with open(CACHE_FILE, "w") as f:
-        json.dump(station_cache, f, indent=2)
+    # Save updated cache with timestamp
+    if cache_updated:
+        with open(CACHE_FILE, "w") as f:
+            json.dump({
+                "stations": station_cache,
+                "timestamp": time.time()
+            }, f, indent=2)
         
     return trail_data
 
@@ -289,19 +390,21 @@ def get_recommendations(user_preference, trail_data):
     except Exception as e:
         return [{"error": f"Failed to get recommendations: {str(e)}"}]
 
-# Load data at startup
-geojson, station_cache = load_trail_data()
+# === API ROUTES ===
+@app.route('/api/ready', methods=['GET'])
+def ready():
+    return jsonify({"status": "ready"})
 
-# API Routes
 @app.route('/api/weather', methods=['POST'])
 def weather():
     data = request.get_json()
     prompt = data.get('prompt', '')
-    weather_info = get_forecast_for_day(prompt)
+    weather_info = get_cached_weather(prompt)
     return jsonify(weather_info)
 
 @app.route('/api/trails', methods=['GET'])
 def trails():
+    geojson, station_cache, _ = load_trail_data()
     trail_data = process_trails(geojson, station_cache)
     return jsonify(trail_data)
 
@@ -309,9 +412,16 @@ def trails():
 def recommend():
     data = request.get_json()
     preference = data.get('preference', '')
-    weather_info = get_forecast_for_day(preference)
+    
+    # Get cached weather information
+    weather_info = get_cached_weather(preference)
+    
+    # Get trail data (using cache if available)
+    geojson, station_cache, _ = load_trail_data()
     trail_data = process_trails(geojson, station_cache)
-    recommendations = get_recommendations(preference, trail_data)
+    
+    # Get recommendations (using cache if available)
+    recommendations = get_cached_recommendations(preference, trail_data)
     
     return jsonify({
         "weather": weather_info,
@@ -322,5 +432,16 @@ def recommend():
 def index():
     return send_from_directory('static', 'index.html')
 
+# === PRELOAD DATA ON SERVER START ===
 if __name__ == '__main__':
+    print("Preloading trail data...")
+    # Initial load of trail data to warm up the cache
+    geojson, station_cache, cache_valid = load_trail_data()
+    if not cache_valid:
+        print("Processing trails and creating cache...")
+        _ = process_trails(geojson, station_cache)
+        print("Trail cache created!")
+    else:
+        print("Using existing trail cache.")
+    
     app.run(debug=True, host='0.0.0.0', port=5000)

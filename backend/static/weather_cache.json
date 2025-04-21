@@ -1,0 +1,47 @@
+{
+  "data": {
+    "nearest hike to hku": {
+      "date": "Thursday, 2025-04-24",
+      "condition": "Mainly cloudy with a few showers. Sunny intervals during the day. Isolated thunderstorms later.",
+      "temp": "25\u201329\u00b0C",
+      "humidity": "70\u201395%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "hike near kwun tong, medium difficulty, 22 april": {
+      "date": "Tuesday, 2025-04-22",
+      "condition": "Mainly cloudy. Coastal mist in the morning. Hot with sunny periods during the day. One or two isolated showers later.",
+      "temp": "26\u201330\u00b0C",
+      "humidity": "70\u201395%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "nearest trail to tai po, moderate, april 22": {
+      "date": "Monday, 2025-04-28",
+      "condition": "Sunny intervals and one or two showers.",
+      "temp": "24\u201328\u00b0C",
+      "humidity": "65\u201390%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "nearest trail to tai po": {
+      "date": "Monday, 2025-04-28",
+      "condition": "Sunny intervals and one or two showers.",
+      "temp": "24\u201328\u00b0C",
+      "humidity": "65\u201390%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "nearest trail to hku": {
+      "date": "Thursday, 2025-04-24",
+      "condition": "Mainly cloudy with a few showers. Sunny intervals during the day. Isolated thunderstorms later.",
+      "temp": "25\u201329\u00b0C",
+      "humidity": "70\u201395%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "hardest and longest trail": {
+      "date": "Today",
+      "condition": "Weather condition unknown",
+      "temp": "26\u00b0C",
+      "humidity": null,
+      "alert": ""
+    }
+  },
+  "timestamp": 1745248687.84188
+}

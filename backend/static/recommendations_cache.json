@@ -1,0 +1,281 @@
+{
+  "data": {
+    "nearest hike to hku": [
+      {
+        "name": "Pinewood Battery Heritage Trail",
+        "length": "0.31 km",
+        "difficulty": "Easy",
+        "station": "Kotewall Fire Station",
+        "distance": "0.82 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09"
+      },
+      {
+        "name": "Pok Fu Lam Tree Walk",
+        "length": "3.42 km",
+        "difficulty": "Easy",
+        "station": "The Peak Police Station; Peak Road",
+        "distance": "0.94 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09"
+      },
+      {
+        "name": "Peak Trail (Pinewood Battery Section)",
+        "length": "4.4 km",
+        "difficulty": "Moderate",
+        "station": "Kotewall Fire Station",
+        "distance": "0.86 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09"
+      },
+      {
+        "name": "Peak Trail (High West Section)",
+        "length": "4.85 km",
+        "difficulty": "Moderate",
+        "station": "Kotewall Fire Station",
+        "distance": "1.44 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09"
+      }
+    ],
+    "hike near kwun tong, medium difficulty, 22 april": [
+      {
+        "name": "Hong Pak Country Trail",
+        "length": "4.01 km",
+        "difficulty": "Moderate",
+        "station": "MTR Tai Koo Station",
+        "distance": "1.73 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/UVZUTW1PdmF5c1BSWU5JRjZVZ29DZz09"
+      },
+      {
+        "name": "Ma On Shan Country Trail",
+        "length": "4.64 km",
+        "difficulty": "Moderate",
+        "station": "Yao'an Bus Terminal",
+        "distance": "2.32 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/QThMbWJpZ010MlZRYkFlMzU5UXY0QT09"
+      },
+      {
+        "name": "High Island Geo Trail - Biu Tsim Kok Section",
+        "length": "1.33 km",
+        "difficulty": "Moderate",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/MUNrNUw1WEdwS2RTa0IzMVJwSkY5QT09"
+      },
+      {
+        "name": "Tai Tam to Tai Koo (Jardine's Lookout Section)",
+        "length": "5.92 km",
+        "difficulty": "Moderate",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/TXpWQlRML0VFTUtiTmpqSDhhMkYwQT09"
+      },
+      {
+        "name": "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)",
+        "length": "3.5 km",
+        "difficulty": "Demanding",
+        "station": "Tai Koo",
+        "distance": "3.06 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/YXhBNmNMRldCL0wwZHE5ZGR1aWRHQT09"
+      },
+      {
+        "name": "High Junk Peak Country Trail",
+        "length": "6.35 km",
+        "difficulty": "Demanding",
+        "station": "\u5751\u53e3(\u5317)(\u5c07\u8ecd\u6fb3\u91ab\u9662)",
+        "distance": "2.92 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/SzAxekR1U1dCNytYL3U3NW9PWnVWQT09"
+      },
+      {
+        "name": "Pat Sin Leng Nature Trail",
+        "length": "4.54 km",
+        "difficulty": "Moderate",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/SmRaQXBzUy9DSHY1YlRSQjA3QVE5QT09"
+      },
+      {
+        "name": "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)",
+        "length": "9.53 km",
+        "difficulty": "Demanding",
+        "station": "Sin Fat Road; Near Lam Tin Station",
+        "distance": "0.13 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Z05QUVAxMnphOXBCSGlwSkhKVE1Zdz09"
+      }
+    ],
+    "nearest trail to tai po, moderate, april 22": [
+      {
+        "name": "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)",
+        "length": "4.2 km",
+        "difficulty": "Moderate",
+        "station": "The Apex",
+        "distance": "1.9 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/bStIb016ZGszVk5WWElJN2FzdTdRdz09"
+      },
+      {
+        "name": "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)",
+        "length": "8.2 km",
+        "difficulty": "Moderate",
+        "station": "Wong Tai Sin Fire Station",
+        "distance": "2.18 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Sk1oNnZ1NlE3VksxUU1CekZYYkZuUT09"
+      },
+      {
+        "name": "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)",
+        "length": "5.47 km",
+        "difficulty": "Moderate",
+        "station": "Hin Keng",
+        "distance": "2.84 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/M3ArN2RxYmROLzBKNlhxRndlRUdzZz09"
+      },
+      {
+        "name": "Tai Po Kau Nature Trail",
+        "length": "1.06 km",
+        "difficulty": "Moderate",
+        "station": "Tai Po Kau Gas Station",
+        "distance": "0.99 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09"
+      },
+      {
+        "name": "Tai Po Kau Blue Walk",
+        "length": "4.36 km",
+        "difficulty": null,
+        "station": "Tai Po Market Station",
+        "distance": "2.05 km",
+        "website": null
+      }
+    ],
+    "nearest trail to tai po": [
+      {
+        "name": "Tai Po Kau Nature Trail",
+        "length": "1.06 km",
+        "difficulty": "Moderate",
+        "station": "Tai Po Kau Gas Station",
+        "distance": "0.99 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09"
+      },
+      {
+        "name": "Tai Po Kau Brown Walk",
+        "length": "7.73 km",
+        "difficulty": null,
+        "station": null,
+        "distance": null,
+        "website": null
+      },
+      {
+        "name": "Tai Po Kau Red Walk",
+        "length": "3.28 km",
+        "difficulty": null,
+        "station": "Tai Po Kau Gas Station",
+        "distance": "2.58 km",
+        "website": null
+      },
+      {
+        "name": "Tai Po Kau Yellow Walk",
+        "length": "10.34 km",
+        "difficulty": null,
+        "station": null,
+        "distance": null,
+        "website": null
+      },
+      {
+        "name": "Tai Po Kau Blue Walk",
+        "length": "4.36 km",
+        "difficulty": null,
+        "station": "Tai Po Market Station",
+        "distance": "2.05 km",
+        "website": null
+      }
+    ],
+    "nearest trail to hku": [
+      {
+        "name": "Pinewood Battery Heritage Trail",
+        "length": "0.31 km",
+        "difficulty": "Easy",
+        "station": "Kotewall Fire Station",
+        "distance": "0.82 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09"
+      },
+      {
+        "name": "Pok Fu Lam Tree Walk",
+        "length": "3.42 km",
+        "difficulty": "Easy",
+        "station": "The Peak Police Station; Peak Road",
+        "distance": "0.94 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09"
+      },
+      {
+        "name": "Peak Trail (Pinewood Battery Section)",
+        "length": "4.4 km",
+        "difficulty": "Moderate",
+        "station": "Kotewall Fire Station",
+        "distance": "0.86 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09"
+      },
+      {
+        "name": "Peak Trail (High West Section)",
+        "length": "4.85 km",
+        "difficulty": "Moderate",
+        "station": "Kotewall Fire Station",
+        "distance": "1.44 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09"
+      }
+    ],
+    "hardest and longest trail": [
+      {
+        "name": "Chi Ma Wan Country Trail",
+        "length": "17.84 km",
+        "difficulty": "Difficult",
+        "station": "Pui O Petrol Station",
+        "distance": "1.83 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/ZDU4aERwb1FhczExTUxFNk9YOU5TUT09"
+      },
+      {
+        "name": "Plover Cove Reservoir Country Trail",
+        "length": "15.63 km",
+        "difficulty": "Very difficult",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/SUduYUhCbXFFaC9jT1dMRk91OTRKUT09"
+      },
+      {
+        "name": "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)",
+        "length": "15.22 km",
+        "difficulty": "Difficult",
+        "station": "Tuen Mun Station Terminus",
+        "distance": "0.83 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/N2ptQ3BGSUdScnRGTzllNXZ6Uk8vUT09"
+      },
+      {
+        "name": "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)",
+        "length": "14.33 km",
+        "difficulty": "Difficult",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/d0pFSWc1N1dWdkh3aStSajBvUHlmUT09"
+      },
+      {
+        "name": "Islands Nature Heritage Trail - Tai O Section",
+        "length": "13.82 km",
+        "difficulty": null,
+        "station": "None",
+        "distance": "None km",
+        "website": null
+      },
+      {
+        "name": "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)",
+        "length": "12.84 km",
+        "difficulty": "Difficult",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/aWhDRVFZbmpET0pMazRxdWhhU0hIUT09"
+      },
+      {
+        "name": "Yuen Tsuen Ancient Trail Country Trail",
+        "length": "12.31 km",
+        "difficulty": "Difficult",
+        "station": "Tsuen Wan Police Station",
+        "distance": "2.22 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/V2JJVDNVR25Lc0lnV1pZdC9NdHVBZz09"
+      }
+    ]
+  },
+  "timestamp": 1745248692.532224
+}
