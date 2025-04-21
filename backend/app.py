@@ -103,22 +103,33 @@ def get_cached_weather(prompt):
 # Updated weather forecast function with no caching and improved date handling
 def get_forecast_for_day(prompt):
     today = datetime.now()
-    date_requested = None
-    readable_date = "Today"
-
-    # Try using dateparser for natural language input
+    
+    # Step 1: Try using dateparser for natural language input
     results = search_dates(prompt, settings={"PREFER_DATES_FROM": "future"})
     if results:
-        parsed_date = results[0][1]
+        # Extract the date string and parsed date
+        date_string, parsed_date = results[0]
         
-        # Check if the parsed date is actually today
+        # Debug the parsed date
+        print(f"Parsed date from '{date_string}': {parsed_date}")
+        
+        # Format the date for API request
+        date_requested = parsed_date.strftime("%Y%m%d")
+        readable_date = parsed_date.strftime("%A, %Y-%m-%d")
+        
+        # Check if the parsed date is today
         is_today = (parsed_date.year == today.year and 
                    parsed_date.month == today.month and 
                    parsed_date.day == today.day)
         
-        if not is_today:
-            date_requested = parsed_date.strftime("%Y%m%d")
-            readable_date = parsed_date.strftime("%A, %Y-%m-%d")
+        if is_today:
+            # If it's today, use current weather
+            date_requested = None
+            readable_date = "Today"
+    else:
+        date_requested = None
+        readable_date = "Today"
+    
     
     # If no date found or date is today, use current weather
     if not date_requested:
