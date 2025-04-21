@@ -41,7 +41,49 @@
       "temp": "26\u00b0C",
       "humidity": null,
       "alert": ""
+    },
+    "easiest and shortest trail": {
+      "date": "Today",
+      "condition": "Weather condition unknown",
+      "temp": "26\u00b0C",
+      "humidity": null,
+      "alert": ""
+    },
+    "nearest to tai po, easiest, april 23": {
+      "date": "Monday, 2025-04-28",
+      "condition": "Sunny intervals and one or two showers.",
+      "temp": "24\u201328\u00b0C",
+      "humidity": "65\u201390%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "nearest to tai po, easiest, april 30": {
+      "date": "Monday, 2025-04-28",
+      "condition": "Sunny intervals and one or two showers.",
+      "temp": "24\u201328\u00b0C",
+      "humidity": "65\u201390%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
+    },
+    "april 30": {
+      "date": "Wednesday, 2025-04-30",
+      "condition": "Sunny periods.",
+      "temp": "24\u201329\u00b0C",
+      "humidity": "60\u201385%",
+      "alert": ""
+    },
+    "nearest to tai po, 30 april": {
+      "date": "Wednesday, 2025-04-30",
+      "condition": "Sunny periods.",
+      "temp": "24\u201329\u00b0C",
+      "humidity": "60\u201385%",
+      "alert": ""
+    },
+    "nearest trail to hku, longest, 23 april": {
+      "date": "Thursday, 2025-04-24",
+      "condition": "Mainly cloudy with a few showers. Sunny intervals during the day. Isolated thunderstorms later.",
+      "temp": "25\u201329\u00b0C",
+      "humidity": "70\u201395%",
+      "alert": "Rain is expected. Consider rescheduling your hike."
     }
   },
-  "timestamp": 1745248687.84188
+  "timestamp": 1745251242.5618849
 }

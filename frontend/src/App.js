@@ -2,7 +2,8 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Search, ArrowRight, Sun, Cloud, CloudRain, Thermometer, 
-  MapPin, BarChart2, Compass, Info, AlertCircle, RefreshCw
+  MapPin, BarChart2, Compass, Info, AlertCircle, RefreshCw,
+  Map, Navigation, Droplet, Wind, Clock, Award
 } from 'react-feather';
 import './App.css';
 
@@ -18,6 +19,14 @@ function App() {
   const [initialLoad, setInitialLoad] = useState(true);
   
   const API_BASE_URL = process.env.REACT_APP_API_URL || "http://localhost:5000";
+  
+  // Reset to home page
+  const goToHome = () => {
+    setResults(null);
+    setWeatherInfo(null);
+    setError(null);
+    setUserPreference('');
+  };
   
   // Check if backend is ready on initial load
   useEffect(() => {
@@ -126,9 +135,102 @@ function App() {
     const diffLower = difficulty?.toLowerCase() || '';
     if (diffLower.includes('easy')) return "bg-green-500";
     if (diffLower.includes('moderate')) return "bg-yellow-500";
-    if (diffLower.includes('difficult')) return "bg-red-500";
+    if (diffLower.includes('difficult') || diffLower.includes('demanding')) return "bg-red-500";
     return "bg-gray-200";
   };
+
+  // Welcome section for the home page
+  // This is the renderWelcomeSection function with text size adjustments
+// This is the renderWelcomeSection function with text size adjustments
+// This is the renderWelcomeSection function with text size adjustments
+const renderWelcomeSection = () => {
+  if (results || weatherInfo) return null;
+  
+  return (
+    <div className="p-4 mt-2">
+      <div className="bg-white rounded-xl shadow-md overflow-hidden">
+        <div className="p-5">
+          <h2 className="text-xl font-semibold text-gray-800 mb-3">Welcome to HikeSmart HK</h2>
+          <p className="text-sm text-gray-600 mb-5">Your personal guide to finding the perfect hiking trails in Hong Kong, tailored to your preferences and current weather conditions.</p>
+          
+          <h3 className="text-md font-medium text-gray-800 mb-3">What HikeSmart Can Do For You:</h3>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <div className="flex items-start">
+              <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
+                <Map className="text-emerald-600" size={18} />
+              </div>
+              <div>
+                <h4 className="font-medium text-gray-800 text-sm">Find Perfect Trails</h4>
+                <p className="text-gray-600 text-xs">Discover hiking trails that match your preferences.</p>
+              </div>
+            </div>
+            
+            <div className="flex items-start">
+              <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
+                <Navigation className="text-emerald-600" size={18} />
+              </div>
+              <div>
+                <h4 className="font-medium text-gray-800 text-sm">Transit Information</h4>
+                <p className="text-gray-600 text-xs">See nearest MTR/bus stations to each trail.</p>
+              </div>
+            </div>
+            
+            <div className="flex items-start">
+              <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
+                <Cloud className="text-emerald-600" size={18} />
+              </div>
+              <div>
+                <h4 className="font-medium text-gray-800 text-sm">Real-time Weather</h4>
+                <p className="text-gray-600 text-xs">Check weather conditions for safe hiking.</p>
+              </div>
+            </div>
+            
+            <div className="flex items-start">
+              <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
+                <Award className="text-emerald-600" size={18} />
+              </div>
+              <div>
+                <h4 className="font-medium text-gray-800 text-sm">AI Recommendations</h4>
+                <p className="text-gray-600 text-xs">Get personalized trail suggestions.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div className="bg-gray-50 p-3 rounded-lg border border-gray-100 mt-3">
+            <h3 className="text-gray-800 font-medium mb-2 text-sm">Try searching for:</h3>
+            <div className="flex flex-wrap gap-2">
+              <button 
+                onClick={() => setUserPreference("Easy hikes near MTR")}
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+              >
+                Easy hikes near MTR
+              </button>
+              <button 
+                onClick={() => setUserPreference("Family friendly trails")}
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+              >
+                Family friendly trails
+              </button>
+              <button 
+                onClick={() => setUserPreference("Challenging hikes")}
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+              >
+                Challenging hikes
+              </button>
+              <button 
+                onClick={() => setUserPreference("Short trails with views")}
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+              >
+                Short trails with views
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
 
   return (
     <div className="flex flex-col min-h-screen bg-gray-100">
@@ -140,10 +242,16 @@ function App() {
         </div>
       ) : (
         <>
-          {/* Header */}
+          {/* Header - Added onClick to logo */}
           <header className="bg-emerald-600 text-white p-4 shadow-md">
             <div className="flex justify-between items-center">
-              <h1 className="text-2xl font-bold">HikeSmart HK</h1>
+              <h1 
+                className="text-2xl font-bold cursor-pointer flex items-center" 
+                onClick={goToHome}
+              >
+                <Map className="mr-2" size={24} />
+                HikeSmart HK
+              </h1>
               <Info size={24} />
             </div>
           </header>
@@ -186,6 +294,9 @@ function App() {
               <span className="text-red-800">{error}</span>
             </div>
           )}
+          
+          {/* Welcome Section */}
+          {renderWelcomeSection()}
           
           {/* Weather Section */}
           {weatherInfo && (
