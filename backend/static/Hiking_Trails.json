@@ -1,0 +1,6029 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hiking_Trails",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:2326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832743.7516999999,
+            814188.1651000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 1,
+        "Trail_ID": "hk_1",
+        "Trail_name_En": "Hong Kong Trail Section 1 (The Peak To Pok Fu Lam Reservoir Road)",
+        "Trail_name_Ch": "港島徑第一段 (山頂至薄扶林水塘道)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "The Peak",
+        "Startpt_Ch": "山頂",
+        "Finishpt_E": "Pok Fu Lam Reservoir Road",
+        "Finishpt_C": "薄扶林水塘道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MkpYc3Jud1ZjS2RFbzE1Qkhza0htdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MkpYc3Jud1ZjS2RFbzE1Qkhza0htdz09",
+        "Shape_Length": 6333.612993259516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832743.7516999999,
+            814188.1651000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 2,
+        "Trail_ID": "hk_2",
+        "Trail_name_En": "Hong Kong Trail Section 2 (Pok Fu Lam Reservoir Road To Peel Rise)",
+        "Trail_name_Ch": "港島徑第二段 (薄扶林水塘道至貝璐道)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Pok Fu Lam Reservoir Road",
+        "Startpt_Ch": "薄扶林水塘道",
+        "Finishpt_E": "Peel Rise",
+        "Finishpt_C": "貝璐道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TnY1M1V3ajM0MEZnRE5TbzRSVUJ3QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TnY1M1V3ajM0MEZnRE5TbzRSVUJ3QT09",
+        "Shape_Length": 4332.412563167658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835150.2955,
+            813979.5329
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 3,
+        "Trail_ID": "hk_3",
+        "Trail_name_En": "Hong Kong Trail Section 3 (Peel Rise To Wan Chai Gap)",
+        "Trail_name_Ch": "港島徑第三段 (貝璐道至灣仔峽)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Peel Rise",
+        "Startpt_Ch": "貝璐道",
+        "Finishpt_E": "Wan Chai Gap",
+        "Finishpt_C": "灣仔峽",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cGRqOGNYRGlmUTFxbjB3TEVaakxHdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cGRqOGNYRGlmUTFxbjB3TEVaakxHdz09",
+        "Shape_Length": 5859.722881349772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            837984.8596000001,
+            813142.9337000009
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 4,
+        "Trail_ID": "hk_4",
+        "Trail_name_En": "Hong Kong Trail Section 4 (Wan Chai Gap To Wong Nai Chung Gap)",
+        "Trail_name_Ch": "港島徑第四段 (灣仔峽至黃泥涌峽)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Wan Chai Gap",
+        "Startpt_Ch": "灣仔峽",
+        "Finishpt_E": "Wong Nai Chung Gap",
+        "Finishpt_C": "黃泥涌峽",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZFJyWllCUGJpMUJublRIZUVPWWF0dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZFJyWllCUGJpMUJublRIZUVPWWF0dz09",
+        "Shape_Length": 7234.920116094473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            840835.8832,
+            812122.1878999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 6,
+        "Trail_ID": "hk_6",
+        "Trail_name_En": "Hong Kong Trail Section 6 (Mount Parker Road To Tai Tam Road)",
+        "Trail_name_Ch": "港島徑第六段 (柏架山道至大潭道)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Mount Parker Road",
+        "Startpt_Ch": "柏架山道",
+        "Finishpt_E": "Tai Tam Road",
+        "Finishpt_C": "大潭道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/N3BGSE14SVlMSE9yVzQva1RNRTN5Zz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/N3BGSE14SVlMSE9yVzQva1RNRTN5Zz09",
+        "Shape_Length": 4458.7164689129495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842748.1924999999,
+            809826.1856999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 7,
+        "Trail_ID": "hk_7",
+        "Trail_name_En": "Hong Kong Trail Section 7 (Tai Tam Road To To Tei Wan)",
+        "Trail_name_Ch": "港島徑第七段 (大潭道至土地灣)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Tam Road",
+        "Startpt_Ch": "大潭道",
+        "Finishpt_E": "To Tei Wan",
+        "Finishpt_C": "土地灣",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/czFnaDRTUUFySjBwT1VDeWxSSGM3QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/czFnaDRTUUFySjBwT1VDeWxSSGM3QT09",
+        "Shape_Length": 7128.813371126219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            840022.7319,
+            814233.2163999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 5,
+        "Trail_ID": "hk_5",
+        "Trail_name_En": "Hong Kong Trail Section 5 (Wong Nai Chung Gap To Mount Parker Road)",
+        "Trail_name_Ch": "港島徑第五段 (黃泥涌峽至柏架山道)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wong Nai Chung Gap",
+        "Startpt_Ch": "黃泥涌峽",
+        "Finishpt_E": "Mount Parker Road",
+        "Finishpt_C": "柏架山道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/YXhBNmNMRldCL0wwZHE5ZGR1aWRHQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/YXhBNmNMRldCL0wwZHE5ZGR1aWRHQT09",
+        "Shape_Length": 3500.2869720870394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            843351.6967000002,
+            811789.3936999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "NAME": "HONG KONG TRAIL",
+        "C_NAME": "港島徑",
+        "Section_No": 8,
+        "Trail_ID": "hk_8",
+        "Trail_name_En": "Hong Kong Trail Section 8 (To Tei Wan To Tai Long Wan)",
+        "Trail_name_Ch": "港島徑第八段 (土地灣至大浪灣)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "To Tei Wan",
+        "Startpt_Ch": "土地灣",
+        "Finishpt_E": "Tai Long Wan",
+        "Finishpt_C": "大浪灣",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/QVVxLzJWeGxNUndtYUNXY2VpK3QxUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/QVVxLzJWeGxNUndtYUNXY2VpK3QxUT09",
+        "Shape_Length": 7806.894145340559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            812475.5239000004,
+            811148.8485000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 10,
+        "Trail_ID": "lt_10",
+        "Trail_name_En": "Lantau Trail Section 10 (Shui Hau To Cheung Sha)",
+        "Trail_name_Ch": "鳳凰徑第十段 (水口至長沙)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Shui Hau",
+        "Startpt_Ch": "水口",
+        "Finishpt_E": "Cheung Sha",
+        "Finishpt_C": "長沙",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/YS9XR04yWE5GRnBRZTFFS3E3bjlKdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/YS9XR04yWE5GRnBRZTFFS3E3bjlKdz09",
+        "Shape_Length": 5773.303484201069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            806871.5673000002,
+            811799.1714999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 5,
+        "Trail_ID": "lt_5",
+        "Trail_name_En": "Lantau Trail Section 5 (Sham Wat Road To Man Cheung Po)",
+        "Trail_name_Ch": "鳳凰徑第五段 (深屈道至萬丈布)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Sham Wat Road",
+        "Startpt_Ch": "深屈道",
+        "Finishpt_E": "Man Cheung Po",
+        "Finishpt_C": "萬丈布",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ckcwQUpQUHEzcWRhZVdDYkZsQlR2UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ckcwQUpQUHEzcWRhZVdDYkZsQlR2UT09",
+        "Shape_Length": 7770.692250666134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            803972.25,
+            812168.6899999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 6,
+        "Trail_ID": "lt_6",
+        "Trail_name_En": "Lantau Trail Section 6 (Man Cheung Po To Tai O)",
+        "Trail_name_Ch": "鳳凰徑第六段 (萬丈布至大澳)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Man Cheung Po",
+        "Startpt_Ch": "萬丈布",
+        "Finishpt_E": "Tai O",
+        "Finishpt_C": "大澳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NjVmZUw2OURKcjZkQldxYlN3TjJXQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NjVmZUw2OURKcjZkQldxYlN3TjJXQT09",
+        "Shape_Length": 1891.5091641022707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            806781.4840000002,
+            809985.818
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 8,
+        "Trail_ID": "lt_8",
+        "Trail_name_En": "Lantau Trail Section 8 (Kau Ling Chung To Shek Pik)",
+        "Trail_name_Ch": "鳳凰徑第八段 (狗嶺涌至石壁)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Kau Ling Chung",
+        "Startpt_Ch": "狗嶺涌",
+        "Finishpt_E": "Shek Pik",
+        "Finishpt_C": "石壁",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Nk5VMHQ4YmlkMFZkV0JxdDdtSS94Zz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Nk5VMHQ4YmlkMFZkV0JxdDdtSS94Zz09",
+        "Shape_Length": 4735.259067927871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            809558.2679000003,
+            809223.0679000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 9,
+        "Trail_ID": "lt_9",
+        "Trail_name_En": "Lantau Trail Section 9 (Shek Pik To Shui Hau)",
+        "Trail_name_Ch": "鳳凰徑第九段 (石壁至水口)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Shek Pik",
+        "Startpt_Ch": "石壁",
+        "Finishpt_E": "Shui Hau",
+        "Finishpt_C": "水口",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZjQ0ZG5zT3FFbm5HYUlwVmNtck5QUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZjQ0ZG5zT3FFbm5HYUlwVmNtck5QUT09",
+        "Shape_Length": 6415.5829319052145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816818.5869000005,
+            813063.5721000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 1,
+        "Trail_ID": "lt_1",
+        "Trail_name_En": "Lantau Trail Section 1 (Mui Wo To Nam Shan)",
+        "Trail_name_Ch": "鳳凰徑第一段 (梅窩至南山)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Mui Wo",
+        "Startpt_Ch": "梅窩",
+        "Finishpt_E": "Nam Shan",
+        "Finishpt_C": "南山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/YUNwM2czOWpZU2hrTXF3NlRTU3hNZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/YUNwM2czOWpZU2hrTXF3NlRTU3hNZz09",
+        "Shape_Length": 2210.6520771747732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            806871.5926000001,
+            811799.1936000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 4,
+        "Trail_ID": "lt_4",
+        "Trail_name_En": "Lantau Trail Section 4 (Ngong Ping To Sham Wat Road)",
+        "Trail_name_Ch": "鳳凰徑第四段 (昂坪至深屈道)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Ngong Ping",
+        "Startpt_Ch": "昂坪",
+        "Finishpt_E": "Sham Wat Road",
+        "Finishpt_C": "深屈道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/bFFXSU03dVRuU1VQSHpMRThST3Zldz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/bFFXSU03dVRuU1VQSHpMRThST3Zldz09",
+        "Shape_Length": 5197.92284429365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            803972.25,
+            812168.6899999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 7,
+        "Trail_ID": "lt_7",
+        "Trail_name_En": "Lantau Trail Section 7 (Tai O To Kau Ling Chung)",
+        "Trail_name_Ch": "鳳凰徑第七段 (大澳至狗嶺涌)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tai O",
+        "Startpt_Ch": "大澳",
+        "Finishpt_E": "Kau Ling Chung",
+        "Finishpt_C": "狗嶺涌",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Qk9WL0ZDY2huUFJSYVg4Rm5Gb3h3Zz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Qk9WL0ZDY2huUFJSYVg4Rm5Gb3h3Zz09",
+        "Shape_Length": 9841.117233127765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            815625.9993000003,
+            811633.1791999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 11,
+        "Trail_ID": "lt_11",
+        "Trail_name_En": "Lantau Trail Section 11 (Cheung Sha To Pui O)",
+        "Trail_name_Ch": "鳳凰徑第十一段 (長沙至貝澳)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Cheung Sha",
+        "Startpt_Ch": "長沙",
+        "Finishpt_E": "Pui O",
+        "Finishpt_C": "貝澳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NktmYXJYQWVwNmMrM016d09JbkYrQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NktmYXJYQWVwNmMrM016d09JbkYrQT09",
+        "Shape_Length": 4167.550672243276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            818227.3477999996,
+            814021.4624000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 12,
+        "Trail_ID": "lt_12",
+        "Trail_name_En": "Lantau Trail Section 12 (Pui O To Mui Wo)",
+        "Trail_name_Ch": "鳳凰徑第十二段 (貝澳至梅窩)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Pui O",
+        "Startpt_Ch": "貝澳",
+        "Finishpt_E": "Mui Wo",
+        "Finishpt_C": "梅窩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/aU9nYU5ZRzBPU0VIWWJ0NUhkK1NWZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/aU9nYU5ZRzBPU0VIWWJ0NUhkK1NWZz09",
+        "Shape_Length": 9003.322526259084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            809016.3508000001,
+            812692.4960999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 3,
+        "Trail_ID": "lt_3",
+        "Trail_name_En": "Lantau Trail Section 3 (Pak Kung Au To Ngong Ping)",
+        "Trail_name_Ch": "鳳凰徑第三段 (伯公坳至昂坪)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Pak Kung Au",
+        "Startpt_Ch": "伯公坳",
+        "Finishpt_E": "Ngong Ping",
+        "Finishpt_C": "昂坪",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NWJYSHpGd0d5NmZNdXdtQmM4UTBRdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NWJYSHpGd0d5NmZNdXdtQmM4UTBRdz09",
+        "Shape_Length": 4451.727899779071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816818.5869000005,
+            813063.5721000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "NAME": "LANTAU TRAIL",
+        "C_NAME": "鳳凰徑",
+        "Section_No": 2,
+        "Trail_ID": "lt_2",
+        "Trail_name_En": "Lantau Trail Section 2 (Nam Shan To Pak Kung Au)",
+        "Trail_name_Ch": "鳳凰徑第二段 (南山至伯公坳)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Nam Shan",
+        "Startpt_Ch": "南山",
+        "Finishpt_E": "Pak Kung Au",
+        "Finishpt_C": "伯公坳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SVdvZDdnTENQZXl0byt5QndsQ0NmZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SVdvZDdnTENQZXl0byt5QndsQ0NmZz09",
+        "Shape_Length": 6337.806061829991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851408.1640999997,
+            828983.2794000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 1,
+        "Trail_ID": "mc_1",
+        "Trail_name_En": "MacLehose Trail Section 1 (Pak Tam Chung To Long Ke)",
+        "Trail_name_Ch": "麥理浩徑第一段 (北潭涌至浪茄)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Pak Tam Chung",
+        "Startpt_Ch": "北潭涌",
+        "Finishpt_E": "Long Ke",
+        "Finishpt_C": "浪茄",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VFFUbFFNOXNXTHNWU2FqT09UTjlOZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VFFUbFFNOXNXTHNWU2FqT09UTjlOZz09",
+        "Shape_Length": 10097.415914823707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852220.7325999998,
+            831268.3971999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 2,
+        "Trail_ID": "mc_2",
+        "Trail_name_En": "MacLehose Trail Section 2 (Long Ke To Pak Tam Au)",
+        "Trail_name_Ch": "麥理浩徑第二段 (浪茄至北潭凹)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Long Ke",
+        "Startpt_Ch": "浪茄",
+        "Finishpt_E": "Pak Tam Au",
+        "Finishpt_C": "北潭凹",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/d0pFSWc1N1dWdkh3aStSajBvUHlmUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/d0pFSWc1N1dWdkh3aStSajBvUHlmUT09",
+        "Shape_Length": 14332.180379880645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            846808.4806000004,
+            829509.5275999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 4,
+        "Trail_ID": "mc_4",
+        "Trail_name_En": "MacLehose Trail Section 4 (Kei Ling Ha To Tate's Cairn)",
+        "Trail_name_Ch": "麥理浩徑第四段 (企嶺下至大老山)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Kei Ling Ha",
+        "Startpt_Ch": "企嶺下",
+        "Finishpt_E": "Tate's Cairn",
+        "Finishpt_C": "大老山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/aWhDRVFZbmpET0pMazRxdWhhU0hIUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/aWhDRVFZbmpET0pMazRxdWhhU0hIUT09",
+        "Shape_Length": 12835.564227988893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833866.2287999997,
+            823361.4010000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 5,
+        "Trail_ID": "mc_5",
+        "Trail_name_En": "MacLehose Trail Section 5 (Tate's Cairn To Tai Po Road)",
+        "Trail_name_Ch": "麥理浩徑第五段 (大老山至大埔公路)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tate’s Cairn",
+        "Startpt_Ch": "大老山",
+        "Finishpt_E": "Tai Po Road",
+        "Finishpt_C": "大埔公路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MW45T1puY3I1OVJiaDRudGNuNEgxZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MW45T1puY3I1OVJiaDRudGNuNEgxZz09",
+        "Shape_Length": 11434.199239026784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832912.4670000002,
+            826542.9679000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 6,
+        "Trail_ID": "mc_6",
+        "Trail_name_En": "MacLehose Trail Section 6 (Tai Po Road To Shing Mun)",
+        "Trail_name_Ch": "麥理浩徑第六段 (大埔公路至城門)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Po Road",
+        "Startpt_Ch": "大埔公路",
+        "Finishpt_E": "Shing Mun Reservoir",
+        "Finishpt_C": "城門水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/bStIb016ZGszVk5WWElJN2FzdTdRdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/bStIb016ZGszVk5WWElJN2FzdTdRdz09",
+        "Shape_Length": 4201.744452973861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834401.5138999997,
+            830321.0789999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 7,
+        "Trail_ID": "mc_7",
+        "Trail_name_En": "MacLehose Trail Section 7 (Shing Mun To Lead Mine Pass)",
+        "Trail_name_Ch": "麥理浩徑第七段 (城門至鉛鑛坳)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Shing Mun Reservoir",
+        "Startpt_Ch": "城門水塘",
+        "Finishpt_E": "Lead Mine Pass",
+        "Finishpt_C": "鉛鑛坳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MzVpUXNrWFZsM3NvcEppamc4emhIZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MzVpUXNrWFZsM3NvcEppamc4emhIZz09",
+        "Shape_Length": 7004.218686210927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834401.5576,
+            830321.0353999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 8,
+        "Trail_ID": "mc_8",
+        "Trail_name_En": "MacLehose Trail Section 8 (Lead Mine Pass To Route Twisk)",
+        "Trail_name_Ch": "麥理浩徑第八段 (鉛鑛坳至荃錦公路)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Lead Mine Pass",
+        "Startpt_Ch": "鉛鑛坳",
+        "Finishpt_E": "Route Twisk",
+        "Finishpt_C": "荃錦公路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cm1EdG9ycVhDTEFrT3NGYmFsYXdWdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cm1EdG9ycVhDTEFrT3NGYmFsYXdWdz09",
+        "Shape_Length": 9414.94877991873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            824853.0959000001,
+            827921.4924999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 9,
+        "Trail_ID": "mc_9",
+        "Trail_name_En": "MacLehose Trail Section 9 (Route Twisk To Tin Fu Tsai)",
+        "Trail_name_Ch": "麥理浩徑第九段 (荃錦公路至田夫仔)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Route Twisk",
+        "Startpt_Ch": "荃錦公路",
+        "Finishpt_E": "Tin Fu Tsai",
+        "Finishpt_C": "田夫仔",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VGdKd0dZMzBTK3lKYjR3Z1dTR291UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VGdKd0dZMzBTK3lKYjR3Z1dTR291UT09",
+        "Shape_Length": 6154.379103484398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            815775.2752999999,
+            828462.4312999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 10,
+        "Trail_ID": "mc_10",
+        "Trail_name_En": "MacLehose Trail Section 10 (Tin Fu Tsai To Tuen Mun)",
+        "Trail_name_Ch": "麥理浩徑第十段 (田夫仔至屯門)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Tin Fu Tsai",
+        "Startpt_Ch": "田夫仔",
+        "Finishpt_E": "Tuen Mun",
+        "Finishpt_C": "屯門",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/N2ptQ3BGSUdScnRGTzllNXZ6Uk8vUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/N2ptQ3BGSUdScnRGTzllNXZ6Uk8vUT09",
+        "Shape_Length": 15224.282466692102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852220.7325999998,
+            831268.3971999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "NAME": "MACLEHOSE TRAIL",
+        "C_NAME": "麥理浩徑",
+        "Section_No": 3,
+        "Trail_ID": "mc_3",
+        "Trail_name_En": "MacLehose Trail Section 3 (Pak Tam Au To Kei Ling Ha)",
+        "Trail_name_Ch": "麥理浩徑第三段 (北潭凹至企嶺下)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Pak Tam Au",
+        "Startpt_Ch": "北潭凹",
+        "Finishpt_E": "Kei Ling Ha",
+        "Finishpt_C": "企嶺下",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/aG1rVm1JUWVFcUVyT2RXL3Z5RnpUdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/aG1rVm1JUWVFcUVyT2RXL3Z5RnpUdz09",
+        "Shape_Length": 9137.957085534781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            839536.6311999997,
+            809440.5245999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 1,
+        "Trail_ID": "ws_1",
+        "Trail_name_En": "Wilson Trail Section 1 (Stanley Gap Road To Wong Nai Chung Reservoir)",
+        "Trail_name_Ch": "衞奕信徑第一段 (赤柱峽道至黃泥涌水塘)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Stanley Gap Road",
+        "Startpt_Ch": "赤柱峽道",
+        "Finishpt_E": "Wong Nai Chung Reservoir",
+        "Finishpt_C": "黃泥涌水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TCtocVVTL1JuMXpaQVBSOFBYYzRSUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TCtocVVTL1JuMXpaQVBSOFBYYzRSUT09",
+        "Shape_Length": 4822.561516427725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            841982.3848000001,
+            818733.2926000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 3,
+        "Trail_ID": "ws_3",
+        "Trail_name_En": "Wilson Trail Section 3 (Lam Tin To Tseng Lan Shue)",
+        "Trail_name_Ch": "衞奕信徑第三段 (藍田至井欄樹)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Lam Tin",
+        "Startpt_Ch": "藍田",
+        "Finishpt_E": "Tseng Lan Shue",
+        "Finishpt_C": "井欄樹",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Z05QUVAxMnphOXBCSGlwSkhKVE1Zdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Z05QUVAxMnphOXBCSGlwSkhKVE1Zdz09",
+        "Shape_Length": 9531.478997764825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838607.5005000001,
+            824030.4093999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 5,
+        "Trail_ID": "ws_5",
+        "Trail_name_En": "Wilson Trail Section 5 (Sha Tin Pass To Tai Po Road)",
+        "Trail_name_Ch": "衞奕信徑第五段 (沙田坳至大埔公路)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Sha Tin Pass",
+        "Startpt_Ch": "沙田坳",
+        "Finishpt_E": "Tai Po Road",
+        "Finishpt_C": "大埔公路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Sk1oNnZ1NlE3VksxUU1CekZYYkZuUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Sk1oNnZ1NlE3VksxUU1CekZYYkZuUT09",
+        "Shape_Length": 8196.362565001698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834306.9309999999,
+            823854.2535999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 6,
+        "Trail_ID": "ws_6",
+        "Trail_name_En": "Wilson Trail Section 6 (Tai Po Road To Shing Mun Reservoir)",
+        "Trail_name_Ch": "衞奕信徑第六段 (大埔公路至城門水塘)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Po Road",
+        "Startpt_Ch": "大埔公路",
+        "Finishpt_E": "Shing Mun Reservoir",
+        "Finishpt_C": "城門水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/M3ArN2RxYmROLzBKNlhxRndlRUdzZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/M3ArN2RxYmROLzBKNlhxRndlRUdzZz09",
+        "Shape_Length": 5472.6610367792855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833406.7198000001,
+            826783.4254999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 7,
+        "Trail_ID": "ws_7",
+        "Trail_name_En": "Wilson Trail Section 7 (Shing Mun Reservoir To Yuen Tun Ha)",
+        "Trail_name_Ch": "衞奕信徑第七段 (城門水塘至元墩下)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Shing Mun Reservoir",
+        "Startpt_Ch": "城門水塘",
+        "Finishpt_E": "Yuen Tun Ha",
+        "Finishpt_C": "元墩下",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/anRlQ0Q2VTA5SUhNQjBTSm9tRGJhUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/anRlQ0Q2VTA5SUhNQjBTSm9tRGJhUT09",
+        "Shape_Length": 10359.212141071383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834824.6390000004,
+            832273.8838999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 8,
+        "Trail_ID": "ws_8",
+        "Trail_name_En": "Wilson Trail Section 8 (Yuen Tun Ha To Cloudy Hill)",
+        "Trail_name_Ch": "衞奕信徑第八段 (元墩下至九龍坑山)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Yuen Tun Ha",
+        "Startpt_Ch": "元墩下",
+        "Finishpt_E": "Cloudy Hill",
+        "Finishpt_C": "九龍坑山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dGljejY4cWNjZ3E5Z2wwK1V3cWtJZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dGljejY4cWNjZ3E5Z2wwK1V3cWtJZz09",
+        "Shape_Length": 8945.41392724915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842151.0196000002,
+            838382.8523999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 9,
+        "Trail_ID": "ws_9",
+        "Trail_name_En": "Wilson Trail Section 9 (Cloudy Hill To Pat Sin Leng)",
+        "Trail_name_Ch": "衞奕信徑第九段 (九龍坑山至八仙嶺)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Cloudy Hill",
+        "Startpt_Ch": "九龍坑山",
+        "Finishpt_E": "Pat Sin Leng",
+        "Finishpt_C": "八仙嶺",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TjFJNDlpb0FhSmdCS25nYTg5K0pmQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TjFJNDlpb0FhSmdCS25nYTg5K0pmQT09",
+        "Shape_Length": 10255.307106520193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842150.9930999996,
+            838382.9053000007
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 10,
+        "Trail_ID": "ws_10",
+        "Trail_name_En": "Wilson Trail Section 10 (Pat Sin Leng To Nam Chung)",
+        "Trail_name_Ch": "衞奕信徑第十段 (八仙嶺至南涌)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Pat Sin Leng",
+        "Startpt_Ch": "八仙嶺",
+        "Finishpt_E": "Nam Chung",
+        "Finishpt_C": "南涌",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/azJKaHRIeUFIbXZWN0UyVU1ZS1hFdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/azJKaHRIeUFIbXZWN0UyVU1ZS1hFdz09",
+        "Shape_Length": 6911.803393542158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842551.8152999999,
+            821699.0025999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 4,
+        "Trail_ID": "ws_4",
+        "Trail_name_En": "Wilson Trail Section 4 (Tseng Lan Shue To Sha Tin Pass)",
+        "Trail_name_Ch": "衞奕信徑第四段 (井欄樹至沙田坳)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tseng Lan Shue",
+        "Startpt_Ch": "井欄樹",
+        "Finishpt_E": "Sha Tin Pass",
+        "Finishpt_C": "沙田坳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Q3hxOUd0N3FPcVZMeXdBZi93U0t0dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Q3hxOUd0N3FPcVZMeXdBZi93U0t0dz09",
+        "Shape_Length": 7940.250663297167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838393.5521,
+            813218.1269000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "NAME": "WILSON TRAIL",
+        "C_NAME": "衞奕信徑",
+        "Section_No": 2,
+        "Trail_ID": "ws_2",
+        "Trail_name_En": "Wilson Trail Section 2 (Wong Nai Chung Reservoir To Lam Tin)",
+        "Trail_name_Ch": "衞奕信徑第二段 (黃泥涌水塘至藍田)",
+        "Type_En": "Long Distance Trail",
+        "Type_Ch": "長途遠足徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wong Nai Chung Reservoir",
+        "Startpt_Ch": "黃泥涌水塘",
+        "Finishpt_E": "Lam Tin",
+        "Finishpt_C": "藍田",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cktQWGdYRkF1MEsvNXFHQVk2Sm5FQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cktQWGdYRkF1MEsvNXFHQVk2Sm5FQT09",
+        "Shape_Length": 6998.177868740762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            830242.3278000001,
+            827878.4493000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "NAME": "LUNG MUN COUNTRY TRAIL",
+        "C_NAME": "龍門郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_25",
+        "Trail_name_En": "Lung Mun Country Trail",
+        "Trail_name_Ch": "龍門郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Chuen Lung",
+        "Startpt_Ch": "川龍",
+        "Finishpt_E": "Pineapple Dam",
+        "Finishpt_C": "菠蘿壩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/STlIVWFKdDRmNjRZVUFIM3pyL04rUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/STlIVWFKdDRmNjRZVUFIM3pyL04rUT09",
+        "Shape_Length": 4943.85477982262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            839379.3744999999,
+            841838.1511000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "NAME": "NAM CHUNG COUNTRY TRAIL",
+        "C_NAME": "南涌郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_2",
+        "Trail_name_En": "Nam Chung Country Trail",
+        "Trail_name_Ch": "南涌郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Nam Chung",
+        "Startpt_Ch": "南涌",
+        "Finishpt_E": "Tan Chuk Hang",
+        "Finishpt_C": "丹竹坑",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NUVWdXZxR2NuU0Y1OU5pOFloSDBCZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NUVWdXZxR2NuU0Y1OU5pOFloSDBCZz09",
+        "Shape_Length": 5418.0138396696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835840.1319000004,
+            840490.4710000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "NAME": "HOK TAU COUNTRY TRAIL",
+        "C_NAME": "鶴藪郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_3",
+        "Trail_name_En": "Hok Tau Country Trail",
+        "Trail_name_Ch": "鶴藪郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Hok Tau Road",
+        "Startpt_Ch": "鶴藪道",
+        "Finishpt_E": "Hok Tau Road",
+        "Finishpt_C": "鶴藪道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MHQzMHVZSGU5S3dNUEdYdEl1bUFHdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MHQzMHVZSGU5S3dNUEdYdEl1bUFHdz09",
+        "Shape_Length": 2543.367905525863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            823309.3859999999,
+            825657.6679999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "NAME": "YUEN TUN COUNTRY TRAIL",
+        "C_NAME": "圓墩郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_4",
+        "Trail_name_En": "Yuen Tun Country Trail",
+        "Trail_name_Ch": "圓墩郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tsing Lung Tau",
+        "Startpt_Ch": "青龍頭",
+        "Finishpt_E": "Kat Hing Bridge",
+        "Finishpt_C": "吉慶橋",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RlZDWHhKMGtQZzBqL2l0eGRaajl2dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RlZDWHhKMGtQZzBqL2l0eGRaajl2dz09",
+        "Shape_Length": 9109.120121995536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835487.9928000001,
+            839617.4531999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "NAME": "LAU SHUI HEUNG COUNTRY TRAIL",
+        "C_NAME": "流水響郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_5",
+        "Trail_name_En": "Lau Shui Heung Country Trail",
+        "Trail_name_Ch": "流水響郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Lau Shui Heung Reservoir",
+        "Startpt_Ch": "流水響水塘",
+        "Finishpt_E": "Lau Shui Heung Reservoir",
+        "Finishpt_C": "流水響水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/U2ZUQWFtNks2Rjh6a1grT0tGR3p5UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/U2ZUQWFtNks2Rjh6a1grT0tGR3p5UT09",
+        "Shape_Length": 4503.855028340666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842802.0560999997,
+            813010.5666000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "NAME": "POTTINGER PEAK COUNTRY TRAIL",
+        "C_NAME": "砵甸乍山郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_6",
+        "Trail_name_En": "Pottinger Peak Country Trail",
+        "Trail_name_Ch": "砵甸乍山郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Shek O Ma Tong Au",
+        "Startpt_Ch": "石澳馬塘坳",
+        "Finishpt_E": "Cape Collinson Road",
+        "Finishpt_C": "歌連臣角道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/WTlaMHl6akpNYk9BRGViczlXaFZhQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/WTlaMHl6akpNYk9BRGViczlXaFZhQT09",
+        "Shape_Length": 1677.215320945101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851646.1042999998,
+            833356.5157999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "NAME": "TAI TAN COUNTRY TRAIL",
+        "C_NAME": "大灘郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_7",
+        "Trail_name_En": "Tai Tan Country Trail",
+        "Trail_name_Ch": "大灘郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Hau Tong Kai",
+        "Startpt_Ch": "猴塘溪",
+        "Finishpt_E": "Hoi Ha Village",
+        "Finishpt_C": "海下村",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZzhaM011eEwyWkZuWVoyUjJ0aUdMUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZzhaM011eEwyWkZuWVoyUjJ0aUdMUT09",
+        "Shape_Length": 7062.501581330364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            849161.8273,
+            816977.0327000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "NAME": "LUNG HA WAN COUNTRY TRAIL",
+        "C_NAME": "龍蝦灣郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_8",
+        "Trail_name_En": "Lung Ha Wan Country Trail",
+        "Trail_name_Ch": "龍蝦灣郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Hang Tun",
+        "Startpt_Ch": "大坑墩",
+        "Finishpt_E": "Lung Ha Wan",
+        "Finishpt_C": "龍蝦灣",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/YXpGRThNNHNZeXB4dHppcmphemc3QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/YXpGRThNNHNZeXB4dHppcmphemc3QT09",
+        "Shape_Length": 2417.633699667077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851622.9623999996,
+            833024.0555000007
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "NAME": "CHEUNG SHEUNG COUNTRY TRAIL",
+        "C_NAME": "嶂上郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_9",
+        "Trail_name_En": "Cheung Sheung Country Trail",
+        "Trail_name_Ch": "嶂上郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Hoi Ha Road",
+        "Startpt_Ch": "海下路",
+        "Finishpt_E": "Yung Shue O",
+        "Finishpt_C": "榕樹澳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/aEVHbmRZbkJYL3FvR0EvVUNRRWFSZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/aEVHbmRZbkJYL3FvR0EvVUNRRWFSZz09",
+        "Shape_Length": 4370.537209584557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            855089.8690999998,
+            828489.2420000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "NAME": "LUK WU COUNTRY TRAIL",
+        "C_NAME": "鹿湖郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_10",
+        "Trail_name_En": "Luk Wu Country Trail",
+        "Trail_name_Ch": "鹿湖郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Sai Kung Sai Wan Road",
+        "Startpt_Ch": "西貢西灣路",
+        "Finishpt_E": "Pak Tam Road Yee Ting",
+        "Finishpt_C": "北潭路怡庭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cTdXUHRZbytJbUo0eEtTNVNMT3I0dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cTdXUHRZbytJbUo0eEtTNVNMT3I0dz09",
+        "Shape_Length": 5265.382150856901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852148.7598000001,
+            831124.5766000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "NAME": "PAK TAM COUNTRY TRAIL",
+        "C_NAME": "北潭郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_11",
+        "Trail_name_En": "Pak Tam Country Trail",
+        "Trail_name_Ch": "北潭郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pak Tam Au",
+        "Startpt_Ch": "北潭坳",
+        "Finishpt_E": "Pak Tam Road Yee Ting",
+        "Finishpt_C": "北潭路怡庭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SUYvb0pkOWZMdWFTak5BWWJvK3RLQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SUYvb0pkOWZMdWFTak5BWWJvK3RLQT09",
+        "Shape_Length": 1941.3461683894413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851220.3311000001,
+            827986.5739999991
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "NAME": "SHEUNG YIU COUNTRY TRAIL",
+        "C_NAME": "上窰郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_12",
+        "Trail_name_En": "Sheung Yiu Country Trail",
+        "Trail_name_Ch": "上窰郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Sheung Yiu",
+        "Startpt_Ch": "上窰",
+        "Finishpt_E": "Sai Kung Man Yee Road",
+        "Finishpt_C": "西貢萬宜路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cG9Hc1Z4bTEzN3ZkZ1p6VExnTWFhdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cG9Hc1Z4bTEzN3ZkZ1p6VExnTWFhdz09",
+        "Shape_Length": 3155.1399698538266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            847093.6645,
+            819694.4858999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "NAME": "HIGH JUNK PEAK COUNTRY TRAIL",
+        "C_NAME": "釣魚翁郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_13",
+        "Trail_name_En": "High Junk Peak Country Trail",
+        "Trail_name_Ch": "釣魚翁郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Ng Fai Tin",
+        "Startpt_Ch": "五塊田",
+        "Finishpt_E": "Tai Miu Au",
+        "Finishpt_C": "大廟坳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SzAxekR1U1dCNytYL3U3NW9PWnVWQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SzAxekR1U1dCNytYL3U3NW9PWnVWQT09",
+        "Shape_Length": 6352.769569892364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842393.8787000002,
+            829920.8046000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "NAME": "MA ON SHAN COUNTRY TRAIL",
+        "C_NAME": "馬鞍山郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_14",
+        "Trail_name_En": "Ma On Shan Country Trail",
+        "Trail_name_Ch": "馬鞍山郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Ma On Shan Barbecue Area",
+        "Startpt_Ch": "馬鞍山燒烤場",
+        "Finishpt_E": "Tai Shui Tseng",
+        "Finishpt_C": "大水井",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/QThMbWJpZ010MlZRYkFlMzU5UXY0QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/QThMbWJpZ010MlZRYkFlMzU5UXY0QT09",
+        "Shape_Length": 4635.13869191679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816770.3677000003,
+            811095.7020999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "NAME": "CHI MA WAN COUNTRY TRAIL",
+        "C_NAME": "芝麻灣郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_15",
+        "Trail_name_En": "Chi Ma Wan Country Trail",
+        "Trail_name_Ch": "芝麻灣郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Shap Long Campsite",
+        "Startpt_Ch": "十塱營地",
+        "Finishpt_E": "Shap Long Campsite",
+        "Finishpt_C": "十塱營地",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZDU4aERwb1FhczExTUxFNk9YOU5TUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZDU4aERwb1FhczExTUxFNk9YOU5TUT09",
+        "Shape_Length": 17842.324182316202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            812983.0672000004,
+            814815.2127999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "NAME": "WONG LUNG HANG COUNTRY TRAIL",
+        "C_NAME": "黃龍坑郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_17",
+        "Trail_name_En": "Wong Lung Hang Country Trail",
+        "Trail_name_Ch": "黃龍坑郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Sheung Tung Au",
+        "Startpt_Ch": "雙東坳",
+        "Finishpt_E": "Wong Lung Hang Road",
+        "Finishpt_C": "黃龍坑道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/OEMxQmNSNHUrVjBDV0xOMHJtYURldz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/OEMxQmNSNHUrVjBDV0xOMHJtYURldz09",
+        "Shape_Length": 2237.758856565223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816490.1595999999,
+            813132.7882000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "NAME": "SOUTH LANTAU COUNTRY TRAIL",
+        "C_NAME": "南大嶼郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_18",
+        "Trail_name_En": "South Lantau Country Trail",
+        "Trail_name_Ch": "南大嶼郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Nam Shan",
+        "Startpt_Ch": "南山",
+        "Finishpt_E": "Tong Fuk catchwater",
+        "Finishpt_C": "塘福引水道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VkxUMG1za3hybXBtOEFJZ0h1VUltQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VkxUMG1za3hybXBtOEFJZ0h1VUltQT09",
+        "Shape_Length": 10341.44185247481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            804469.2000000002,
+            807808
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "NAME": "KEUNG SHAN COUNTRY TRAIL",
+        "C_NAME": "羗山郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_19",
+        "Trail_name_En": "Keung Shan Country Trail",
+        "Trail_name_Ch": "羗山郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tai O Road",
+        "Startpt_Ch": "大澳道",
+        "Finishpt_E": "Kau Ling Chung water catchment",
+        "Finishpt_C": "狗嶺涌引水道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/d1E5STBlOVVkcmNTeks3cHM5Zm9BQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/d1E5STBlOVVkcmNTeks3cHM5Zm9BQT09",
+        "Shape_Length": 8208.437756815028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              809196.2022000002,
+              813127.8837000001
+            ]
+          ],
+          [
+            [
+              809155.3346999995,
+              812955.2019999996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "NAME": "NEI LAK SHAN COUNTRY TRAIL",
+        "C_NAME": "彌勒山郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_20",
+        "Trail_name_En": "Nei Lak Shan Country Trail",
+        "Trail_name_Ch": "彌勒山郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Dong Shan Fa Mun",
+        "Startpt_Ch": "東山法門",
+        "Finishpt_E": "Dong Shan Fa Mun",
+        "Finishpt_C": "東山法門",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/OGdwWlNpL1VmT3FQYndjVjljNklCZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/OGdwWlNpL1VmT3FQYndjVjljNklCZz09",
+        "Shape_Length": 4648.189280313322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            839697.1162999999,
+            815100.4102999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "NAME": "HONG PAK COUNTRY TRAIL",
+        "C_NAME": "康柏郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_21",
+        "Trail_name_En": "Hong Pak Country Trail",
+        "Trail_name_Ch": "康柏郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Quarry Bay Management Centre",
+        "Startpt_Ch": "鰂魚涌郊野公園管理站",
+        "Finishpt_E": "Mount Parker Road",
+        "Finishpt_C": "柏架山道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UVZUTW1PdmF5c1BSWU5JRjZVZ29DZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UVZUTW1PdmF5c1BSWU5JRjZVZ29DZz09",
+        "Shape_Length": 4013.522651794205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            843208.2189999996,
+            841186.6539999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "NAME": "WU KAU TANG COUNTRY TRAIL",
+        "C_NAME": "烏蛟騰郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_22",
+        "Trail_name_En": "Wu Kau Tang Country Trail",
+        "Trail_name_Ch": "烏蛟騰郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Wu Kau Tang Tin Sum",
+        "Startpt_Ch": "烏蛟騰田心村",
+        "Finishpt_E": "Bride's Pool road",
+        "Finishpt_C": "新娘潭路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/OXArZzdyQnRlN2d4VlN6UVNDNHpFZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/OXArZzdyQnRlN2d4VlN6UVNDNHpFZz09",
+        "Shape_Length": 2320.447743916384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            862381.8437999999,
+            845109.2673000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "NAME": "PING CHAU COUNTRY TRAIL",
+        "C_NAME": "平洲環島郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_23",
+        "Trail_name_En": "Ping Chau Country Trail",
+        "Trail_name_Ch": "平洲環島郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Ping Chau Pier",
+        "Startpt_Ch": "平洲碼頭",
+        "Finishpt_E": "Ping Chau Pier",
+        "Finishpt_C": "平洲碼頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VE4wRlNxT1hZM1NqWkpKYVBmS1M2dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VE4wRlNxT1hZM1NqWkpKYVBmS1M2dz09",
+        "Shape_Length": 5803.14522313983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            811913.6331000002,
+            812616.0003999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "NAME": "TEI TONG TSAI COUNTRY TRAIL",
+        "C_NAME": "地塘仔郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_24",
+        "Trail_name_En": "Tei Tong Tsai Country Trail",
+        "Trail_name_Ch": "地塘仔郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tung Chung Road",
+        "Startpt_Ch": "東涌路",
+        "Finishpt_E": "Tei Tong Tsai",
+        "Finishpt_C": "地塘仔",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VTAxcjA3Sks4RGorOUdwZzRRbVBFdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VTAxcjA3Sks4RGorOUdwZzRRbVBFdz09",
+        "Shape_Length": 1952.5399468156384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            824447.3853000002,
+            831227.1766999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "NAME": "TAI LAM CHUNG COUNTRY TRAIL",
+        "C_NAME": "大欖涌郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_26",
+        "Trail_name_En": "Tai Lam Chung Country Trail",
+        "Trail_name_Ch": "大欖涌郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Ma On Kong Warden Post",
+        "Startpt_Ch": "馬鞍崗護理員站崗",
+        "Finishpt_E": "Kat Hing Bridge",
+        "Finishpt_C": "吉慶橋",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/anYvYnJvaVlCeStTZ2VwTVNFbFkrZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/anYvYnJvaVlCeStTZ2VwTVNFbFkrZz09",
+        "Shape_Length": 6140.63620135427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828809.0488999998,
+            830189.5032000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "NAME": "KAP LUNG ANCIENT TRAIL",
+        "C_NAME": "甲龍古道",
+        "Section_No": 0,
+        "Trail_ID": "cty_27",
+        "Trail_name_En": "Kap Lung Ancient Trail Country Trail",
+        "Trail_name_Ch": "甲龍古道郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tsuen Kam Au",
+        "Startpt_Ch": "荃錦坳",
+        "Finishpt_E": "Lui Kung Tin",
+        "Finishpt_C": "雷公田",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UVNWcm9oRWYwdU1xYWhjVk1VY2ZxZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UVNWcm9oRWYwdU1xYWhjVk1VY2ZxZz09",
+        "Shape_Length": 1796.8411872417757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            827716.8121999996,
+            826521.0555000007
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "NAME": "YUEN TSUEN ANCIENT TRAIL",
+        "C_NAME": "元荃古道",
+        "Section_No": 0,
+        "Trail_ID": "cty_28",
+        "Trail_name_En": "Yuen Tsuen Ancient Trail Country Trail",
+        "Trail_name_Ch": "元荃古道郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Ha Fa Shan, Tsuen Wan",
+        "Startpt_Ch": "荃灣下花山",
+        "Finishpt_E": "Tai Tong Barbecue Site",
+        "Finishpt_C": "大棠燒烤場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/V2JJVDNVR25Lc0lnV1pZdC9NdHVBZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/V2JJVDNVR25Lc0lnV1pZdC9NdHVBZz09",
+        "Shape_Length": 12311.25931586318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816354.5794000002,
+            815852.4607999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "NAME": "LO FU TAU COUNTRY TRAIL",
+        "C_NAME": "老虎頭郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_30",
+        "Trail_name_En": "Lo Fu Tau Country Trail",
+        "Trail_name_Ch": "老虎頭郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "A Po Long (Olympic Trail)",
+        "Startpt_Ch": "亞婆塱(奧運徑)",
+        "Finishpt_E": "Lo Fu Tau",
+        "Finishpt_C": "老虎頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/QVdhZkZzOGdtenhPZ2dTSGI1R3FUUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/QVdhZkZzOGdtenhPZ2dTSGI1R3FUUT09",
+        "Shape_Length": 3479.389669723964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            808990.3707999997,
+            812668.8487
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "NAME": "SHEK PIK COUNTRY TRAIL",
+        "C_NAME": "石壁郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_31",
+        "Trail_name_En": "Shek Pik Country Trail",
+        "Trail_name_Ch": "石壁郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wisdom Path, Ngong Ping",
+        "Startpt_Ch": "昂坪心經簡林",
+        "Finishpt_E": "Shek Pik catchwater",
+        "Finishpt_C": "石壁引水道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/OHBlUmNCN0JJZnl1ZjY3Z014cGYvQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/OHBlUmNCN0JJZnl1ZjY3Z014cGYvQT09",
+        "Shape_Length": 5291.843277029627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842983.7285000002,
+            840645.8611999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "NAME": "PLOVER COVE RESERVOIR COUNTRY TRAIL",
+        "C_NAME": "船灣淡水湖郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_29",
+        "Trail_name_En": "Plover Cove Reservoir Country Trail",
+        "Trail_name_Ch": "船灣淡水湖郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Very difficult",
+        "Difficult_Ch": "非常難行",
+        "Startpt_En": "Wu Kau Tang",
+        "Startpt_Ch": "烏蛟騰",
+        "Finishpt_E": "Tai Mei Tuk",
+        "Finishpt_C": "大美督",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SUduYUhCbXFFaC9jT1dMRk91OTRKUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SUduYUhCbXFFaC9jT1dMRk91OTRKUT09",
+        "Shape_Length": 15634.552600071433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            803221.0434999997,
+            807281.0765000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "NAME": "FAN LAU COUNTRY TRAIL",
+        "C_NAME": "分流郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_16",
+        "Trail_name_En": "Fan Lau Country Trail",
+        "Trail_name_Ch": "分流郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Lantau Trail Section 7",
+        "Startpt_Ch": "鳳凰徑第七段(落分流東灣)",
+        "Finishpt_E": "Fau Lau village",
+        "Finishpt_C": "分流村",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SnJ4Q3QwV3V3dW5FcHBsQ2RYM05pdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SnJ4Q3QwV3V3dW5FcHBsQ2RYM05pdz09",
+        "Shape_Length": 2386.410743720164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816893.3202999998,
+            829719.4404000007
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "NAME": "FU TEI COUNTRY TRAIL",
+        "C_NAME": "虎地郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_32",
+        "Trail_name_En": "Fu Tei Country Trail",
+        "Trail_name_Ch": "虎地郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Fu Tei barbecue area",
+        "Startpt_Ch": "虎地燒烤區",
+        "Finishpt_E": "End of Lam Tei Irrigation Reservoir",
+        "Finishpt_C": "藍地灌溉水塘尾",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/K3BHR1o4SlVPNmFodG9ydjBvMlBvdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/K3BHR1o4SlVPNmFodG9ydjBvMlBvdz09",
+        "Shape_Length": 4119.203086827119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              845918.5368999997,
+              841997.5515000001
+            ]
+          ],
+          [
+            [
+              842979.0406999998,
+              840646.3245000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "NAME": "DOUBLE HAVEN COUNTRY TRAIL",
+        "C_NAME": "印洲塘郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_33",
+        "Trail_name_En": "Double Haven Country Trail",
+        "Trail_name_Ch": "印洲塘郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wu Kau Tang",
+        "Startpt_Ch": "烏蛟騰",
+        "Finishpt_E": "Lai Chi Wo Pier",
+        "Finishpt_C": "荔枝窩碼頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/a0h1NVNNdFp6UGFuUXZhblNLQ09UUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/a0h1NVNNdFp6UGFuUXZhblNLQ09UUT09",
+        "Shape_Length": 10516.108596065265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838394.6114999996,
+            813218.0434000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "NAME": "TAI TAM COUNTRY TRAIL",
+        "C_NAME": "大潭郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_1",
+        "Trail_name_En": "Tai Tam Country Trail",
+        "Trail_name_Ch": "大潭郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wong Nai Chung Reservoir Park",
+        "Startpt_Ch": "黃泥涌水塘公園",
+        "Finishpt_E": "Wong Nai Chung Reservoir Park",
+        "Finishpt_C": "黃泥涌水塘公園",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/bGxMc2FyRXQvajBqQXFSNHlHOUlTZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/bGxMc2FyRXQvajBqQXFSNHlHOUlTZz09",
+        "Shape_Length": 2365.2817572770227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            848489.3229999999,
+            824234.5240000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "NAME": "SHARP ISLAND COUNTRY TRAIL",
+        "C_NAME": "橋咀郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_34",
+        "Trail_name_En": "Sharp Island Country Trail",
+        "Trail_name_Ch": "橋咀郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Hap Mun Bay",
+        "Startpt_Ch": "廈門灣",
+        "Finishpt_E": "Kiu Tsui",
+        "Finishpt_C": "橋咀",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZnovL1lLVDZuRUxZR3JhWlNidkZzQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZnovL1lLVDZuRUxZR3JhWlNidkZzQT09",
+        "Shape_Length": 1888.6609896540738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            840276.4889000002,
+            845833.2926000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "NAME": "ROBIN'S NEST COUNTRY TRAIL",
+        "C_NAME": "紅花嶺郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_35",
+        "Trail_name_En": "Robin's Nest Country Trail",
+        "Trail_name_Ch": "紅花嶺郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Shan Tsui",
+        "Startpt_Ch": "山咀",
+        "Finishpt_E": "Hung Fa Chai",
+        "Finishpt_C": "紅花寨",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VHBSaWIrMzR0aWN5RnFhWitoeFN0UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VHBSaWIrMzR0aWN5RnFhWitoeFN0UT09",
+        "Shape_Length": 3597.7900430220006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836793.1546,
+            845905.2381999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "NAME": "LIN MA HANG COUNTRY TRAIL",
+        "C_NAME": "蓮麻坑郊遊徑",
+        "Section_No": 0,
+        "Trail_ID": "cty_36",
+        "Trail_name_En": "Lin Ma Hang Country Trail",
+        "Trail_name_Ch": "蓮麻坑郊遊徑",
+        "Type_En": "Country Trail",
+        "Type_Ch": "郊遊徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Lin Ma Hang",
+        "Startpt_Ch": "蓮麻坑",
+        "Finishpt_E": "Hung Fa Chai",
+        "Finishpt_C": "紅花寨",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UFNRbC8yekNibFVpdWN5eW5XZ2c0Zz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UFNRbC8yekNibFVpdWN5eW5XZ2c0Zz09",
+        "Shape_Length": 2564.099032114407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828976.2912999997,
+            828471.4889000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "NAME": "CHUEN LUNG FAMILY WALK",
+        "C_NAME": "川龍家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_5",
+        "Trail_name_En": "Chuen Lung Family Walk",
+        "Trail_name_Ch": "川龍家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Chuen Lung Barbecue Site",
+        "Startpt_Ch": "川龍燒烤場",
+        "Finishpt_E": "Chuen Lung Barbecue Site",
+        "Finishpt_C": "川龍燒烤場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RVJobWpURjlCUGU4VFB6bDdhYXl5UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RVJobWpURjlCUGU4VFB6bDdhYXl5UT09",
+        "Shape_Length": 463.4936101954316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            840633.4390000002,
+            842827.3760000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "NAME": "FUNG HANG FAMILY WALK",
+        "C_NAME": "鳳坑家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_1",
+        "Trail_name_En": "Fung Hang Family Walk",
+        "Trail_name_Ch": "鳳坑家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Fung Hang",
+        "Startpt_Ch": "鳳坑",
+        "Finishpt_E": "Bride's Pool Road",
+        "Finishpt_C": "新娘潭路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RDBrZUgxZm82eGlYWW5saS9zSDBWQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RDBrZUgxZm82eGlYWW5saS9zSDBWQT09",
+        "Shape_Length": 1693.699735584103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            825645.2202000003,
+            829752.3388999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "NAME": "HO PUI RESERVOIR FAMILY WALK",
+        "C_NAME": "河背水塘家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_3",
+        "Trail_name_En": "Ho Pui Reservoir Family Walk",
+        "Trail_name_Ch": "河背水塘家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Ho Pui village",
+        "Startpt_Ch": "河背村",
+        "Finishpt_E": "Ho Pui village",
+        "Finishpt_C": "河背村",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SnNRa3lmM0U4NTVScG5uMG45Qktsdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SnNRa3lmM0U4NTVScG5uMG45Qktsdz09",
+        "Shape_Length": 2120.492950787456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836669.7473999998,
+            839172.3659000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "NAME": "HOK TAU RESERVOIR FAMILY WALK",
+        "C_NAME": "鶴藪水塘家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_2",
+        "Trail_name_En": "Hok Tau Reservoir Family Walk",
+        "Trail_name_Ch": "鶴藪水塘家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Hok Tau Reservoir",
+        "Startpt_Ch": "鶴藪水塘",
+        "Finishpt_E": "Hok Tau Reservoir",
+        "Finishpt_C": "鶴藪水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UHkzMDc1SzQzSHoyK09neFRTNTRTUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UHkzMDc1SzQzSHoyK09neFRTNTRTUT09",
+        "Shape_Length": 2155.9150323213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833597.4639999997,
+            824235.0837999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "NAME": "KAM SHAN FAMILY WALK",
+        "C_NAME": "金山家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_4",
+        "Trail_name_En": "Kam Shan Family Walk",
+        "Trail_name_Ch": "金山家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Kam Shan Road",
+        "Startpt_Ch": "金山路",
+        "Finishpt_E": "Kam Shan Road",
+        "Finishpt_C": "金山路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VGZRNVlyYTdoR2l4cXB2TTRSRWpsQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VGZRNVlyYTdoR2l4cXB2TTRSRWpsQT09",
+        "Shape_Length": 1265.7978686071158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            850862.7680000002,
+            828761.2229999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "NAME": "PAK TAM CHUNG FAMILY WALK",
+        "C_NAME": "北潭涌家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_7",
+        "Trail_name_En": "Pak Tam Chung Family Walk",
+        "Trail_name_Ch": "北潭涌家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pak Tam Chung Barbecue Area Car Park",
+        "Startpt_Ch": "北潭涌燒烤場停車場",
+        "Finishpt_E": "Pak Tam Road",
+        "Finishpt_C": "北潭路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dDFXTTZ2TTBxWGVpd3ZKajdFRUNzZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dDFXTTZ2TTBxWGVpd3ZKajdFRUNzZz09",
+        "Shape_Length": 1400.413615749147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832088.7383000003,
+            814016.2269000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "NAME": "POK FU LAM FAMILY WALK",
+        "C_NAME": "薄扶林家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_10",
+        "Trail_name_En": "Pok Fu Lam Family Walk",
+        "Trail_name_Ch": "薄扶林家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pok Fu Lam Reservoir Management Centre",
+        "Startpt_Ch": "薄扶林水塘郊野公園管理站",
+        "Finishpt_E": "Pok Fu Lam Reservoir Road",
+        "Finishpt_C": "薄扶林水塘道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TWprMlNsc2tlb3p2VFBNMGJnRzNSQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TWprMlNsc2tlb3p2VFBNMGJnRzNSQT09",
+        "Shape_Length": 3256.101133987019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851110.7016000003,
+            827997.5591000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "NAME": "SHEUNG YIU FAMILY WALK",
+        "C_NAME": "上窰家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_8",
+        "Trail_name_En": "Sheung Yiu Family Walk",
+        "Trail_name_Ch": "上窰家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Sheung Yiu",
+        "Startpt_Ch": "上窰",
+        "Finishpt_E": "Tai Mong Tsai Road",
+        "Finishpt_C": "大網仔路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/LzJZUFdmR0thSHgwV0xPSElFbjVBQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/LzJZUFdmR0thSHgwV0xPSElFbjVBQT09",
+        "Shape_Length": 1765.175805559994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842109.0288000004,
+            836643.9515000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "NAME": "TAI MEI TUK FAMILY WALK",
+        "C_NAME": "大美督家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_11",
+        "Trail_name_En": "Tai Mei Tuk Family Walk",
+        "Trail_name_Ch": "大美督家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Mei Tuk",
+        "Startpt_Ch": "大美督",
+        "Finishpt_E": "Tai Mei Tuk",
+        "Finishpt_C": "大美督",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZHIxalZwQUVXdytUUE9uRU94OTVTdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZHIxalZwQUVXdytUUE9uRU94OTVTdz09",
+        "Shape_Length": 933.8048772767468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828958.3196,
+            829491.7206999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "NAME": "TAI MO SHAN FAMILY WALK",
+        "C_NAME": "大帽山家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_6",
+        "Trail_name_En": "Tai Mo Shan Family Walk",
+        "Trail_name_Ch": "大帽山家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Rotary Park",
+        "Startpt_Ch": "扶輪公園",
+        "Finishpt_E": "Rotary Park",
+        "Finishpt_C": "扶輪公園",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/OUpMbkhjSTJxM05tM3VZcGFXZTZwdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/OUpMbkhjSTJxM05tM3VZcGFXZTZwdz09",
+        "Shape_Length": 566.6988398851679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852735.1256999997,
+            832814.1269000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "NAME": "WONG SHEK FAMILY WALK",
+        "C_NAME": "黃石家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_9",
+        "Trail_name_En": "Wong Shek Family Walk",
+        "Trail_name_Ch": "黃石家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Wong Shek Pier Bus Terminus",
+        "Startpt_Ch": "黃石碼頭巴士總站",
+        "Finishpt_E": "Wong Shek Pier Bus Terminus",
+        "Finishpt_C": "黃石碼頭巴士總站",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dVVzSndDcTNlMlpYcFgveHArcGxlZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dVVzSndDcTNlMlpYcFgveHArcGxlZz09",
+        "Shape_Length": 1910.019983435922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838815.5859000003,
+            813338.5589000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "NAME": "TAI TAM FAMILY WALK",
+        "C_NAME": "大潭家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_13",
+        "Trail_name_En": "Tai Tam Family Walk",
+        "Trail_name_Ch": "大潭家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Tam Reservoir Road (near Parkview Mansions)",
+        "Startpt_Ch": "大潭水塘道近陽明山",
+        "Finishpt_E": "Tai Tam Reservoir Road (near Tai Tam Upper Reservoir)",
+        "Finishpt_C": "大潭水塘道近大潭水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VXUrUWZ6Y3hSVmdqdmVDNXA5QU5mUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VXUrUWZ6Y3hSVmdqdmVDNXA5QU5mUT09",
+        "Shape_Length": 1610.6856833485149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834574.6960000005,
+            812770.8579999991
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "NAME": "ABERDEEN NATURE TRAIL",
+        "C_NAME": "香港仔自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_7",
+        "Trail_name_En": "Aberdeen Nature Trail",
+        "Trail_name_Ch": "香港仔自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Lower Aberdeen Reservoir",
+        "Startpt_Ch": "香港仔下水塘",
+        "Finishpt_E": "Upper Aberdeen Reservoir",
+        "Finishpt_C": "香港仔上水塘水壩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UUVxMEg3eGVJSFpjbHdVQWtoOVdrQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UUVxMEg3eGVJSFpjbHdVQWtoOVdrQT09",
+        "Shape_Length": 1414.2997304279963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842406.0674,
+            840400.3933000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "NAME": "BRIDE'S POOL NATURE TRAIL",
+        "C_NAME": "新娘潭自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_5",
+        "Trail_name_En": "Bride's Pool Nature Trail",
+        "Trail_name_Ch": "新娘潭自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Bride's Pool",
+        "Startpt_Ch": "新娘潭",
+        "Finishpt_E": "Bride's Pool",
+        "Finishpt_C": "新娘潭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/T2lic3MxTlFSUnVjZUQ2dGxOb25iQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/T2lic3MxTlFSUnVjZUQ2dGxOb25iQT09",
+        "Shape_Length": 866.3143647729944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833875.5438000001,
+            823063.5998999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "NAME": "EAGLE'S NEST NATURE TRAIL",
+        "C_NAME": "鷹巢山自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_10",
+        "Trail_name_En": "Eagle's Nest Nature Trail",
+        "Trail_name_Ch": "鷹巢山自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Po Road",
+        "Startpt_Ch": "大埔公路",
+        "Finishpt_E": "Tai Po Road",
+        "Finishpt_C": "大埔公路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/N0s2OTlzeWN5NzF0bG9BTmZsTWRsZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/N0s2OTlzeWN5NzF0bG9BTmZsTWRsZz09",
+        "Shape_Length": 3800.505718026706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836736.9100000001,
+            825000.0690000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "NAME": "HUNG MUI KUK NATURE TRAIL",
+        "C_NAME": "紅梅谷自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_9",
+        "Trail_name_En": "Hung Mui Kuk Nature Trail",
+        "Trail_name_Ch": "紅梅谷自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Hung Mui Kuk",
+        "Startpt_Ch": "紅梅谷",
+        "Finishpt_E": "water catchment",
+        "Finishpt_C": "引水道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/YVpWWkg5S0gzMFJrWmZaSWVDWHZJZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/YVpWWkg5S0gzMFJrWmZaSWVDWHZJZz09",
+        "Shape_Length": 1251.7642189660658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              845203.8349000001,
+              842870.2460999992
+            ]
+          ],
+          [
+            [
+              844968.5499999998,
+              842974.3238999993
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "NAME": "LAI CHI WO NATURE TRAIL",
+        "C_NAME": "荔枝窩自然步道",
+        "Section_No": 0,
+        "Trail_ID": "nat_15",
+        "Trail_name_En": "Lai Chi Wo Nature Trail",
+        "Trail_name_Ch": "荔枝窩自然步道",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Lai Chi Wo",
+        "Startpt_Ch": "荔枝窩",
+        "Finishpt_E": "Lai Chi Wo",
+        "Finishpt_C": "荔枝窩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NHJCWmlmZFNNcWRVVWVTYVBJZVh1UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NHJCWmlmZFNNcWRVVWVTYVBJZVh1UT09",
+        "Shape_Length": 1083.2457553054649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851201.9970000004,
+            828855.9800000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "NAME": "PAK TAM CHUNG NATURE TRAIL",
+        "C_NAME": "北潭涌自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_11",
+        "Trail_name_En": "Pak Tam Chung Nature Trail",
+        "Trail_name_Ch": "北潭涌自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Mong Tsai Road Fuk Hing Bridge",
+        "Startpt_Ch": "復興橋",
+        "Finishpt_E": "Sheung Yiu Folk Museum",
+        "Finishpt_C": "上窰民俗文物館",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/akp1K09abERSMDBzaGZFWDZQTkxMZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/akp1K09abERSMDBzaGZFWDZQTkxMZz09",
+        "Shape_Length": 936.5413646682116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842366.2929999996,
+            837513.9719999991
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "NAME": "PAT SIN LENG NATURE TRAIL",
+        "C_NAME": "八仙嶺自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_4",
+        "Trail_name_En": "Pat Sin Leng Nature Trail",
+        "Trail_name_Ch": "八仙嶺自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Mei Tuk Management Centre",
+        "Startpt_Ch": "大美督郊野公園管理站",
+        "Finishpt_E": "Bride's Pool",
+        "Finishpt_C": "新娘潭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SmRaQXBzUy9DSHY1YlRSQjA3QVE5QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SmRaQXBzUy9DSHY1YlRSQjA3QVE5QT09",
+        "Shape_Length": 4537.89348363978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832878.2401999999,
+            827306.7657999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "NAME": "PINEAPPLE DAM NATURE TRAIL",
+        "C_NAME": "菠蘿壩自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_8",
+        "Trail_name_En": "Pineapple Dam Nature Trail",
+        "Trail_name_Ch": "菠蘿壩自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pineapple Dam",
+        "Startpt_Ch": "菠蘿壩",
+        "Finishpt_E": "Pineapple Dam",
+        "Finishpt_C": "菠蘿壩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dUNQblk0eTArL1RqVWVFWForbytaZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dUNQblk0eTArL1RqVWVFWForbytaZz09",
+        "Shape_Length": 835.2941816023997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            829065.9665000001,
+            829402.3726000004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "NAME": "ROTARY PARK NATURE TRAIL",
+        "C_NAME": "扶輪公園自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_16",
+        "Trail_name_En": "Rotary Park Nature Trail",
+        "Trail_name_Ch": "扶輪公園自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Rotary Park",
+        "Startpt_Ch": "扶輪公園",
+        "Finishpt_E": "Route Twisk",
+        "Finishpt_C": "荃錦公路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/WFc2Tm45WTVOR0ZMQ3hLeTJHUDRldz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/WFc2Tm45WTVOR0ZMQ3hLeTJHUDRldz09",
+        "Shape_Length": 778.3003152027336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            837103.7992000002,
+            832489.7050999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "NAME": "TAI PO KAU NATURE TRAIL",
+        "C_NAME": "大埔滘自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_13",
+        "Trail_name_En": "Tai Po Kau Nature Trail",
+        "Trail_name_Ch": "大埔滘自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tsung Tsai Yuen",
+        "Startpt_Ch": "松仔園",
+        "Finishpt_E": "Picnic Site no.1, Tai Po Kau Nature Reserve",
+        "Finishpt_C": "大埔滘自然護理區1號郊遊地點",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/K3VwN1BwU0c5b0tZMHFKRlBrdEM0QT09",
+        "Shape_Length": 1056.7412747400015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            845402.3680999996,
+            826150.0518999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "NAME": "TSIU HANG NATURE TRAIL",
+        "C_NAME": "蕉坑自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_12",
+        "Trail_name_En": "Tsiu Hang Nature Trail",
+        "Trail_name_Ch": "蕉坑自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Lions Nature Education Centre",
+        "Startpt_Ch": "獅子會自然教育中心",
+        "Finishpt_E": "Lions Nature Education Centre Insectarium",
+        "Finishpt_C": "獅子會自然教育中心昆蟲館",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/QW83RFlqandJamIvZGprRFlzNkdsZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/QW83RFlqandJamIvZGprRFlzNkdsZz09",
+        "Shape_Length": 848.5138136123837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828843.2467999998,
+            829750.5518999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "NAME": "TWISK NATURE TRAIL",
+        "C_NAME": "荃錦自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_2",
+        "Trail_name_En": "Twisk Nature Trail",
+        "Trail_name_Ch": "荃錦自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tsuen Kam Au",
+        "Startpt_Ch": "荃錦坳",
+        "Finishpt_E": "Tsuen Kam Au",
+        "Finishpt_C": "荃錦坳",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RUloUlprQ09aZ2FyMC9VVTlYWGtidz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RUloUlprQ09aZ2FyMC9VVTlYWGtidz09",
+        "Shape_Length": 1758.6155283577014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            821611.5559999999,
+            828916.1604999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "NAME": "TAI LAM NATURE TRAIL",
+        "C_NAME": "大欖自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_19",
+        "Trail_name_En": "Tai Lam Nature Trail",
+        "Trail_name_Ch": "大欖自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tai Tong",
+        "Startpt_Ch": "大棠",
+        "Finishpt_E": "Tsing Lung Tau",
+        "Finishpt_C": "青龍頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TnN4ZEZ2M0dnZ0EzdEJMYnpLOXp4UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TnN4ZEZ2M0dnZ0EzdEJMYnpLOXp4UT09",
+        "Shape_Length": 7671.067188600953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            841040.2350000003,
+            834534.2850000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "NAME": "MA SHI CHAU NATURE TRAIL",
+        "C_NAME": "馬屎洲自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_1",
+        "Trail_name_En": "Ma Shi Chau Nature Trail",
+        "Trail_name_Ch": "馬屎洲自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Sam Mun Tsai",
+        "Startpt_Ch": "三門仔",
+        "Finishpt_E": "Ma Shi Chau",
+        "Finishpt_C": "馬屎洲",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MGRDbkwxQmtSSzV3OUliRlRhWE5DUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MGRDbkwxQmtSSzV3OUliRlRhWE5DUT09",
+        "Shape_Length": 1586.2625409867933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            821431.6052999999,
+            830039.9450000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "NAME": "TAI TONG NATURE TRAIL",
+        "C_NAME": "大棠自然教育徑",
+        "Section_No": 0,
+        "Trail_ID": "nat_6",
+        "Trail_name_En": "Tai Tong Nature Trail",
+        "Trail_name_Ch": "大棠自然教育徑",
+        "Type_En": "Nature Trail",
+        "Type_Ch": "自然教育徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Tong Barbecue Area",
+        "Startpt_Ch": "大棠燒烤場",
+        "Finishpt_E": "Tai Tong Management Centre",
+        "Finishpt_C": "大棠郊野公園管理站",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/d2pnTThIZnFwWWt5akVXc1NSeGxLdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/d2pnTThIZnFwWWt5akVXc1NSeGxLdz09",
+        "Shape_Length": 2707.1799021531133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833217.335,
+            823381.8499999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "NAME": "KAM SHAN TREE WALK",
+        "C_NAME": "金山樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_13",
+        "Trail_name_En": "Kam Shan Tree Walk",
+        "Trail_name_Ch": "金山樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Kowloon Reservoir",
+        "Startpt_Ch": "九龍水塘",
+        "Finishpt_E": "Kowloon Reception Reservoir",
+        "Finishpt_C": "九龍接收水塘",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/c0RsOFZwREtEUGlqK050bVY0dys1dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/c0RsOFZwREtEUGlqK050bVY0dys1dz09",
+        "Shape_Length": 861.8452889726619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            846278.9349999996,
+            829895.0800000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "NAME": "KEI LING HA TREE WALK",
+        "C_NAME": "企嶺下樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_10",
+        "Trail_name_En": "Kei Ling Ha Tree Walk",
+        "Trail_name_Ch": "企嶺下樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Shui Long Wo",
+        "Startpt_Ch": "水浪窩",
+        "Finishpt_E": "Kei Ling Ha Lo Wai",
+        "Finishpt_C": "企嶺下老圍",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RVlYeCtCQWFVQWcyanhnWGU0d1ZCUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RVlYeCtCQWFVQWcyanhnWGU0d1ZCUT09",
+        "Shape_Length": 616.7861931985882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816824.9392999997,
+            813084.8144000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "NAME": "NAM SHAN TREE WALK",
+        "C_NAME": "南山樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_16",
+        "Trail_name_En": "Nam Shan Tree Walk",
+        "Trail_name_Ch": "南山樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "South Lantau Road",
+        "Startpt_Ch": "嶼南道",
+        "Finishpt_E": "Nam Shan",
+        "Finishpt_C": "南山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/bUhFSUx4VzgzMFBPWFhuaVRqRE9mUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/bUhFSUx4VzgzMFBPWFhuaVRqRE9mUT09",
+        "Shape_Length": 409.3541639664497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            809143.7704999996,
+            812946.0376999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "NAME": "NGONG PING TREE WALK",
+        "C_NAME": "昂坪樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_15",
+        "Trail_name_En": "Ngong Ping Tree Walk",
+        "Trail_name_Ch": "昂坪樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Ngong Ping",
+        "Startpt_Ch": "昂坪",
+        "Finishpt_E": "Ngong Ping",
+        "Finishpt_C": "昂坪",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UGdjeDZSUjJJOEpjelA5K3p2enF3UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UGdjeDZSUjJJOEpjelA5K3p2enF3UT09",
+        "Shape_Length": 329.37669460250436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            821390.3438999997,
+            830020.8204999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "NAME": "TAI TONG TREE WALK",
+        "C_NAME": "大棠樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_14",
+        "Trail_name_En": "Tai Tong Tree Walk",
+        "Trail_name_Ch": "大棠樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Tong Barbecue Area",
+        "Startpt_Ch": "大棠燒烤場",
+        "Finishpt_E": "Tai Tong Barbecue Area",
+        "Finishpt_C": "大棠燒烤場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VUYwYmN4Y1Q4R0FHSldVNkRCTXVuUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VUYwYmN4Y1Q4R0FHSldVNkRCTXVuUT09",
+        "Shape_Length": 635.6069546345592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852435.5820000004,
+            833037.5759999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "NAME": "WONG SHEK TREE WALK",
+        "C_NAME": "黃石樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_8",
+        "Trail_name_En": "Wong Shek Tree Walk",
+        "Trail_name_Ch": "黃石樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pak Tam Road",
+        "Startpt_Ch": "北潭路",
+        "Finishpt_E": "Wong Shek Family Walk",
+        "Finishpt_C": "黃石家樂徑",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/VWlnL0szQnNOWG5OVEZLRXhCbnA1UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/VWlnL0szQnNOWG5OVEZLRXhCbnA1UT09",
+        "Shape_Length": 379.1174500769019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834439.7374999998,
+            812811.1078999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "NAME": "ABERDEEN TREE WALK",
+        "C_NAME": "香港仔樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_2",
+        "Trail_name_En": "Aberdeen Tree Walk",
+        "Trail_name_Ch": "香港仔樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Aberdeen Tree Centre",
+        "Startpt_Ch": "香港仔樹木廊",
+        "Finishpt_E": "Wan Chai Gap",
+        "Finishpt_C": "灣仔峽",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/WmppU2ZSVEUwdFF4VWFaTFkrdmZBUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/WmppU2ZSVEUwdFF4VWFaTFkrdmZBUT09",
+        "Shape_Length": 2607.7188494716434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            848894.5429999996,
+            816817.9484999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "NAME": "CLEAR WATER BAY TREE WALK",
+        "C_NAME": "清水灣樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_6",
+        "Trail_name_En": "Clear Water Bay Tree Walk",
+        "Trail_name_Ch": "清水灣樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Clearwater Bay Country Park Visitor Centre",
+        "Startpt_Ch": "清水灣郊野公園遊客中心",
+        "Finishpt_E": "Barbecue Area",
+        "Finishpt_C": "燒烤地點",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Wk12WTM4TlZlRFhhMlAyU0dCVkRldz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Wk12WTM4TlZlRFhhMlAyU0dCVkRldz09",
+        "Shape_Length": 932.9623341135476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            843041.3441000003,
+            838693.5133999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "NAME": "CHUNG PUI TREE WALK",
+        "C_NAME": "涌背樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_12",
+        "Trail_name_En": "Chung Pui Tree Walk",
+        "Trail_name_Ch": "涌背樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Bride's Pool Road",
+        "Startpt_Ch": "新娘潭路",
+        "Finishpt_E": "Bride's Pool Road",
+        "Finishpt_C": "新娘潭路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/RURvbVRIM0FiZXc0U0dlcWtTVnNBdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/RURvbVRIM0FiZXc0U0dlcWtTVnNBdz09",
+        "Shape_Length": 295.1400541321293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852384.2732999995,
+            833043.2946000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "NAME": "TAI TAN TREE WALK",
+        "C_NAME": "大灘樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_7",
+        "Trail_name_En": "Tai Tan Tree Walk",
+        "Trail_name_Ch": "大灘樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Tan Campsite",
+        "Startpt_Ch": "大灘營地",
+        "Finishpt_E": "Tai Tan Campsite",
+        "Finishpt_C": "大灘營地",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UzEydzFOQTc2YjFneklVdFV6cTVJZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UzEydzFOQTc2YjFneklVdFV6cTVJZz09",
+        "Shape_Length": 221.2021217507821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            839144.0303999996,
+            813385.2960000001
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "NAME": "TAI TAM TREE WALK",
+        "C_NAME": "大潭樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_4",
+        "Trail_name_En": "Tai Tam Tree Walk",
+        "Trail_name_Ch": "大潭樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Tai Tam Barbecue Area Site No. 3",
+        "Startpt_Ch": "大潭燒烤區3號場",
+        "Finishpt_E": "Tai Tam Barbecue Area Site No. 3",
+        "Finishpt_C": "大潭燒烤區3號場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MzdJN3lQcHFvVXp0R1BOWTRBZ2liUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MzdJN3lQcHFvVXp0R1BOWTRBZ2liUT09",
+        "Shape_Length": 141.2299832621632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851031.8496000003,
+            828684.6265999991
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "NAME": "PAK TAM CHUNG TREE WALK",
+        "C_NAME": "北潭涌樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_9",
+        "Trail_name_En": "Pak Tam Chung Tree Walk",
+        "Trail_name_Ch": "北潭涌樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Pak Tam Chung P.H.A.B. Site",
+        "Startpt_Ch": "北潭涌傷健樂園",
+        "Finishpt_E": "Pak Tam Chung P.H.A.B. Site",
+        "Finishpt_C": "北潭涌傷健樂園",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ak8zampXZjZLK1d4ZmU5THVMMGVMUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ak8zampXZjZLK1d4ZmU5THVMMGVMUT09",
+        "Shape_Length": 548.6568013564132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833445.3530000001,
+            814710.2090000007
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "NAME": "POK FU LAM TREE WALK",
+        "C_NAME": "薄扶林樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_1",
+        "Trail_name_En": "Pok Fu Lam Tree Walk",
+        "Trail_name_Ch": "薄扶林樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Peak Tram",
+        "Startpt_Ch": "山頂纜車站",
+        "Finishpt_E": "Harlech Road",
+        "Finishpt_C": "夏力道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/UFBsNE9YZFZiVjcxbEppTE5waXo3UT09",
+        "Shape_Length": 3422.5980440054955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            844676.8870000001,
+            832279.0489000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "NAME": "NAI CHUNG TREE WALK",
+        "C_NAME": "泥涌樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_11",
+        "Trail_name_En": "Nai Chung Tree Walk",
+        "Trail_name_Ch": "泥涌樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Nai Chung Barbecue Site",
+        "Startpt_Ch": "泥涌燒烤場",
+        "Finishpt_E": "Nai Chung Barbecue Site",
+        "Finishpt_C": "泥涌燒烤場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/V3JLaVN0VWZ2T1lteUZmQlp2L1ZoQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/V3JLaVN0VWZ2T1lteUZmQlp2L1ZoQT09",
+        "Shape_Length": 204.42724151161835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            840037.6086999997,
+            815590.1626999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "NAME": "QUARRY BAY TREE WALK",
+        "C_NAME": "鰂魚涌樹木研習徑",
+        "Section_No": 0,
+        "Trail_ID": "tre_5",
+        "Trail_name_En": "Quarry Bay Tree Walk",
+        "Trail_name_Ch": "鰂魚涌樹木研習徑",
+        "Type_En": "Tree Walk",
+        "Type_Ch": "樹木研習徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Mount Parker Road",
+        "Startpt_Ch": "柏架山道",
+        "Finishpt_E": "Greig Road",
+        "Finishpt_C": "基利路",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/bjVaMklDRFFFWnEzMmgxT2cvY2t4dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/bjVaMklDRFFFWnEzMmgxT2cvY2t4dz09",
+        "Shape_Length": 1092.729441476668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834574.3559999997,
+            812770.7510000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "NAME": "ABERDEEN FITNESS TRAIL",
+        "C_NAME": "香港仔健身徑",
+        "Section_No": 0,
+        "Trail_ID": "fit_1",
+        "Trail_name_En": "Aberdeen Fitness Trail",
+        "Trail_name_Ch": "香港仔健身徑",
+        "Type_En": "Fitness Trail",
+        "Type_Ch": "健身徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+        "Startpt_Ch": "香港仔郊野公園近漁光邨入口",
+        "Finishpt_E": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+        "Finishpt_C": "香港仔郊野公園近漁光邨入口",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 2069.1945094419543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            816275.3492999999,
+            828360.9743000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "NAME": "TUEN MUN FITNESS TRAIL",
+        "C_NAME": "屯門健身徑",
+        "Section_No": 0,
+        "Trail_ID": "fit_5",
+        "Trail_name_En": "Tuen Mun Fitness Trail",
+        "Trail_name_Ch": "屯門健身徑",
+        "Type_En": "Fitness Trail",
+        "Type_Ch": "健身徑",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "The end of the catchwater road along Stage 10 of MacLehose Trail",
+        "Startpt_Ch": "麥理浩徑十段引水道的盡頭",
+        "Finishpt_E": "So Kwun Wat",
+        "Finishpt_C": "掃管笏",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 3187.7469667076803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833417.8559999997,
+            826801.8739999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "NAME": "SHING MUN JOGGING TRAIL",
+        "C_NAME": "城門緩跑徑",
+        "Section_No": 0,
+        "Trail_ID": "jog_1",
+        "Trail_name_En": "Shing Mun Jogging Trail",
+        "Trail_name_Ch": "城門緩跑徑",
+        "Type_En": "Jogging Trail",
+        "Type_Ch": "緩跑徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Shing Mun Reservoir Main Dam",
+        "Startpt_Ch": "城門水塘主壩",
+        "Finishpt_E": "The junction with Reservoir Walk",
+        "Finishpt_C": "畔塘徑的交接點",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 4785.8397715864785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              833217.335,
+              823381.8499999996
+            ]
+          ],
+          [
+            [
+              833217.335,
+              823381.8499999996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "NAME": "RECEPTION RESERVOIR JOGGING TRAIL",
+        "C_NAME": "九龍接收水塘緩跑徑",
+        "Section_No": 0,
+        "Trail_ID": "jog_2",
+        "Trail_name_En": "Kowloon Reception Reservoir Jogging Trail",
+        "Trail_name_Ch": "九龍接收水塘緩跑徑",
+        "Type_En": "Jogging Trail",
+        "Type_Ch": "緩跑徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Surrounding Kowloon Reception Reservoir",
+        "Startpt_Ch": "環繞九龍接收水塘一周",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 1716.2946637994105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            833442.4737999998,
+            823973.5720000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "NAME": "SHEK LEI PUI RESERVOIR JOGGING TRAIL",
+        "C_NAME": "石梨貝水塘緩跑徑",
+        "Section_No": 0,
+        "Trail_ID": "jog_3",
+        "Trail_name_En": "Shek Lei Pui Reservoir Jogging Trail",
+        "Trail_name_Ch": "石梨貝水塘緩跑徑",
+        "Type_En": "Jogging Trail",
+        "Type_Ch": "緩跑徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Surrounding Shek Lei Pui Reservoir",
+        "Startpt_Ch": "環繞石梨貝水塘一周",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 1827.3674606420718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            839630.4699999997,
+            815164.0199999996
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "NAME": "QUARRY BAY JOGGING TRAIL",
+        "C_NAME": "鰂魚涌緩跑徑",
+        "Section_No": 0,
+        "Trail_ID": "jog_5",
+        "Trail_name_En": "Quarry Bay Jogging Trail",
+        "Trail_name_Ch": "鰂魚涌緩跑徑",
+        "Type_En": "Jogging Trail",
+        "Type_Ch": "緩跑徑",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "The entrance of Sir Cecil's Ride of Mount Parker Road",
+        "Startpt_Ch": "柏架山道金督馳馬徑入口",
+        "Finishpt_E": "The middle part of Sir Cecil's Ride",
+        "Finishpt_C": "金督馳馬徑中段",
+        "Tel": "1823",
+        "Webpage_En": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Webpage_Ch": "http://www.afcd.gov.hk/tc_chi/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html",
+        "Shape_Length": 2546.039449845109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              850990.2312000003,
+              828670.6877999995
+            ]
+          ],
+          [
+            [
+              851127.2219000002,
+              828757.9637000002
+            ]
+          ],
+          [
+            [
+              851091.2225000001,
+              828742.2278000005
+            ]
+          ],
+          [
+            [
+              851122.7545999996,
+              828749.7243000008
+            ]
+          ],
+          [
+            [
+              851058.6381999999,
+              828683.6389000006
+            ]
+          ],
+          [
+            [
+              851058.6381999999,
+              828683.6389000006
+            ]
+          ],
+          [
+            [
+              851082.0316000003,
+              828736.5396999996
+            ]
+          ],
+          [
+            [
+              851052.574,
+              828677.1513999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "NAME": "PAK TAM CHUNG WHEELCHAIR TRAIL",
+        "C_NAME": "北潭涌輪椅徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_3",
+        "Trail_name_En": "Pak Tam Chung Wheel Chair Trail",
+        "Trail_name_Ch": "北潭涌輪椅徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 612.4791098353952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            834602.7632999998,
+            812865.9905999992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "NAME": "ABERDEEN WHEEL CHAIR TRAIL",
+        "C_NAME": "香港仔輪椅徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_5",
+        "Trail_name_En": "Aberdeen Wheelchair Trail",
+        "Trail_name_Ch": "香港仔輪椅徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 212.37766468120157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            851111.3655000003,
+            828730.9756000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "NAME": "PAK TAM CHUNG HIKING PRACTICE TRAIL",
+        "C_NAME": "北潭涌遠足研習徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_7",
+        "Trail_name_En": "Pak Tam Chung Hiking Practice Trail",
+        "Trail_name_Ch": "北潭涌遠足研習徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 289.4176450896017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            808989.2396999998,
+            812668.5028000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "NAME": "WISDOM PATH",
+        "C_NAME": "心經簡林",
+        "Section_No": 0,
+        "Trail_ID": "oth_6",
+        "Trail_name_En": "Wisdom Path",
+        "Trail_name_Ch": "心經簡林",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 150.68356334437456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835795.75,
+            831065.625
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "NAME": "TAI PO KAU BROWN WALK",
+        "C_NAME": "大埔滘棕路",
+        "Section_No": 0,
+        "Trail_ID": "oth_9",
+        "Trail_name_En": "Tai Po Kau Brown Walk",
+        "Trail_name_Ch": "大埔滘啡路",
+        "Type_En": "Forest Walk",
+        "Type_Ch": "林徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 7727.733931433755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836196.6875999998,
+            832247.7499000002
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "NAME": "TAI PO KAU RED WALK",
+        "C_NAME": "大埔滘紅路",
+        "Section_No": 0,
+        "Trail_ID": "oth_10",
+        "Trail_name_En": "Tai Po Kau Red Walk",
+        "Trail_name_Ch": "大埔滘紅路",
+        "Type_En": "Forest Walk",
+        "Type_Ch": "林徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 3279.2837879536364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835795.75,
+            831065.625
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "NAME": "TAI PO KAU YELLOW WALK",
+        "C_NAME": "大埔滘黃路",
+        "Section_No": 0,
+        "Trail_ID": "oth_11",
+        "Trail_name_En": "Tai Po Kau Yellow Walk",
+        "Trail_name_Ch": "大埔滘黃路",
+        "Type_En": "Forest Walk",
+        "Type_Ch": "林徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 10341.095799105482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836111.4375,
+            832231.0625
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "NAME": "TAI PO KAU BLUE WALK",
+        "C_NAME": "大埔滘藍路",
+        "Section_No": 0,
+        "Trail_ID": "oth_12",
+        "Trail_name_En": "Tai Po Kau Blue Walk",
+        "Trail_name_Ch": "大埔滘藍路",
+        "Type_En": "Forest Walk",
+        "Type_Ch": "林徑",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 4356.909092265008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828731.4611999998,
+            831462.4185000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "NAME": "KAP LUNG FOREST TRAIL",
+        "C_NAME": "甲龍林徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_21",
+        "Trail_name_En": "Kap Lung Forest Trail",
+        "Trail_name_Ch": "甲龍林徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 3833.265005145083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            803791.5832000002,
+            812721.6795000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "NAME": "ISLANDS NATURE HERITAGE TRAIL - TAI O SECTION",
+        "C_NAME": "離島自然歷史徑 - 大澳段",
+        "Section_No": 0,
+        "Trail_ID": "oth_16",
+        "Trail_name_En": "Islands Nature Heritage Trail - Tai O Section",
+        "Trail_name_Ch": "離島自然歷史徑 - 大澳段",
+        "Type_En": "Islands Nature Heritage Trail",
+        "Type_Ch": "離島自然歷史徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 13815.523949120847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            803921.0124000004,
+            812689.3246999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "NAME": "ISLANDS NATURE HERITAGE TRAIL - NGONG PING SECTION",
+        "C_NAME": "離島自然歷史徑 - 昂坪段",
+        "Section_No": 0,
+        "Trail_ID": "oth_17",
+        "Trail_name_En": "Islands Nature Heritage Trail - Ngong Ping Section",
+        "Trail_name_Ch": "離島自然歷史徑 - 昂坪段",
+        "Type_En": "Islands Nature Heritage Trail",
+        "Type_Ch": "離島自然歷史徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 8623.924198398332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              816863.5520000001,
+              815358.8460000008
+            ]
+          ],
+          [
+            [
+              816863.5761000002,
+              815358.8529000003
+            ]
+          ],
+          [
+            [
+              815873.4929999998,
+              816713.0576000009
+            ]
+          ],
+          [
+            [
+              815794.1222000001,
+              816885.9411999993
+            ]
+          ],
+          [
+            [
+              815723.5286999997,
+              817008.1926000006
+            ]
+          ],
+          [
+            [
+              815722.4364,
+              817008.7388000004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "NAME": "ISLANDS NATURE HERITAGE TRAIL - MUI WO SECTION",
+        "C_NAME": "離島自然歷史徑 - 梅窩段",
+        "Section_No": 0,
+        "Trail_ID": "oth_18",
+        "Trail_name_En": "Islands Nature Heritage Trail - Mui Wo Section",
+        "Trail_name_Ch": "離島自然歷史徑 - 梅窩段",
+        "Type_En": "Islands Nature Heritage Trail",
+        "Type_Ch": "離島自然歷史徑",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 6576.576344405146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832933.5373,
+            826504.6458999999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "NAME": "WAR RELICS TRAIL (SHING MUN)",
+        "C_NAME": "戰地遺跡徑 (城門)",
+        "Section_No": 0,
+        "Trail_ID": "oth_24",
+        "Trail_name_En": "War Relics Trail (Shing Mun)",
+        "Trail_name_Ch": "戰地遺跡徑 (城門)",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Memorial Arch of MacLehose Trail Section 6 at Barbecue Site No.5",
+        "Startpt_Ch": "位於5號燒烤場的麥理浩徑第六段的牌坊",
+        "Finishpt_E": "Located at Observation Post. Take the return route to Shing Mun or go to Kam Shan via MacLehose Trail Section 6",
+        "Finishpt_C": "位於砲兵觀察所。可沿路返回城門或沿麥理浩徑第六段前往金山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NTdJUjdNOGM2REpMSEZydGkwNHJSQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NTdJUjdNOGM2REpMSEZydGkwNHJSQT09",
+        "Shape_Length": 418.17346454273434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            835512.3232000005,
+            823384.3205999993
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "NAME": "LION ROCK WAR RELICS TRAIL",
+        "C_NAME": "獅子山戰地遺跡徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_22",
+        "Trail_name_En": "Lion Rock War Relics Trail",
+        "Trail_name_Ch": "獅子山戰地遺跡徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Tate's Cairn (Gilwell Campsite)",
+        "Startpt_Ch": "大老山近基維爾營",
+        "Finishpt_E": "Beacon Hill",
+        "Finishpt_C": "筆架山",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cFFCTzVsK0N3K21MeW1kRGdDVGppQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cFFCTzVsK0N3K21MeW1kRGdDVGppQT09",
+        "Shape_Length": 7998.6891715356605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              832135.5380999995,
+              815418.7059000004
+            ]
+          ],
+          [
+            [
+              832045.8211000003,
+              815411.9143000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "NAME": "PINEWOOD BATTERY HERITAGE TRAIL",
+        "C_NAME": "松林砲台歷史徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_23",
+        "Trail_name_En": "Pinewood Battery Heritage Trail",
+        "Trail_name_Ch": "松林砲台歷史徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park",
+        "Startpt_Ch": "龍虎山郊野公園克頓道的郊遊區1號場入口",
+        "Finishpt_E": "Entrance of the Picnic Area Site No.1 on Hatton Road, Lung Fu Shan Country Park",
+        "Finishpt_C": "龍虎山郊野公園克頓道的郊遊區1號場入口",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09",
+        "Shape_Length": 312.1576765572945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              822433.5749000004,
+              815997.7876999993
+            ]
+          ],
+          [
+            [
+              821881.5982999997,
+              816222.7182999998
+            ]
+          ],
+          [
+            [
+              822040.9113999996,
+              816230.7115000002
+            ]
+          ],
+          [
+            [
+              822131.0417,
+              816254.4156
+            ]
+          ],
+          [
+            [
+              821987.3775000004,
+              816299.9052000009
+            ]
+          ],
+          [
+            [
+              821987.3775000004,
+              816299.9052000009
+            ]
+          ],
+          [
+            [
+              821987.3775000004,
+              816299.9052000009
+            ]
+          ],
+          [
+            [
+              822548.6550000003,
+              816953.1693999991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "NAME": "ISLANDS NATURE HERITAGE TRAIL - PENG CHAU SECTION",
+        "C_NAME": "離島自然歷史徑 - 坪洲段",
+        "Section_No": 0,
+        "Trail_ID": "oth_19",
+        "Trail_name_En": "Islands Nature Heritage Trail - Peng Chau Section",
+        "Trail_name_Ch": "離島自然歷史徑 - 坪洲段",
+        "Type_En": "Islands Nature Heritage Trail",
+        "Type_Ch": "離島自然歷史徑",
+        "Region_En": "Peng Chau",
+        "Region_Ch": "坪洲",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 5897.2571625172395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              815800.3518000003,
+              817077.9322999995
+            ]
+          ],
+          [
+            [
+              815800.3518000003,
+              817077.9322999995
+            ]
+          ],
+          [
+            [
+              816882.1654000003,
+              815374.7739000004
+            ]
+          ],
+          [
+            [
+              814710.1160000004,
+              817683.4350000005
+            ]
+          ],
+          [
+            [
+              817020.6059999997,
+              814676.9890000001
+            ]
+          ],
+          [
+            [
+              815799.9910000004,
+              817078.3859999999
+            ]
+          ],
+          [
+            [
+              816555.8109999998,
+              815695.807
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "NAME": "HONG KONG OLYMPIC TRAIL",
+        "C_NAME": "香港奧運徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_20",
+        "Trail_name_En": "Hong Kong Olympic Trail",
+        "Trail_name_Ch": "香港奧運徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": " ",
+        "Difficult_Ch": " ",
+        "Startpt_En": " ",
+        "Startpt_Ch": " ",
+        "Finishpt_E": " ",
+        "Finishpt_C": " ",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 5605.253561632917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              834408.5576,
+              812731.4705999997
+            ]
+          ],
+          [
+            [
+              834408.5576,
+              812731.4705999997
+            ]
+          ],
+          [
+            [
+              834414.3683000002,
+              812769.7268000003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "NAME": "ABERDEEN KIDS WALK",
+        "C_NAME": "香港仔兒童研習徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_25",
+        "Trail_name_En": "Aberdeen Kids Walk",
+        "Trail_name_Ch": "香港仔兒童研習徑",
+        "Type_En": "Other Route",
+        "Type_Ch": "其他路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+        "Startpt_Ch": "香港仔郊野公園近漁光邨入口",
+        "Finishpt_E": "The entrance of Aberdeen Country Park near Yue Kwong Chuen",
+        "Finishpt_C": "香港仔郊野公園近漁光邨入口",
+        "Tel": "1823",
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 106.35557069703982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            845831.7648,
+            845758.7446999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "NAME": "AP CHAU GEOSITE\r\n",
+        "C_NAME": "鴨洲地質景點",
+        "Section_No": 0,
+        "Trail_ID": "oth_27",
+        "Trail_name_En": "Ap Chau Geosite",
+        "Trail_name_Ch": "鴨洲地質景點",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Ap Chau Story Room",
+        "Startpt_Ch": "鴨洲故事館",
+        "Finishpt_E": "Wave-cut platform",
+        "Finishpt_C": "海蝕平台",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TmZqUWFZMmJwU1hoKzNwVlA0aXErQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TmZqUWFZMmJwU1hoKzNwVlA0aXErQT09",
+        "Shape_Length": 395.0243890321926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            848898.4230000004,
+            835227.4810000006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "NAME": "LAI CHI CHONG GEOSITE\r\n",
+        "C_NAME": "荔枝莊地質景點",
+        "Section_No": 0,
+        "Trail_ID": "oth_29",
+        "Trail_name_En": "Lai Chi Chong Geosite",
+        "Trail_name_Ch": "荔枝莊地質景點",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Lai Chi Chong Pier",
+        "Startpt_Ch": "荔枝莊碼頭",
+        "Finishpt_E": "Lai Chi Chong Pier",
+        "Finishpt_C": "荔枝莊碼頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dTRjZnBQWXZ0WHdjVFhxS1dSR0tkZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dTRjZnBQWXZ0WHdjVFhxS1dSR0tkZz09",
+        "Shape_Length": 492.9256174260855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              847570.7998000002,
+              824884.4089000002
+            ]
+          ],
+          [
+            [
+              847516.9375,
+              824887.7788999993
+            ]
+          ],
+          [
+            [
+              847574.9610000001,
+              824900.9663999993
+            ]
+          ],
+          [
+            [
+              847575.0226999996,
+              824901.1041000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "NAME": "SHARP ISLAND GEO TRAIL",
+        "C_NAME": "橋咀洲地質步道",
+        "Section_No": 0,
+        "Trail_ID": "oth_30",
+        "Trail_name_En": "Sharp Island Geo Trail",
+        "Trail_name_Ch": "橋咀洲地質步道",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Kiu Tsui Pier",
+        "Startpt_Ch": "橋咀碼頭",
+        "Finishpt_E": "Kiu Tsui Pier",
+        "Finishpt_C": "橋咀碼頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09",
+        "Shape_Length": 674.5106788984491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              848016.0108000003,
+              845924.7983999997
+            ]
+          ],
+          [
+            [
+              848053.1726000002,
+              845381.9627999999
+            ]
+          ],
+          [
+            [
+              847933.4992000004,
+              845640.6161000002
+            ]
+          ],
+          [
+            [
+              847849.6490000002,
+              845739.2672000006
+            ]
+          ],
+          [
+            [
+              847942.3104999997,
+              845656.8615000006
+            ]
+          ],
+          [
+            [
+              848255.1568,
+              845224.1247000005
+            ]
+          ],
+          [
+            [
+              848017.7079999996,
+              845603.4617999997
+            ]
+          ],
+          [
+            [
+              848035.3673,
+              845248.5636999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "NAME": "KAT O HERITAGE TRAIL \r\n",
+        "C_NAME": "吉澳文化徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_40",
+        "Trail_name_En": "Kat O Heritage Trail",
+        "Trail_name_Ch": "吉澳文化徑",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "North New Territories",
+        "Region_Ch": "新界北區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Kat O Pier",
+        "Startpt_Ch": "吉澳碼頭",
+        "Finishpt_E": "Kat O Pier",
+        "Finishpt_C": "吉澳碼頭",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/R2FLU0hMdUpwY29KUVpmZXJEbTE5UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/R2FLU0hMdUpwY29KUVpmZXJEbTE5UT09",
+        "Shape_Length": 3098.8756006164517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              832146.9241000004,
+              815379.7682000007
+            ]
+          ],
+          [
+            [
+              832049.4499000004,
+              815417.6717000008
+            ]
+          ],
+          [
+            [
+              832502.8915999997,
+              815798.5866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "NAME": "PEAK TRAIL (PINEWOOD BATTERY SECTION)\r\n",
+        "C_NAME": "爐峰自然步道 (松林砲台段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_41",
+        "Trail_name_En": "Peak Trail (Pinewood Battery Section)",
+        "Trail_name_Ch": "爐峰自然步道 (松林砲台段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Peak",
+        "Startpt_Ch": "山頂",
+        "Finishpt_E": "Kotewall Road",
+        "Finishpt_C": "旭龢道",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/cFpocmtHWk1VY1NrRGNtNldQcHh5UT09",
+        "Shape_Length": 4404.37561913166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              832360.2789000003,
+              814919.0491000004
+            ]
+          ],
+          [
+            [
+              832360.2789000003,
+              814919.0491000004
+            ]
+          ],
+          [
+            [
+              832360.2789000003,
+              814919.0491000004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "NAME": "PEAK TRAIL (HIGH WEST SECTION)",
+        "C_NAME": "爐峰自然步道 (西高山段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_42",
+        "Trail_name_En": "Peak Trail (High West Section)",
+        "Trail_name_Ch": "爐峰自然步道 (西高山段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Peak",
+        "Startpt_Ch": "山頂",
+        "Finishpt_E": "Pok Fu Lam",
+        "Finishpt_C": "薄扶林",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dDI5eDQrbTBHemxIaTEvKzh6N3hwdz09",
+        "Shape_Length": 4847.3681787869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            832857.023,
+            827258.7533999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "NAME": "SHING MUN RESERVOIR WALK",
+        "C_NAME": "城門畔塘徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_47",
+        "Trail_name_En": "Shing Mun Reservoir Walk",
+        "Trail_name_Ch": "城門畔塘徑",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Pineapple Dam",
+        "Startpt_Ch": "菠蘿壩",
+        "Finishpt_E": "Pineapple Dam",
+        "Finishpt_C": "菠蘿壩",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/NlRMUDdJZmdSaTRPeDVGZXlMQ0VEZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/NlRMUDdJZmdSaTRPeDVGZXlMQ0VEZz09",
+        "Shape_Length": 8516.548216621199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            852270.8312999997,
+            831334.6949000005
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "NAME": "TAI LONG WAN HIKING TRAIL",
+        "C_NAME": "大浪灣遠足徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_31",
+        "Trail_name_En": "Tai Long Wan Hiking Trail",
+        "Trail_name_Ch": "大浪灣遠足徑",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Sai Kung Sai Wan Road",
+        "Startpt_Ch": "西貢西灣路",
+        "Finishpt_E": "Pak Tam Au",
+        "Finishpt_C": "北潭凹",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ckZZcXRjeHpwZzROc0FUN0xFTTJPdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ckZZcXRjeHpwZzROc0FUN0xFTTJPdz09",
+        "Shape_Length": 11230.702447645564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            842536.6627000002,
+            829880.7764999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "NAME": "MA ON SHAN FAMILY WALK",
+        "C_NAME": "馬鞍山家樂徑",
+        "Section_No": 0,
+        "Trail_ID": "fmy_12",
+        "Trail_name_En": "Ma On Shan Family Walk",
+        "Trail_name_Ch": "馬鞍山家樂徑",
+        "Type_En": "Family Walk",
+        "Type_Ch": "家樂徑",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Ma On Shan Barbecue Site",
+        "Startpt_Ch": "馬鞍山燒烤場",
+        "Finishpt_E": "Ma On Shan Barbecue Site",
+        "Finishpt_C": "馬鞍山燒烤場",
+        "Tel": "1823",
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/S25mS2F6QmlEQlg2VTRtOVN4M29nZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/S25mS2F6QmlEQlg2VTRtOVN4M29nZz09",
+        "Shape_Length": 541.045368540294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            850985.3832999999,
+            828671.6853999998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "NAME": "PAK TAM CHUNG TO BIU TSIM KOK HIKING TRAIL\r\n",
+        "C_NAME": "北潭涌至標尖角遠足徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_32",
+        "Trail_name_En": "Pak Tam Chung To Biu Tsim Kok Hiking Trail",
+        "Trail_name_Ch": "北潭涌至標尖角遠足徑",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Pak Tam Chung",
+        "Startpt_Ch": "北潭涌",
+        "Finishpt_E": "Biu Tsim Kok",
+        "Finishpt_C": "標尖角",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/SnVsSFVZUXZWbWtlczU4RmN0a1NGZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/SnVsSFVZUXZWbWtlczU4RmN0a1NGZz09",
+        "Shape_Length": 11057.65580112678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            808063.9900000002,
+            813040.9936999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "NAME": "NGONG PING TRAIL (VILLAGE SECTION)",
+        "C_NAME": "昂坪自然步道(市集段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_37",
+        "Trail_name_En": "Ngong Ping Trail (Village Section)",
+        "Trail_name_Ch": "昂坪自然步道(市集段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "Ngong Ping",
+        "Startpt_Ch": "昂坪",
+        "Finishpt_E": "Ngong Ping",
+        "Finishpt_C": "昂坪",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/WWVwemE2SGZGSmlTQWxUc2dQOHBkdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/WWVwemE2SGZGSmlTQWxUc2dQOHBkdz09",
+        "Shape_Length": 3834.732351825033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            808063.9900000002,
+            813040.9936999995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "NAME": "NGONG PING TRAIL (NEI LAK SHAN SECTION)",
+        "C_NAME": "昂坪自然步道(彌勒山段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_38",
+        "Trail_name_En": "Ngong Ping Trail (Nei Lak Shan Section)",
+        "Trail_name_Ch": "昂坪自然步道(彌勒山段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Ngong Ping",
+        "Startpt_Ch": "昂坪",
+        "Finishpt_E": "Ngong Ping",
+        "Finishpt_C": "昂坪",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/eXNxeEpiRVl4cXRidzFFZTg3VHE2dz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/eXNxeEpiRVl4cXRidzFFZTg3VHE2dz09",
+        "Shape_Length": 5989.978293666056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            809795.6078000003,
+            812290.3895999994
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "NAME": "NGONG PING TRAIL (LANTAU PEAK SECTION)",
+        "C_NAME": "昂坪自然步道(鳳凰山段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_39",
+        "Trail_name_En": "Ngong Ping Trail (Lantau Peak Section)",
+        "Trail_name_Ch": "昂坪自然步道(鳳凰山段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Lantau Island",
+        "Region_Ch": "大嶼山",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Ngong Ping",
+        "Startpt_Ch": "昂坪",
+        "Finishpt_E": "Lantau Peak",
+        "Finishpt_C": "鳳凰山",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZlNCMkhacU5vNm90ZzJLOENqOVhpQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZlNCMkhacU5vNm90ZzJLOENqOVhpQT09",
+        "Shape_Length": 2580.501050030553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838457.1146999998,
+            813266.8803000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "NAME": "TAI TAM TO TAI KOO (JARDINE'S LOOKOUT SECTION)",
+        "C_NAME": "大潭至太古(渣甸山段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_45",
+        "Trail_name_En": "Tai Tam to Tai Koo (Jardine's Lookout Section)",
+        "Trail_name_Ch": "大潭至太古(渣甸山段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Wong Nai Chung Gap",
+        "Startpt_Ch": "黃泥涌峽",
+        "Finishpt_E": "Tai Koo",
+        "Finishpt_C": "太古",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/TXpWQlRML0VFTUtiTmpqSDhhMkYwQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/TXpWQlRML0VFTUtiTmpqSDhhMkYwQT09",
+        "Shape_Length": 5918.805862217939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            838457.1146999998,
+            813266.8803000003
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "NAME": "TAI TAM TO TAI KOO (TAI TAM RESERVOIR SECTION)",
+        "C_NAME": "大潭至太古(大潭水塘段)",
+        "Section_No": 0,
+        "Trail_ID": "oth_46",
+        "Trail_name_En": "Tai Tam to Tai Koo (Tai Tam Reservoir Section)",
+        "Trail_name_Ch": "大潭至太古(大潭水塘段)",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Hong Kong Island",
+        "Region_Ch": "香港島",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Wong Nai Chung Gap",
+        "Startpt_Ch": "黃泥涌峽",
+        "Finishpt_E": "Woodside Biodiversity Education Centre",
+        "Finishpt_C": "林邊生物多樣性自然教育中心",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/dmpYRDNZMzFZUXczNGFDN0VlZnRxdz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/dmpYRDNZMzFZUXczNGFDN0VlZnRxdz09",
+        "Shape_Length": 6235.223885483537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            821242.7643999998,
+            830098.2205999997
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "NAME": "TAI TONG TO WONG NAI TUN RESERVOIR",
+        "C_NAME": "大棠至黃泥墩水塘",
+        "Section_No": 0,
+        "Trail_ID": "oth_48",
+        "Trail_name_En": "Tai Tong to Wong Nai Tun Reservoir",
+        "Trail_name_Ch": "大棠至黃泥墩水塘",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "Tai Tong Shan Road",
+        "Startpt_Ch": "大棠山路",
+        "Finishpt_E": "Yeung Ka Tsuen",
+        "Finishpt_C": "楊家村",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Z1U3TDhQNmtyWmhnS0VFV2w1RFBYUT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Z1U3TDhQNmtyWmhnS0VFV2w1RFBYUT09",
+        "Shape_Length": 7088.819829788326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            828897,
+            829693
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "NAME": "TWISK TO SHEK LUNG KUNG",
+        "C_NAME": "荃錦至石龍拱",
+        "Section_No": 0,
+        "Trail_ID": "oth_53",
+        "Trail_name_En": "Twisk to Shek Lung Kung",
+        "Trail_name_Ch": "荃錦至石龍拱",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "West New Territories",
+        "Region_Ch": "新界西區",
+        "Difficult_En": "Demanding",
+        "Difficult_Ch": "費力",
+        "Startpt_En": "Twisk",
+        "Startpt_Ch": "荃錦",
+        "Finishpt_E": "Shek Lung Kung",
+        "Finishpt_C": "石龍拱",
+        "Tel": null,
+        "Webpage_En": "-",
+        "Webpage_Ch": "-",
+        "Shape_Length": 7051.037790341614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            836711.2589999996,
+            824982.0050000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "NAME": "LION ROCK HISTORIC WALK",
+        "C_NAME": "獅子山歷史徑",
+        "Section_No": 0,
+        "Trail_ID": "oth_52",
+        "Trail_name_En": "Lion Rock Historic Walk",
+        "Trail_name_Ch": "獅子山歷史徑",
+        "Type_En": "Recommended Trail",
+        "Type_Ch": "特色路線",
+        "Region_En": "Central New Territories",
+        "Region_Ch": "新界中區",
+        "Difficult_En": "Difficult",
+        "Difficult_Ch": "難行",
+        "Startpt_En": "Hung Mui Kuk",
+        "Startpt_Ch": "紅梅谷",
+        "Finishpt_E": "Shui Tsuen O",
+        "Finishpt_C": "水泉澳",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/Ymh6YmlmYzl3WkRUdmdzeGx0QVMvQT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/Ymh6YmlmYzl3WkRUdmdzeGx0QVMvQT09",
+        "Shape_Length": 7083.756912638517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              856559.2591000004,
+              825151.3345999997
+            ]
+          ],
+          [
+            [
+              856666.8567000004,
+              825464.2043999992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "NAME": "HIGH ISLAND GEO TRAIL - BIU TSIM KOK SECTION",
+        "C_NAME": "萬宜地質步道 - 標尖角段",
+        "Section_No": 0,
+        "Trail_ID": "oth_54",
+        "Trail_name_En": "High Island Geo Trail - Biu Tsim Kok Section",
+        "Trail_name_Ch": "萬宜地質步道 - 標尖角段",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "East Dam",
+        "Startpt_Ch": "東壩",
+        "Finishpt_E": "Biu Tsim Kok",
+        "Finishpt_C": "標尖角",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/MUNrNUw1WEdwS2RTa0IzMVJwSkY5QT09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/MUNrNUw1WEdwS2RTa0IzMVJwSkY5QT09",
+        "Shape_Length": 1333.1575445188323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            856483.1469999999,
+            824763.4403000008
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "NAME": "HIGH ISLAND GEO TRAIL - EAST DAM SECTION",
+        "C_NAME": "萬宜地質步道 - 東壩段",
+        "Section_No": 0,
+        "Trail_ID": "oth_55",
+        "Trail_name_En": "High Island Geo Trail - East Dam Section",
+        "Trail_name_Ch": "萬宜地質步道 - 東壩段",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Easy",
+        "Difficult_Ch": "易行",
+        "Startpt_En": "East Dam",
+        "Startpt_Ch": "東壩",
+        "Finishpt_E": "East Dam",
+        "Finishpt_C": "東壩",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/ZFNQcUI3R0toMzhFWHAwbUdQNXBwZz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/ZFNQcUI3R0toMzhFWHAwbUdQNXBwZz09",
+        "Shape_Length": 1401.958825691491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            856299.2925000004,
+            824746.3037
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "NAME": "HIGH ISLAND GEO TRAIL - PO PIN CHAU SECTION",
+        "C_NAME": "萬宜地質步道 - 破邊洲段",
+        "Section_No": 0,
+        "Trail_ID": "oth_56",
+        "Trail_name_En": "High Island Geo Trail - Po Pin Chau Section",
+        "Trail_name_Ch": "萬宜地質步道 - 破邊洲段",
+        "Type_En": "Geo Route",
+        "Type_Ch": "地質路線",
+        "Region_En": "Sai Kung",
+        "Region_Ch": "西貢",
+        "Difficult_En": "Moderate",
+        "Difficult_Ch": "普通",
+        "Startpt_En": "East Dam",
+        "Startpt_Ch": "東壩",
+        "Finishpt_E": "Po Pin Chau",
+        "Finishpt_C": "破邊洲",
+        "Tel": null,
+        "Webpage_En": "https://www.hiking.gov.hk/trail/info/id/c2ZrZUpiUGRBck1TanVNQ1J6Qkg5Zz09",
+        "Webpage_Ch": "https://www.hiking.gov.hk/trail/info/id/c2ZrZUpiUGRBck1TanVNQ1J6Qkg5Zz09",
+        "Shape_Length": 965.5308961072176
+      }
+    }
+  ]
+}
