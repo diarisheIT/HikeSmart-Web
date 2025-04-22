@@ -329,7 +329,8 @@ def process_trails(geojson, station_cache):
         trail_result = {
             "name": props.get("Trail_name_En"),
             "startLocation": props.get("Startpt_En"),
-            "length": round(props.get("Shape_Length", 0) / 1000, 2),
+            # Ensure length doesn't already have "km" suffix
+            "length": round(props.get("Shape_Length", 0) / 1000, 2),  # Just the number
             "difficulty": props.get("Difficult_En"),
             "station": best_station,
             "stationType": best_type,

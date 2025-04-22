@@ -347,12 +347,17 @@ const renderWelcomeSection = () => {
                           </div>
                           
                           <div className="mt-3 space-y-2">
-                            {trail.length && (
-                              <div className="flex items-center text-gray-700">
-                                <BarChart2 size={16} className="mr-2 text-emerald-600" />
-                                <span>{trail.length} km</span>
-                              </div>
-                            )}
+                          {trail.length && (
+                            <div className="flex items-center text-gray-700">
+                              <BarChart2 size={16} className="mr-2 text-emerald-600" />
+                              <span>
+                                {/* Check if length already includes 'km' and only add if it doesn't */}
+                                {typeof trail.length === 'string' && trail.length.includes('km') 
+                                  ? trail.length 
+                                  : `${trail.length} km`}
+                              </span>
+                            </div>
+                          )}
                             
                             {trail.station && (
                               <div className="flex items-center text-gray-700">
