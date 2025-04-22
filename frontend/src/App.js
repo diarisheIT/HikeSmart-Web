@@ -147,80 +147,82 @@ const renderWelcomeSection = () => {
   if (results || weatherInfo) return null;
   
   return (
-    <div className="p-4 mt-2">
+    <div className="p-3 mt-2">
       <div className="bg-white rounded-xl shadow-md overflow-hidden">
-        <div className="p-5">
+        <div className="p-4">
           <h2 className="text-xl font-semibold text-gray-800 mb-3">Welcome to HikeSmart HK</h2>
-          <p className="text-sm text-gray-600 mb-5">Your personal guide to finding the perfect hiking trails in Hong Kong, tailored to your preferences and current weather conditions.</p>
+          <p className="text-base text-gray-600 mb-4">
+            Your personal guide to finding the perfect hiking trails in Hong Kong, tailored to your preferences and current weather conditions.
+          </p>
           
-          <h3 className="text-md font-medium text-gray-800 mb-3">What HikeSmart Can Do For You:</h3>
+          <h3 className="text-lg font-medium text-gray-800 mb-3">What HikeSmart Can Do For You:</h3>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+          <div className="space-y-4">
             <div className="flex items-start">
               <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
-                <Map className="text-emerald-600" size={18} />
+                <Map className="text-emerald-600" size={20} />
               </div>
               <div>
-                <h4 className="font-medium text-gray-800 text-sm">Find Perfect Trails</h4>
-                <p className="text-gray-600 text-xs">Discover hiking trails that match your preferences.</p>
+                <h4 className="font-medium text-gray-800 text-base">Find Perfect Trails</h4>
+                <p className="text-gray-600 text-base">Discover hiking trails that match your preferences.</p>
               </div>
             </div>
             
             <div className="flex items-start">
               <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
-                <Navigation className="text-emerald-600" size={18} />
+                <Navigation className="text-emerald-600" size={20} />
               </div>
               <div>
-                <h4 className="font-medium text-gray-800 text-sm">Transit Information</h4>
-                <p className="text-gray-600 text-xs">See nearest MTR/bus stations to each trail.</p>
+                <h4 className="font-medium text-gray-800 text-base">Transit Information</h4>
+                <p className="text-gray-600 text-base">See nearest MTR/bus stations to each trail.</p>
               </div>
             </div>
             
             <div className="flex items-start">
               <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
-                <Cloud className="text-emerald-600" size={18} />
+                <Cloud className="text-emerald-600" size={20} />
               </div>
               <div>
-                <h4 className="font-medium text-gray-800 text-sm">Real-time Weather</h4>
-                <p className="text-gray-600 text-xs">Check weather conditions for safe hiking.</p>
+                <h4 className="font-medium text-gray-800 text-base">Real-time Weather</h4>
+                <p className="text-gray-600 text-base">Check weather conditions for safe hiking.</p>
               </div>
             </div>
             
             <div className="flex items-start">
               <div className="bg-emerald-100 p-2 rounded-lg mr-3 flex-shrink-0">
-                <Award className="text-emerald-600" size={18} />
+                <Award className="text-emerald-600" size={20} />
               </div>
               <div>
-                <h4 className="font-medium text-gray-800 text-sm">AI Recommendations</h4>
-                <p className="text-gray-600 text-xs">Get personalized trail suggestions.</p>
+                <h4 className="font-medium text-gray-800 text-base">AI Recommendations</h4>
+                <p className="text-gray-600 text-base">Get personalized trail suggestions.</p>
               </div>
             </div>
           </div>
           
-          <div className="bg-gray-50 p-3 rounded-lg border border-gray-100 mt-3">
-            <h3 className="text-gray-800 font-medium mb-2 text-sm">Try searching for:</h3>
+          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100 mt-5">
+            <h3 className="text-gray-800 font-medium mb-3 text-base">Try searching for:</h3>
             <div className="flex flex-wrap gap-2">
               <button 
                 onClick={() => setUserPreference("Easy hikes near MTR")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
               >
                 Easy hikes near MTR
               </button>
               <button 
                 onClick={() => setUserPreference("Family friendly trails")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
               >
                 Family friendly trails
               </button>
               <button 
                 onClick={() => setUserPreference("Challenging hikes")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
               >
                 Challenging hikes
               </button>
               <button 
                 onClick={() => setUserPreference("Short trails with views")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-xs"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
               >
                 Short trails with views
               </button>
@@ -243,16 +245,19 @@ const renderWelcomeSection = () => {
       ) : (
         <>
           {/* Header - Added onClick to logo */}
-          <header className="bg-emerald-600 text-white p-4 shadow-md">
-            <div className="flex justify-between items-center">
-              <h1 
-                className="text-2xl font-bold cursor-pointer flex items-center" 
-                onClick={goToHome}
-              >
+          <header className="bg-emerald-600 text-white p-4 shadow-md relative">
+            {/* Info icon stays in the top left */}
+            <div className="absolute left-4 top-4">
+              <Info size={24} />
+            </div>
+            
+            {/* Logo moved lower but still centered horizontally */}
+            <div className="flex justify-center items-center mt-12">
+              <h1 className="text-2xl font-bold cursor-pointer flex items-center" 
+                  onClick={goToHome}>
                 <Map className="mr-2" size={24} />
                 HikeSmart HK
               </h1>
-              <Info size={24} />
             </div>
           </header>
           

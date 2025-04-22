@@ -323,3 +323,7 @@ button:disabled {
 a {
   text-decoration: none;
 }
+
+.safe-header {
+  padding-top: env(safe-area-inset-top, 12px);
+}

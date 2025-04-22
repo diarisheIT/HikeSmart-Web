@@ -25,7 +25,393 @@
         "distance": "1.82 km",
         "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
       }
+    ],
+    "find near hku short": [
+      {
+        "name": "Pinewood Battery Heritage Trail",
+        "length": "0.31 km",
+        "difficulty": "Easy",
+        "station": "Kotewall Fire Station",
+        "distance": "0.82 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Njk2MDlSS01XZkpMVXNzd1ltQTFUZz09"
+      },
+      {
+        "name": "Aberdeen Kids Walk",
+        "length": "0.11 km",
+        "difficulty": "Easy",
+        "station": "Peak Road Gas Station",
+        "distance": "2.7 km",
+        "website": null
+      },
+      {
+        "name": "Tai Tam Tree Walk",
+        "length": "0.14 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/MzdJN3lQcHFvVXp0R1BOWTRBZ2liUT09"
+      },
+      {
+        "name": "Aberdeen Wheelchair Trail",
+        "length": "0.21 km",
+        "difficulty": null,
+        "station": "Peak Road Gas Station",
+        "distance": "2.75 km",
+        "website": null
+      },
+      {
+        "name": "Ap Chau Geosite",
+        "length": "0.4 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/TmZqUWFZMmJwU1hoKzNwVlA0aXErQT09"
+      },
+      {
+        "name": "Lai Chi Chong Geosite",
+        "length": "0.49 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dTRjZnBQWXZ0WHdjVFhxS1dSR0tkZz09"
+      },
+      {
+        "name": "Pak Tam Chung Tree Walk",
+        "length": "0.55 km",
+        "difficulty": "Easy",
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "0.13 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/ak8zampXZjZLK1d4ZmU5THVMMGVMUT09"
+      },
+      {
+        "name": "Kei Ling Ha Tree Walk",
+        "length": "0.62 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/RVlYeCtCQWFVQWcyanhnWGU0d1ZCUT09"
+      },
+      {
+        "name": "High Island Geo Trail - Po Pin Chau Section",
+        "length": "0.97 km",
+        "difficulty": "Moderate",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/c2ZrZUpiUGRBck1TanVNQ1J6Qkg5Zz09"
+      },
+      {
+        "name": "Tai Tong Tree Walk",
+        "length": "0.64 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/VUYwYmN4Y1Q4R0FHSldVNkRCTXVuUT09"
+      },
+      {
+        "name": "Tai Mei Tuk Family Walk",
+        "length": "0.93 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/ZHIxalZwQUVXdytUUE9uRU94OTVTdz09"
+      },
+      {
+        "name": "Wong Shek Tree Walk",
+        "length": "0.38 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/VWlnL0szQnNOWG5OVEZLRXhCbnA1UT09"
+      },
+      {
+        "name": "Chung Pui Tree Walk",
+        "length": "0.3 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/RURvbVRIM0FiZXc0U0dlcWtTVnNBdz09"
+      },
+      {
+        "name": "Sharp Island Geo Trail",
+        "length": "0.67 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Y056R09YSEJvYjZIQStpRXFhVzVqZz09"
+      },
+      {
+        "name": "Clear Water Bay Tree Walk",
+        "length": "0.93 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/Wk12WTM4TlZlRFhhMlAyU0dCVkRldz09"
+      },
+      {
+        "name": "War Relics Trail (Shing Mun)",
+        "length": "0.42 km",
+        "difficulty": "Easy",
+        "station": "The Apex",
+        "distance": "1.95 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/NTdJUjdNOGM2REpMSEZydGkwNHJSQT09"
+      },
+      {
+        "name": "Ma On Shan Family Walk",
+        "length": "0.54 km",
+        "difficulty": "Easy",
+        "station": "Yao'an Bus Terminal",
+        "distance": "2.51 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/S25mS2F6QmlEQlg2VTRtOVN4M29nZz09"
+      },
+      {
+        "name": "Ngong Ping Trail (Village Section)",
+        "length": "3.83 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/WWVwemE2SGZGSmlTQWxUc2dQOHBkdz09"
+      },
+      {
+        "name": "Tai Tam Family Walk",
+        "length": "1.61 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/VXUrUWZ6Y3hSVmdqdmVDNXA5QU5mUT09"
+      },
+      {
+        "name": "Tsiu Hang Nature Trail",
+        "length": "0.85 km",
+        "difficulty": "Easy",
+        "station": "Wu Lei Tau",
+        "distance": "1.52 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/QW83RFlqandJamIvZGprRFlzNkdsZz09"
+      },
+      {
+        "name": "Rotary Park Nature Trail",
+        "length": "0.78 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/WFc2Tm45WTVOR0ZMQ3hLeTJHUDRldz09"
+      },
+      {
+        "name": "Bride's Pool Nature Trail",
+        "length": "0.87 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/T2lic3MxTlFSUnVjZUQ2dGxOb25iQT09"
+      },
+      {
+        "name": "Aberdeen Nature Trail",
+        "length": "1.41 km",
+        "difficulty": "Easy",
+        "station": "Peak Road Gas Station",
+        "distance": "2.54 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/UUVxMEg3eGVJSFpjbHdVQWtoOVdrQT09"
+      },
+      {
+        "name": "Fung Hang Family Walk",
+        "length": "1.69 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/RDBrZUgxZm82eGlYWW5saS9zSDBWQT09"
+      },
+      {
+        "name": "Pak Tam Chung Family Walk",
+        "length": "1.4 km",
+        "difficulty": "Easy",
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "0.26 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dDFXTTZ2TTBxWGVpd3ZKajdFRUNzZz09"
+      },
+      {
+        "name": "Lai Chi Wo Nature Trail",
+        "length": "1.08 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/NHJCWmlmZFNNcWRVVWVTYVBJZVh1UT09"
+      },
+      {
+        "name": "Ma Shi Chau Nature Trail",
+        "length": "1.59 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/MGRDbkwxQmtSSzV3OUliRlRhWE5DUT09"
+      },
+      {
+        "name": "Hok Tau Reservoir Family Walk",
+        "length": "2.16 km",
+        "difficulty": "Easy",
+        "station": "Hok Tau Wai",
+        "distance": "1.67 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/UHkzMDc1SzQzSHoyK09neFRTNTRTUT09"
+      },
+      {
+        "name": "Ho Pui Reservoir Family Walk",
+        "length": "2.12 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/SnNRa3lmM0U4NTVScG5uMG45Qktsdz09"
+      },
+      {
+        "name": "Sheung Yiu Family Walk",
+        "length": "1.77 km",
+        "difficulty": "Easy",
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "1.4 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/LzJZUFdmR0thSHgwV0xPSElFbjVBQT09"
+      },
+      {
+        "name": "Hung Mui Kuk Nature Trail",
+        "length": "1.25 km",
+        "difficulty": "Easy",
+        "station": "Sha Tin Wai",
+        "distance": "5.18 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/YVpWWkg5S0gzMFJrWmZaSWVDWHZJZz09"
+      },
+      {
+        "name": "Kam Shan Family Walk",
+        "length": "1.27 km",
+        "difficulty": "Easy",
+        "station": "The Apex",
+        "distance": "3.37 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/VGZRNVlyYTdoR2l4cXB2TTRSRWpsQT09"
+      },
+      {
+        "name": "Kowloon Reception Reservoir Jogging Trail",
+        "length": "1.72 km",
+        "difficulty": "Easy",
+        "station": "Sheung Kwai Chung Gas Station",
+        "distance": "2.61 km",
+        "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+      },
+      {
+        "name": "Aberdeen Fitness Trail",
+        "length": "2.07 km",
+        "difficulty": "Moderate",
+        "station": "Peak Road Gas Station",
+        "distance": "2.54 km",
+        "website": "http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_fitjog/cou_vis_fitjog.html"
+      },
+      {
+        "name": "Pak Tam Country Trail",
+        "length": "1.94 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/SUYvb0pkOWZMdWFTak5BWWJvK3RLQT09"
+      },
+      {
+        "name": "Wong Shek Family Walk",
+        "length": "1.91 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dVVzSndDcTNlMlpYcFgveHArcGxlZz09"
+      },
+      {
+        "name": "Tei Tong Tsai Country Trail",
+        "length": "1.95 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/VTAxcjA3Sks4RGorOUdwZzRRbVBFdz09"
+      },
+      {
+        "name": "Sharp Island Country Trail",
+        "length": "1.89 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/ZnovL1lLVDZuRUxZR3JhWlNidkZzQT09"
+      },
+      {
+        "name": "High Island Geo Trail - East Dam Section",
+        "length": "1.4 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/ZFNQcUI3R0toMzhFWHAwbUdQNXBwZz09"
+      },
+      {
+        "name": "Pak Tam Chung Nature Trail",
+        "length": "0.94 km",
+        "difficulty": "Easy",
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "0.46 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/akp1K09abERSMDBzaGZFWDZQTkxMZz09"
+      },
+      {
+        "name": "Kam Shan Tree Walk",
+        "length": "0.86 km",
+        "difficulty": "Easy",
+        "station": "Sheung Kwai Chung Gas Station",
+        "distance": "2.61 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/c0RsOFZwREtEUGlqK050bVY0dys1dz09"
+      },
+      {
+        "name": "Pineapple Dam Nature Trail",
+        "length": "0.84 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/dUNQblk0eTArL1RqVWVFWForbytaZz09"
+      },
+      {
+        "name": "Tai Mo Shan Family Walk",
+        "length": "0.57 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/OUpMbkhjSTJxM05tM3VZcGFXZTZwdz09"
+      },
+      {
+        "name": "Pak Tam Chung Wheel Chair Trail",
+        "length": "0.61 km",
+        "difficulty": null,
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "0.08 km",
+        "website": null
+      },
+      {
+        "name": "Pak Tam Chung Hiking Practice Trail",
+        "length": "0.29 km",
+        "difficulty": null,
+        "station": "Pak Tam Chung Bus Terminus",
+        "distance": "0.24 km",
+        "website": null
+      },
+      {
+        "name": "Wisdom Path",
+        "length": "0.15 km",
+        "difficulty": null,
+        "station": "None",
+        "distance": "None km",
+        "website": null
+      },
+      {
+        "name": "Nai Chung Tree Walk",
+        "length": "0.2 km",
+        "difficulty": "Easy",
+        "station": "MTR Wu Kai Sha Station",
+        "distance": "2.02 km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/V3JLaVN0VWZ2T1lteUZmQlp2L1ZoQT09"
+      },
+      {
+        "name": "Chuen Lung Family Walk",
+        "length": "0.46 km",
+        "difficulty": "Easy",
+        "station": "None",
+        "distance": "None km",
+        "website": "https://www.hiking.gov.hk/trail/info/id/RVJobWpURjlCUGU4VFB6bDdhYXl5UT09"
+      }
     ]
   },
-  "timestamp": 1745291411.143639
+  "timestamp": 1745297801.733147
 }
