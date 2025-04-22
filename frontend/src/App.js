@@ -199,30 +199,30 @@ const renderWelcomeSection = () => {
             </div>
           </div>
           
-          <div className="bg-gray-50 p-4 rounded-lg border border-gray-100 mt-5">
-            <h3 className="text-gray-800 font-medium mb-3 text-base">Try searching for:</h3>
+          <div className="bg-gray-50 p-3 rounded-lg border border-gray-100 mt-4">
+            <h3 className="text-gray-800 font-medium mb-2 text-base">Try searching for:</h3>
             <div className="flex flex-wrap gap-2">
               <button 
                 onClick={() => setUserPreference("Easy hikes near MTR")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-sm"
               >
                 Easy hikes near MTR
               </button>
               <button 
                 onClick={() => setUserPreference("Family friendly trails")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-sm"
               >
                 Family friendly trails
               </button>
               <button 
                 onClick={() => setUserPreference("Challenging hikes")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-sm"
               >
                 Challenging hikes
               </button>
               <button 
                 onClick={() => setUserPreference("Short trails with views")}
-                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 rounded-full text-base"
+                className="bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-1 rounded-full text-sm"
               >
                 Short trails with views
               </button>
@@ -266,7 +266,14 @@ const renderWelcomeSection = () => {
             <div className="flex items-center bg-gray-100 rounded-full p-2 mb-4">
               <Search className="text-gray-500 ml-2" size={20} />
               <input 
-                className="flex-grow bg-transparent outline-none pl-3 text-gray-800"
+                className="flex-grow bg-transparent outline-none pl-3 text-gray-800 appearance-none border-none focus:ring-0"
+                style={{
+                  WebkitAppearance: "none",
+                  MozAppearance: "none",
+                  appearance: "none",
+                  boxShadow: "none",
+                  background: "transparent"
+                }}
                 placeholder="Describe your ideal hike..."
                 value={userPreference}
                 onChange={(e) => setUserPreference(e.target.value)}
